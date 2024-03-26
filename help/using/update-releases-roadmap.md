@@ -2,10 +2,10 @@
 title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: dfad170db445a5bcbb9e1abc65f297a1cd4f928e
+source-git-commit: 7fe057f759a0ae328957efd6d425c6a2d37ef1d1
 workflow-type: tm+mt
 source-wordcount: '536'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -65,7 +65,7 @@ As atualizações de produtos, em termos de novos recursos, melhorias e correç�
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-As atualizações de produto do [!DNL Experience Manager] 6.5 são fornecidas por service packs trimestrais. Eles incluem novos recursos, melhorias e correções de bugs. Para obter mais detalhes sobre o service pack mais recente, consulte Notas de versão do [[!DNL Experience Manager] 6.5 service pack](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/release-notes.html?lang=pt-BR).
+As atualizações de produto do [!DNL Experience Manager] 6.5 são fornecidas por service packs trimestrais. Eles incluem novos recursos, melhorias e correções de bugs. Para obter mais detalhes sobre o service pack mais recente, consulte Notas de versão do [[!DNL Experience Manager] 6.5 service pack](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Lançamento | Versão | Tipo | Programação | Status |
 |---|---|---|---|---|
