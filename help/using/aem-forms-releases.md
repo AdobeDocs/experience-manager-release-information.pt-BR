@@ -2,10 +2,11 @@
 title: Versões do AEM Forms
 description: Contém a lista de todas as versões do AEM Forms e pacotes correspondentes
 contentOwner: khsingh
-source-git-commit: 8fdf5f777ed4c003f9ddb396d2568b0f8a3d84d7
-workflow-type: tm+mt
+exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
+source-git-commit: 70cc342f9d2a72f11a625464fa2a83d36d8250a8
+workflow-type: ht
 source-wordcount: '2899'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -40,11 +41,11 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
   </tr>
   <tr>
     <td>8 de março de 2024</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html#forms-6520">Pacote complementar do Forms do Pacote de serviços 20 do AEM Forms para AEM 6.5.20.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=pt-BR#forms-6520">Pacote complementar do Forms do Pacote de serviços 20 do AEM Forms para AEM 6.5.20.0</a></td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=pt-BR">AEM 6.5.20.0</a></td>
     <td>
      <ul>
-     <br><b>Instaladores de correção do AEM Forms no OSGi</b></br>
+     <br><b>Instaladores de correções do AEM Forms no OSGi</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/ADOBE-AEMFD-LINUX-PKG-6.0.1192.zip">Pacote complementar do AEM Forms para Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/ADOBE-AEMFD-WIN-PKG-6.0.1192.zip">Pacote complementar do AEM Forms para Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/ADOBE-AEMFD-OSX-PKG-6.0.1192.zip">Pacote complementar do AEM Forms para Mac OS X [2]</a></li>
@@ -58,14 +59,14 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
       <br><b>Instalador do Workbench</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20240229-1-12345/workbench_dvd.zip">Instalador do AEM Forms Workbench</a> </li>
       <br><b>SDK</b></br>
-      <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk/6.0.1192">AEM Forms Client SDK</a> </li>
-      <br><b>Instaladores de patch do Forms Designer de 32 bits</b></br>
+      <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk/6.0.1192">SDK do cliente do AEM Forms</a> </li>
+      <br><b>Instaladores de correções do Forms Designer de 32 bits</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20/Designer6.5.0_English_Cumulative_QF.msp">Instalador do idioma inglês</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20/Designer6.5.0_French_Cumulative_QF.msp">Instalador do idioma francês</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20/Designer6.5.0_German_Cumulative_QF.msp">Instalador do idioma alemão</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20/Designer6.5.0_Japanese_Cumulative_QF.msp">Instalador do idioma japonês</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20/Designer6.5.0_Spanish_Cumulative_QF.msp">Instalador do idioma espanhol</a> </li>
-      <br><b>Instaladores de patch do Forms Designer de 64 bits</b></br>
+      <br><b>Instaladores de correções do Forms Designer de 64 bits</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20_x64/Designer6.5.0_English_Cumulative_QF.msp">Instalador do idioma inglês</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20_x64/Designer6.5.0_French_Cumulative_QF.msp">Instalador do idioma francês</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20_x64/Designer6.5.0_German_Cumulative_QF.msp">Instalador do idioma alemão</a> </li>
@@ -73,15 +74,15 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">Instalador do idioma espanhol</a> </li>
       </ul> 
       </td>
-    <td><p>Instalador do patch do AEM Forms JEE: 6-5-0-0083 <br/><p>Pacotes complementares do AEM Forms: 6.0.1192 </p></td>
+    <td><p>Instalador de correção do AEM Forms no JEE: 6-5-0-0083 <br/><p>Pacotes complementares do AEM Forms: 6.0.1192 </p></td>
    </tr>
   <tr>
     <td>15 de dezembro de 2023</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html#forms-6519"> (AEM Forms somente no JEE) AEM 6.5 Forms Service Pack 19.1 (6.5.19.1)</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=pt-BR#forms-6519"> (AEM Forms somente no JEE) Pacote de serviços 19.1 (6.5.19.1) do AEM Forms 6.5</a></td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=pt-BR">AEM 6.5.19.0</a></td>
     <td>
      <ul>
-      <br><b>Instaladores de correção do AEM Forms no JEE</b></br>
+      <br><b>Instaladores de correções do AEM Forms no JEE</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0079/jboss/win/adobe-aem-forms-jee-service-pack-6.5.19.1-windows-jboss.zip">JBoss® Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0079/jboss/linux/adobe-aem-forms-jee-service-pack-6.5.19.1-linux-jboss.gz">JBoss® Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0079/weblogic/win/adobe-aem-forms-jee-service-pack-6.5.19.1-windows-weblogic.zip">WebLogic Windows</a></li>
@@ -89,15 +90,15 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0079/websphere/win/adobe-aem-forms-jee-service-pack-6.5.19.1-windows-websphere.zip">WebSphere® Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0079/websphere/linux/adobe-aem-forms-jee-service-pack-6.5.19.1-linux-websphere.gz">WebSphere® Linux</a></li> </ul> 
       </td>
-    <td><p>Instalador de correção do AEM Forms JEE: aemforms-6-5-0-0079 <br/></td>
+    <td><p>Instalador de correção do AEM Forms no JEE: aemforms-6-5-0-0079 <br/></td>
    </tr>
   <tr>
     <td>8 de dezembro de 2023</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html#forms-6519">Pacote complementar do Forms do Pacote de serviços 19 do AEM Forms para AEM 6.5.19.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=pt-BR#forms-6519">Pacote complementar do Forms do Pacote de serviços 19 do AEM Forms para AEM 6.5.19.0</a></td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=pt-BR">AEM 6.5.19.0</a></td>
     <td>
      <ul>
-     <br><b>Instaladores de correção do AEM Forms no OSGi</b></br>
+     <br><b>Instaladores de correções do AEM Forms no OSGi</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.1120.zip">Pacote complementar do AEM Forms para Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.1120.zip">Pacote complementar do AEM Forms para Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.1120.zip">Pacote complementar do AEM Forms para Mac OS X [2]</a></li>
@@ -111,8 +112,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
       <br><b>Instalador do Workbench</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20231119-1-12345/Workbench_DVD.zip">Instalador do AEM Forms Workbench</a> </li>
       <br><b>SDK</b></br>
-      <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.1120/">AEM Forms Client SDK</a> </li>
-      <br><b>Instaladores de patches do Forms Designer de 32 bits</b></br>
+      <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.1120/">SDK do cliente do AEM Forms</a> </li>
+      <br><b>Instaladores de correções do Forms Designer de 32 bits</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp19/Designer6.5.0_English_Cumulative_QF.msp">Instalador do idioma inglês</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp19/Designer6.5.0_French_Cumulative_QF.msp">Instalador do idioma francês</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp19/Designer6.5.0_German_Cumulative_QF.msp">Instalador do idioma alemão</a> </li>
@@ -126,7 +127,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp19_x64/aemforms_designer_6_5_0_wws_win.zip">Instalador do idioma espanhol</a> </li>
       </ul> 
       </td>
-    <td><p>Instalador de correção do AEM Forms JEE: aemforms-6-5-0-0078 <br/><p>Pacotes complementares do AEM Forms: 6.0.1120 </p></td>
+    <td><p>Instalador de correção do AEM Forms no JEE: aemforms-6-5-0-0078 <br/><p>Pacotes complementares do AEM Forms: 6.0.1120 </p></td>
    </tr>
    <tr>
     <td>31 de agosto de 2023</td>
@@ -156,8 +157,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
       <br><b>Instalador do Workbench</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20230828-1-12345/Workbench_DVD.zip">Instalador do AEM Forms Workbench</a> </li>
        <br><b>SDK</b></br>
-      <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.1016/">AEM Forms Client SDK</a> </li>
-      <br><b>Instalador do Patch do Forms Designer</b></br>
+      <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.1016/">SDK do cliente do AEM Forms</a> </li>
+      <br><b>Instalador de correção do Forms Designer</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp18/Designer6.5.0_English_Cumulative_QF.msp">Instalador do idioma inglês</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp18/Designer6.5.0_French_Cumulative_QF.msp">Instalador do idioma francês</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp18/Designer6.5.0_German_Cumulative_QF.msp">Instalador do idioma alemão</a> </li>
@@ -170,7 +171,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
    <tr>
     <td>1º de junho de 2023</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html#forms-6517">Pacote complementar de formulários do Pacote de serviços 17 do AEM Forms para AEM 6.5.17.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=pt-BR#forms-6517">Pacote complementar de formulários do Pacote de serviços 17 do AEM Forms para AEM 6.5.17.0</a></td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=pt-BR">AEM 6.5.17.0</a></td>
     <td>
      <ul>
@@ -202,8 +203,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
    <tr>
     <td>2 de março de 2023</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-16.html#forms-6516">Pacote complementar de formulários do Pacote de serviços 16 do AEM Forms para AEM 6.5.16.0</a></td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-16.html">AEM 6.5.16.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-16.html?lang=pt-BR#forms-6516">Pacote complementar de formulários do Pacote de serviços 16 do AEM Forms para AEM 6.5.16.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-16.html?lang=pt-BR">AEM 6.5.16.0</a></td>
     <td>
      <ul>
      <br><b>Instaladores de correção do AEM Forms no OSGi</b></br>
@@ -234,8 +235,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
    <tr>
     <td>1º de dezembro de 2022</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-15.html#forms-6515">Pacote complementar de formulários do Pacote de serviços 15 do AEM Forms para AEM 6.5.15.0</a></td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-15.html">AEM 6.5.15.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-15.html?lang=pt-BR#forms-6515">Pacote complementar de formulários do Pacote de serviços 15 do AEM Forms para AEM 6.5.15.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-15.html?lang=pt-BR">AEM 6.5.15.0</a></td>
     <td>
      <ul>
      <br><b>Instaladores de correção do AEM Forms no OSGi</b></br>
@@ -266,8 +267,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
    <tr>
     <td>5 de setembro de 2022</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-14.html#forms-6514">Pacote complementar de formulários do Pacote de serviços 14 do AEM Forms para AEM 6.5.14.0</a></td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-14.html">AEM 6.5.14.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-14.html?lang=pt-BR#forms-6514">Pacote complementar de formulários do Pacote de serviços 14 do AEM Forms para AEM 6.5.14.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-14.html?lang=pt-BR">AEM 6.5.14.0</a></td>
     <td>
      <ul>
      <br><b>Instaladores de correção do AEM Forms no OSGi</b></br>
@@ -294,8 +295,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
    <tr>
     <td>2 de junho de 2022</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-13.html#forms-65130">Pacote complementar de formulários do Pacote de serviços 13 do AEM Forms para AEM 6.5.13.0</a></td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-13.html">AEM 6.5.13.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-13.html?lang=pt-BR#forms-65130">Pacote complementar de formulários do Pacote de serviços 13 do AEM Forms para AEM 6.5.13.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-13.html?lang=pt-BR">AEM 6.5.13.0</a></td>
     <td>
      <ul>
      <br><b>Instaladores de correção do AEM Forms no OSGi</b></br>
@@ -322,8 +323,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
    <tr>
     <td>3 de março de 2022</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-12.html#forms-65120">Pacote complementar de formulários do Pacote de serviços 12 do AEM Forms para AEM 6.5.12.0</a></td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-12.html">AEM 6.5.12.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-12.html?lang=pt-BR#forms-65120">Pacote complementar de formulários do Pacote de serviços 12 do AEM Forms para AEM 6.5.12.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-12.html?lang=pt-BR">AEM 6.5.12.0</a></td>
     <td>
      <ul>
      <br><b>Instaladores de correção do AEM Forms no OSGi</b></br>
@@ -358,8 +359,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
    <tr>
     <td>20 de dezembro de 2021</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-11.html#forms-65110">Pacote complementar de formulários do Pacote de serviços 11 do AEM Forms para AEM 6.5.11.1</a></td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-11.html">AEM 6.5.11.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-11.html?lang=pt-BR#forms-65110">Pacote complementar de formulários do Pacote de serviços 11 do AEM Forms para AEM 6.5.11.1</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-11.html?lang=pt-BR">AEM 6.5.11.0</a></td>
     <td>
      <ul>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.566-NPR-37836-B0001.zip">Pacote complementar do AEM Forms para Linux</a></li>
@@ -379,8 +380,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
    <tr>
     <td>3 de dezembro de 2021</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-11.html#forms-65110">Pacote complementar de formulários do Pacote de serviços 11 do AEM Forms para AEM 6.5.11.0</a></td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-11.html">AEM 6.5.11.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-11.html?lang=pt-BR#forms-65110">Pacote complementar de formulários do Pacote de serviços 11 do AEM Forms para AEM 6.5.11.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-11.html?lang=pt-BR">AEM 6.5.11.0</a></td>
     <td>
      <ul>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.566.zip">Pacote complementar do AEM Forms para Linux</a></li>
@@ -405,8 +406,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    <tr>
    <tr>
     <td>2 de setembro de 2021</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-10.html#forms-65100">Pacote complementar de formulários do Pacote de serviços 10 do AEM Forms para AEM 6.5.10.0</a></td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-10.html">AEM 6.5.10.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-10.html?lang=pt-BR#forms-65100">Pacote complementar de formulários do Pacote de serviços 10 do AEM Forms para AEM 6.5.10.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-10.html?lang=pt-BR">AEM 6.5.10.0</a></td>
     <td>
      <ul>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.490.zip">Pacote complementar do AEM Forms para Linux</a></li>
@@ -432,8 +433,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
    <tr>
     <td>3 de junho de 2021</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-9.html#forms-6590">Pacote complementar de formulários do Pacote de serviços 9 do AEM Forms para AEM 6.5.9.0</a></td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-9.html">AEM 6.5.9.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-9.html?lang=pt-BR#forms-6590">Pacote complementar de formulários do Pacote de serviços 9 do AEM Forms para AEM 6.5.9.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-9.html?lang=pt-BR">AEM 6.5.9.0</a></td>
     <td>
      <ul>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.434.zip">Pacote complementar do AEM Forms para Linux</a></li>
@@ -458,8 +459,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
    <tr>
     <td>18 de março de 2021</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-8.html#forms-6580">Pacote complementar de formulários do Pacote de serviços 8 do AEM Forms para AEM 6.5.8.0</a></td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-8.html">AEM 6.5.8.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-8.html?lang=pt-BR#forms-6580">Pacote complementar de formulários do Pacote de serviços 8 do AEM Forms para AEM 6.5.8.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-8.html?lang=pt-BR">AEM 6.5.8.0</a></td>
     <td>
      <ul>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.334.zip">Pacote complementar do AEM Forms para Linux</a></li>
@@ -485,8 +486,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    <tr>
    <tr>
     <td>3 de dezembro de 2020</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-7.html#forms-6570">Pacote complementar de formulários do Pacote de serviços 7 do AEM Forms para AEM 6.5.7.0</a></td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-7.html">AEM 6.5.7.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-7.html?lang=pt-BR#forms-6570">Pacote complementar de formulários do Pacote de serviços 7 do AEM Forms para AEM 6.5.7.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-7.html?lang=pt-BR">AEM 6.5.7.0</a></td>
     <td>
      <ul>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.234.zip">Pacote complementar do AEM Forms para Linux</a></li>
@@ -511,8 +512,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
    <tr>
     <td>3 de setembro de 2020</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-6.html#forms-6560">Pacote complementar de formulários do Pacote de serviços 6 do AEM Forms para AEM 6.5.6.0</a></td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-6.html">AEM 6.5.6.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-6.html?lang=pt-BR#forms-6560">Pacote complementar de formulários do Pacote de serviços 6 do AEM Forms para AEM 6.5.6.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-6.html?lang=pt-BR">AEM 6.5.6.0</a></td>
     <td>
      <ul>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.192.zip">Pacote complementar do AEM Forms para Linux</a></li>
@@ -525,8 +526,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
    <tr>
     <td>4 de junho de 2020</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-5.html#forms-6550">Pacote complementar de formulários do Pacote de serviços 5 do AEM Forms para AEM 6.5.5.0</a></td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-5.html">AEM 6.5.5.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-5.html?lang=pt-BR#forms-6550">Pacote complementar de formulários do Pacote de serviços 5 do AEM Forms para AEM 6.5.5.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-5.html?lang=pt-BR">AEM 6.5.5.0</a></td>
     <td>
      <ul>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.5.0-LX.zip">Pacote complementar do AEM Forms para Linux</a></li>
@@ -539,8 +540,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
    <tr>
     <td>5 de março de 2020</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-4.html#forms-6540">Pacote complementar de formulários do Pacote de serviços 4 do AEM Forms para AEM 6.5.4.0</a></td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-4.html">AEM 6.5.4.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-4.html?lang=pt-BR#forms-6540">Pacote complementar de formulários do Pacote de serviços 4 do AEM Forms para AEM 6.5.4.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-4.html?lang=pt-BR">AEM 6.5.4.0</a></td>
     <td>
      <ul>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.4.0-LX.zip">Pacote complementar do AEM Forms para Linux</a></li>
@@ -555,8 +556,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
    <tr>
     <td>12 de dezembro de 2019</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-3.html#forms-6530">Pacote complementar de formulários do Pacote de serviços 3 do AEM Forms para AEM 6.5.3.0</a></td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-3.html">AEM 6.5.3.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-3.html?lang=pt-BR#forms-6530">Pacote complementar de formulários do Pacote de serviços 3 do AEM Forms para AEM 6.5.3.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-3.html?lang=pt-BR">AEM 6.5.3.0</a></td>
     <td>
      <ul>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.3.0-LX.zip">Pacote complementar do AEM Forms para Linux</a></li>
@@ -571,8 +572,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
    <tr>
     <td>19 de setembro de 2019</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-2.html#forms-6520">Pacote complementar de formulários do Pacote de serviços 2 do AEM Forms para AEM 6.5.2.0</a></td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-2.html">AEM 6.5.2.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-2.html?lang=pt-BR#forms-6520">Pacote complementar de formulários do Pacote de serviços 2 do AEM Forms para AEM 6.5.2.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-2.html?lang=pt-BR">AEM 6.5.2.0</a></td>
     <td>
      <ul>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.2.0-LX.zip">Pacote complementar do AEM Forms para Linux</a></li>
@@ -587,8 +588,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
    <tr>
     <td>3 de julho de 2019</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-1.html#forms">Pacote complementar de formulários do Pacote de serviços 1 do AEM Forms para AEM 6.5.1.0</a></td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-1.html">AEM 6.5.1.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-1.html?lang=pt-BR#forms">Pacote complementar de formulários do Pacote de serviços 1 do AEM Forms para AEM 6.5.1.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-1.html?lang=pt-BR">AEM 6.5.1.0</a></td>
     <td>
      <ul>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-Forms-6.5.1.0-LX" target="_blank">Pacote complementar do AEM Forms para Linux</a></li>
