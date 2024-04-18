@@ -1,9 +1,8 @@
 ---
-source-git-commit: 3a7b4464bff5b4186a21968fe5b2497cb8198100
-workflow-type: ht
-translation-type: ht
-source-wordcount: '73'
-ht-degree: 100%
+source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
+workflow-type: tm+mt
+source-wordcount: '72'
+ht-degree: 75%
 
 ---
 # Informações da versão do Adobe Experience Manager
@@ -14,5 +13,4 @@ Suas contribuições para a documentação são bem-vindas. Consulte os seguinte
 
 * [contributing.md](contributing.md) Para obter uma visão geral de como contribuir para a documentação.
 * [guidelines.md](guidelines.md) Para obter uma visão geral sobre o que é esperado das contribuições e como compor suas contribuições de documentação.
-* [code-of-conduct.md](code-of-conduct.md) Para obter uma visão geral dos padrões de comportamento que esperamos enquanto você contribui para este projeto de documentação.
-
+* [code-of-conduct.md](code-of-conduct.md) Para obter uma visão geral dos padrões de comportamento que o Adobe espera enquanto você contribui para esse projeto de documentação.

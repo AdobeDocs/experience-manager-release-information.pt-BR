@@ -1,7 +1,7 @@
 ---
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '423'
 ht-degree: 62%
 
 ---
@@ -9,7 +9,7 @@ ht-degree: 62%
 
 ## Adobe Pledge
 
-Com o intuito de promover um ambiente aberto e acolhedor, os contribuidores e mantenedores se comprometem a fazer da participação no projeto e na comunidade uma experiência livre de assédio para todos, independentemente de idade, porte físico, deficiência, etnia, identidade e expressão de gênero, nível de experiência, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexual.
+Com o intuito de promover um ambiente aberto e acolhedor, os colaboradores e mantenedores se comprometem a tornar a participação no projeto e na comunidade uma experiência livre de assédio para todos. Essa promessa é independente de idade, biotipo, deficiência, etnia, identidade e expressão de gênero, nível de experiência, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexual.
 
 ## Padrões do Adobe
 
@@ -33,7 +33,7 @@ Exemplos de comportamento inaceitável dos participantes incluem:
 
 Os mantenedores dos projetos são responsáveis por esclarecer as normas de comportamento aceitável e por tomar medidas corretivas adequadas e equilibradas em resposta a quaisquer casos de comportamento inaceitável.
 
-Os mantenedores dos projetos têm o direito e a responsabilidade de remover, editar ou rejeitar comentários, confirmações, código, edições da wiki, problemas e outras contribuições que não estejam alinhadas a este Código de conduta. Ou proibir temporária ou permanentemente qualquer colaborador por outros comportamentos que considerem inadequados, ameaçadores, ofensivos ou prejudiciais.
+Os mantenedores dos projetos têm o direito e a responsabilidade de remover, editar ou rejeitar comentários, confirmações, código, edições de wiki e problemas que não estejam alinhados a este Código de conduta. Ou proibir temporária ou permanentemente qualquer colaborador por outros comportamentos que considerem inadequados, ameaçadores, ofensivos ou prejudiciais.
 
 ## Escopo
 
