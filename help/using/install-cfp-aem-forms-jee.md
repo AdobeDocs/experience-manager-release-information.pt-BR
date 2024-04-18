@@ -1,12 +1,12 @@
 ---
-title: Instalação de Cumulative Fix Packs no AEM Forms JEE
-description: Resumo das etapas para instalar e configurar o Cumulative Fix Pack (CFP) no AEM Forms JEE.
+title: Instalação de pacotes de correções cumulativos no AEM Forms JEE
+description: Resumo das etapas para instalar e configurar o Pacote de correções cumulativo (CFP) no AEM Forms JEE.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '909'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Para instalar o pacote de correções cumulativo no AEM 6.3 [!DNL Forms JEE], ex
 
 O pacote do AEM [!DNL  Forms JEE] (aemfd-jee-bundles-package-6.3CFP1; versão 1.0.2) fornece ao usuário do [!DNL Forms] no AEM [!DNL Forms JEE] os mesmos direitos e recursos encontrados no AEM [!DNL Forms OSGi]. Verifique os pacotes instalados no Gerenciador de pacotes e instale o pacote se ele ainda não estiver instalado.
 
-### Mais instruções para o CQ-4208044 {#additional-instructions-for-cq}
+### Instruções adicionais para o CQ-4208044 {#additional-instructions-for-cq}
 
 Se estiver utilizando o servidor do AEM 6.3 [!DNL Forms JEE] com o banco de dados do Oracle, defina as seguintes configurações após a implantação do CFP1, ou seja, depois que o Gerenciador de configurações for executado. Essa configuração é necessária para sincronizar usuários, grupos e membros de grupo quando a sincronização do domínio corporativo for executada.
 
@@ -36,7 +36,7 @@ Se estiver utilizando o servidor do AEM 6.3 [!DNL Forms JEE] com o banco de dado
 
    &lt;entry key=&quot;groupMemberDBQueryBatchSize&quot; value=&quot;999&quot;/>
 
-1. Importe o arquivo modificado novamente e execute a sincronização novamente.
+1. Importe o arquivo modificado e execute novamente a sincronização.
 
 ## Instalar o CFP no AEM 6.2 [!DNL  Forms JEE] {#install-cfp-on-aem-62-forms-jee}
 
@@ -100,8 +100,8 @@ Use os seguintes comandos para definir o tempo limite no nível do componente:
 
    Navegue até o diretório correspondente na mídia ou pasta de instalação no disco rígido em que o instalador foi copiado:
 
-   * (`Windows 32-bit`): `Disk1\InstData\Windows\VM`
-   * (`Windows 64-bit`): `Disk1\InstData\Windows_64bit\VM`
+   * (`Windows 32-bit`): `Disk1\InstData\Windows\VM`
+   * (`Windows 64-bit`): `Disk1\InstData\Windows_64bit\VM`
 
    Em seguida, clique duas vezes no arquivo:
 
@@ -126,7 +126,7 @@ Use os seguintes comandos para definir o tempo limite no nível do componente:
    O assistente de instalação é iniciado para fornecer orientação.
 
 1. No painel de Introdução, clique em **[!UICONTROL Próximo]**.
-1. Na tela Escolher pasta de instalação, verifique se o local padrão exibido está correto para sua instalação existente. Ou clique em **[!UICONTROL Procurar]** para selecionar a pasta alternativa em que AEM [!DNL Forms] está instalado e clique em **[!UICONTROL Próxima]**.
+1. Na tela Escolher pasta de instalação, verifique se o local padrão da instalação existente está correto. Ou clique em **[!UICONTROL Procurar]** para selecionar a pasta alternativa em que o AEM [!DNL Forms] está instalado e clique em **[!UICONTROL Próximo]**.
 1. Leia as informações no Resumo de correção rápida e clique em **[!UICONTROL Próximo]**.
 1. Leia as informações no Resumo de pré-instalação e clique em **[!UICONTROL Instalar]**.
 1. Quando a instalação estiver concluída, clique em **[!UICONTROL Próximo]** para aplicar as atualizações de correção rápida aos arquivos instalados.
