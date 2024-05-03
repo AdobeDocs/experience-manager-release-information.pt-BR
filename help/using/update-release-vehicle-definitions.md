@@ -1,12 +1,12 @@
 ---
 title: Definições dos veículos de lançamentos de atualizações
-description: Este artigo detalha os vários tipos de [!DNL Experience Manager] versões do, incluindo versões completas, pacotes de recursos e service packs.
+description: Este artigo detalha os vários tipos de versões do  [!DNL Experience Manager] , incluindo versões completas, pacotes de recursos e pacotes de serviços.
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '731'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -77,4 +77,4 @@ Este documento inclui detalhes sobre os vários tipos de versões do [!DNL Adobe
 | Disponibilidade e instalação | <ul> <li>Fornecido pelos Service Packs </li> <li> Disponível na Distribuição de software. Os clientes aceitam os Termos e condições do [!DNL Adobe's] por meio da Distribuição de software. </li> </ul> |
 | Nível de teste | Os pacotes de recursos de Disponibilidade geral são validados pelo Controle de qualidade. |
 
-* 1: as correções do Oak não são fornecidas como um hotfix individual. No entanto, elas estão incluídas no hot fix do Cumulative Oak subsequente. Se necessário, um diagnóstico criado sobre o COFP mais recente pode ser disponibilizado. A condição prévia é que o cliente tenha o COFP mais recente em execução. As builds de diagnóstico somente fornecem o mesmo nível de controle de qualidade que um hot fix. Portanto, elas não fornecem o mesmo nível de controle de qualidade de um pacote de correções cumulativo, um pacote de serviços ou uma versão do produto. A correção final é fornecida com o próximo CFP.
+* 1: as correções do Oak não são fornecidas como um hotfix individual. No entanto, elas estão incluídas no hot fix do Cumulative Oak subsequente. Se necessário, uma build de diagnóstico, além do COFP mais recente, pode ser disponibilizada. A condição prévia é que o cliente tenha o COFP mais recente em execução. As builds de diagnóstico somente fornecem o mesmo nível de controle de qualidade que um hot fix. Portanto, elas não fornecem o mesmo nível de controle de qualidade de um pacote de correções cumulativo, um pacote de serviços ou uma versão do produto. A correção final é fornecida com o próximo CFP.

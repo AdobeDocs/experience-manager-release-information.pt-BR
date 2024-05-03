@@ -4,9 +4,9 @@ description: Saiba mais sobre alterações e atualizações importantes na docum
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1228'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -175,7 +175,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   </tr>
   <tr>
    <td>31 de maio de 2019</td> 
-   <td>Integração entre AEM e Adobe Commerce </td> 
+   <td>Integração entre o AEM e o Adobe Commerce </td> 
    <td><a href="https://experienceleague.adobe.com/br/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/magento">Estrutura de integração de comércio</a>.</td> 
   </tr>
   <tr>
@@ -230,7 +230,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>8 de abril de 2019</td> 
    <td>AEM Assets</td> 
-   <td>A funcionalidade de compartilhamento de pastas foi descontinuada. Consulte <a href="https://experienceleague.adobe.com/br/docs/experience-manager-65/content/release-notes/release-notes" target="_blank">práticas recomendadas de compartilhamento de pastas</a>.</td> 
+   <td>A funcionalidade de compartilhamento de pastas foi descontinuada. Consulte <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/release-notes" target="_blank">práticas recomendadas de compartilhamento de pastas</a>.</td> 
    </tr>
  </tbody>
 </table>
