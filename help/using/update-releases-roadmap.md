@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: d7ac4ea6cc3e823eeb7e0cc3a582d115a74cf60b
 workflow-type: tm+mt
 source-wordcount: '488'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Versão de manutenção [15860](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860) | Atualização automática | 8 a 15 de abril de 2024 | Atualizado |
 | Versão de manutenção [15977](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-4-0#release-15977) | Atualização automática | 20 a 24 de abril de 2024 | Atualizado |
 | Lançamento de recurso [2024.4.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Ativação de recurso | 25 de abril de 2024 | Ativado |
-| Versão de manutenção [16145](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-5-0#release-16145) | Atualização automática | 6 a 8 de maio de 2024 | Target |
+| Versão de manutenção [16145](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-5-0#release-16145) | Atualização automática | 6 a 8 de maio de 2024 | Target |
 
 ### Versões posteriores {#upcoming}
 
