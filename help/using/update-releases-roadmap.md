@@ -2,10 +2,10 @@
 title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 78d9cb388a364e3b12e6cc22b8477c3069aba412
-workflow-type: ht
-source-wordcount: '488'
-ht-degree: 100%
+source-git-commit: 1a4767ed53a0560da426a3ff4ccc6eefefc03bab
+workflow-type: tm+mt
+source-wordcount: '487'
+ht-degree: 99%
 
 ---
 
@@ -45,7 +45,7 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
-| Versão de manutenção [16461](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 27 a 29 de maio de 2024 | Target |
+| Versão de manutenção [16461](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 27 de maio a 3 de junho de 2024 | Target |
 | Lançamento de recurso 2024.5.0 | Ativação de recurso | 30 de maio de 2024 | Target |
 | Versão de manutenção | Atualização automática | 10 a 12 de junho de 2024 | Target |
 | Versão de manutenção | Atualização automática | 24 a 26 de junho de 2024 | Target |
