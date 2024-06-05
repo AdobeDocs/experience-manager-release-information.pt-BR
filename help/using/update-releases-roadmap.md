@@ -3,9 +3,9 @@ title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: b8d32035318004de0646e47ec4289529616db564
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '468'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -39,18 +39,18 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
-| Versão de manutenção | Atualização automática | 10 a 12 de junho de 2024 | Target |
-| Versão de manutenção | Atualização automática | 24 a 26 de junho de 2024 | Target |
-| Lançamento de recurso 2024.6.0 | Ativação de recurso | 27 de junho de 2024 | Target |
-| Versão de manutenção | Atualização automática | 8 a 10 de julho de 2024 | Target |
-| Versão de manutenção | Atualização automática | 22-24 de julho de 2024 | Target |
-| Lançamento de recurso 2024.7.0 | Ativação de recurso | 25 de julho de 2024 | Target |
-| Versão de manutenção | Atualização automática | 5-7 de agosto de 2024 | Target |
-| Versão de manutenção | Atualização automática | 19-21 de agosto de 2024 | Target |
-| Lançamento de recurso 2024.8.0 | Ativação de recurso | sexta-feira, 29 de agosto de 2024 | Target |
-| Versão de manutenção | Atualização automática | 2-4 de setembro de 2024 | Target |
-| Versão de manutenção | Atualização automática | 16-18 de setembro de 2024 | Target |
-| Lançamento de recurso 2024.9.0 | Ativação de recurso | sexta-feira, 26 de setembro de 2024 | Target |
+| Versão de manutenção | Atualização automática | 10 a 12 de junho de 2024 | Meta |
+| Versão de manutenção | Atualização automática | 24 a 26 de junho de 2024 | Meta |
+| Lançamento de recurso 2024.6.0 | Ativação de recurso | 27 de junho de 2024 | Meta |
+| Versão de manutenção | Atualização automática | 8 a 10 de julho de 2024 | Meta |
+| Versão de manutenção | Atualização automática | 22 a 24 de julho de 2024 | Meta |
+| Lançamento de recurso 2024.7.0 | Ativação de recurso | 25 de julho de 2024 | Meta |
+| Versão de manutenção | Atualização automática | 5 a 7 de agosto de 2024 | Meta |
+| Versão de manutenção | Atualização automática | 19 a 21 de agosto de 2024 | Meta |
+| Lançamento de recurso 2024.8.0 | Ativação de recurso | 29 de agosto de 2024 | Meta |
+| Versão de manutenção | Atualização automática | 2 a 4 de setembro de 2024 | Meta |
+| Versão de manutenção | Atualização automática | 16 a 18 de setembro de 2024 | Meta |
+| Lançamento de recurso 2024.9.0 | Ativação de recurso | 26 de setembro de 2024 | Meta |
 
 ## [!DNL Experience Manager] no local e Managed Services {#aem-on-prem-managed-services}
 
@@ -66,9 +66,9 @@ As atualizações de produto do [!DNL Experience Manager] 6.5 são fornecidas po
 | [!DNL Experience Manager] 6.5 [Pacote de serviços 18](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/service-pack/6-5-18) | 6.5.18.0 | Pacote de serviços | 24 de agosto de 2023 | Ativado |
 | [!DNL Experience Manager] 6.5 [Pacote de serviços 19](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/service-pack/6-5-19) | 6.5.19.0 | Pacote de serviços | 30 de novembro de 2023 | Ativado |
 | [!DNL Experience Manager] 6.5 [Pacote de serviços 20](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.20.0 | Pacote de serviços | 22 de fevereiro de 2024 | Ativado |
-| [!DNL Experience Manager] 6.5 Pacote de serviços 21 | 6.5.21.0 | Pacote de serviços | sexta-feira, 6 de junho de 2024 | Target |
-| [!DNL Experience Manager] 6.5 Pacote de serviços 22 | 6.5.22.0 | Pacote de serviços | 22 de agosto de 2024 | Target |
-| [!DNL Experience Manager] 6.5 Pacote de serviços 23 | 6.5.23.0 | Pacote de serviços | 21 de novembro de 2024 | Target |
+| [!DNL Experience Manager] 6.5 Pacote de serviços 21 | 6.5.21.0 | Pacote de serviços | sexta-feira, 6 de junho de 2024 | Meta |
+| [!DNL Experience Manager] 6.5 Pacote de serviços 22 | 6.5.22.0 | Pacote de serviços | 22 de agosto de 2024 | Meta |
+| [!DNL Experience Manager] 6.5 Pacote de serviços 23 | 6.5.23.0 | Pacote de serviços | 21 de novembro de 2024 | Meta |
 
 >[!NOTE]
 >
