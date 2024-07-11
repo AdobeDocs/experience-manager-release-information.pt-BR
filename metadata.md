@@ -4,9 +4,9 @@ type: Documentation
 git-repo: https://github.com/AdobeDocs/experience-manager-release-information.pt-BR
 index: true
 recommendations: noDisplay
-source-git-commit: 193e6ce46e042cb01e0d7ff43e6364019ab1663f
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
 workflow-type: ht
-source-wordcount: '109'
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
@@ -23,5 +23,5 @@ O arquivo metadata.md inclui metadados de nível de repositório que passam para
 | solution-icon | Exibe o ícone da solução ao lado do título da solução. Ainda não implementado |
 | getting-started-url | Link para a página de introdução |
 | tutorials-url | Link para tutoriais em vídeo — tutoriais de ajuda ou tutoriais de KT |
-| mini-toc-levels | Calcula o número de níveis de cabeçalho exibidos no painel direito. O padrão é 2 |
+| mini-toc-levels | Determina o número de níveis de cabeçalho exibidos no painel direito. O padrão é 2 |
 | git-repo | Especifica o local do repositório principal para uso interno |
