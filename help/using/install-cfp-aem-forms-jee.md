@@ -1,12 +1,12 @@
 ---
 title: Instalação de pacotes de correções cumulativos no AEM Forms JEE
-description: Resumo das etapas para instalar e configurar o Pacote de correções cumulativo (CFP) no AEM Forms JEE.
+description: Resumo das etapas para instalar e configurar o Cumulative Fix Pack (CFP) no AEM Forms JEE.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: ht
-source-wordcount: '909'
-ht-degree: 100%
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
+source-wordcount: '905'
+ht-degree: 91%
 
 ---
 
@@ -27,12 +27,12 @@ O pacote do AEM [!DNL  Forms JEE] (aemfd-jee-bundles-package-6.3CFP1; versão 1.
 
 ### Instruções adicionais para o CQ-4208044 {#additional-instructions-for-cq}
 
-Se estiver utilizando o servidor do AEM 6.3 [!DNL Forms JEE] com o banco de dados do Oracle, defina as seguintes configurações após a implantação do CFP1, ou seja, depois que o Gerenciador de configurações for executado. Essa configuração é necessária para sincronizar usuários, grupos e membros de grupo quando a sincronização do domínio corporativo for executada.
+Se estiver usando o AEM 6.3 [!DNL Forms JEE] com o banco de dados do Oracle, defina as seguintes configurações após a implantação do CFP1, ou seja, depois que o Gerenciador de configurações for executado. Essa configuração é necessária para sincronizar usuários, grupos e membros de grupo quando a sincronização do domínio corporativo for executada.
 
 1. Faça logon na interface do **administrador**.
 1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Gerenciamento de usuários]** > **[!UICONTROL Configuração]** > **[!UICONTROL Importar e exportar arquivo de configuração]**
 1. Exporte o arquivo config.xml.
-1. Altere a entrada para &quot; `groupMemberDBQueryBatchSize`&quot; em suas configurações de domínio em *config.xml*. Exemplo de entrada::
+1. Modifique a entrada para &quot;`groupMemberDBQueryBatchSize`&quot; nas configurações de domínio em *config.xml*. Exemplo de entrada::
 
    &lt;entry key=&quot;groupMemberDBQueryBatchSize&quot; value=&quot;999&quot;/>
 
@@ -75,19 +75,19 @@ Use os seguintes comandos para definir o tempo limite no nível do componente:
 
 1. Para definir o tempo limite de todas as operações de serviço para 600 segundos:
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`&quot;
+   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`&quot;
 
 1. Para definir o tempo limite de valores de operação `DesigntimeService` para 500 segundos, use:
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
+   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
 
 1. Para definir o tempo limite de valores de operação `DesigntimeService's previewLCA` para 700 segundos, use:
 
-   set `"JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
+   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
 
 1. Para definir `DSC operations`, como carregar e instalar, para 600 segundos, utilize:
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
+   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
 
 ## Instalar e configurar o AEM [!DNL Forms JEE] {#install-and-configure-aem-forms-jee}
 
@@ -98,7 +98,7 @@ Use os seguintes comandos para definir o tempo limite no nível do componente:
 
    **Windows**
 
-   Navegue até o diretório correspondente na mídia ou pasta de instalação no disco rígido em que o instalador foi copiado:
+   Navegue até o diretório na mídia de instalação ou na pasta em que você copiou o instalador.
 
    * (`Windows 32-bit`): `Disk1\InstData\Windows\VM`
    * (`Windows 64-bit`): `Disk1\InstData\Windows_64bit\VM`
@@ -113,8 +113,8 @@ Use os seguintes comandos para definir o tempo limite no nível do componente:
 
    Navegue até o diretório apropriado:
 
-   * (Linux®): Disk1/InstData/Linux/ NoVM
-   * (Solaris™): Disk1/InstData/Solaris/ NoVM
+   * (Linux®): Disco1/InstData/Linux/NoVM
+   * (Solaris™): disco1/InstData/Solaris/NoVM
    * (AIX®): Disk1/InstData/AIX/VM
 
    Em um prompt de comando, digite:

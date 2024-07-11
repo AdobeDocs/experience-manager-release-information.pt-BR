@@ -2,17 +2,17 @@
 title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 0ccece7cd8146c9871c6143dc5f265128ec8220a
-workflow-type: ht
-source-wordcount: '476'
-ht-degree: 100%
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
+source-wordcount: '475'
+ht-degree: 93%
 
 ---
 
 
 # [!DNL Experience Manager] Roteiro de versões {#aem-releases-roadmap}
 
-O [!DNL Adobe Experience Manager] oferece continuamente novos recursos, melhorias nos recursos existentes e correções de bugs para usuários que usam o [!DNL Cloud Service], o Managed Services e ofertas locais do produto. Este artigo lista as próximas versões do [!DNL Experience Manager].
+[!DNL Adobe Experience Manager] O fornece de forma consistente novos recursos e melhorias nas funcionalidades existentes. Ele fornece correções de erros para usuários em [!DNL Cloud Service], Managed Services e versões no local. Este artigo lista as próximas versões do [!DNL Experience Manager].
 
 >[!NOTE]
 >
@@ -58,7 +58,7 @@ As atualizações de produtos, em termos de novos recursos, melhorias e correç�
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-As atualizações de produto do [!DNL Experience Manager] 6.5 são fornecidas por service packs trimestrais. Eles incluem novos recursos, melhorias e correções de bugs. Para obter mais detalhes sobre o service pack mais recente, consulte Notas de versão do [[!DNL Experience Manager] 6.5 service pack](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/release-notes).
+[!DNL Experience Manager] As atualizações de produtos do 6.5 são fornecidas por Service Packs trimestrais. Eles incluem novos recursos, melhorias e correções de bugs. Para obter mais detalhes sobre o service pack mais recente, consulte Notas de versão do [[!DNL Experience Manager] 6.5 service pack](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Versão | Versão | Tipo | Programação | Status |
 |---|---|---|---|---|

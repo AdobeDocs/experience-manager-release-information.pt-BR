@@ -2,10 +2,10 @@
 title: Baixe versões anteriores da documentação do AEM, CQ e CRX
 description: Baixe pacotes de documentação referentes a versões anteriores do Adobe Experience Manager, CQ e CRX.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: ht
-source-wordcount: '570'
-ht-degree: 100%
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
+source-wordcount: '571'
+ht-degree: 94%
 
 ---
 
@@ -26,7 +26,7 @@ As versões do [!DNL Adobe Experience Manager], CQ e CRX listadas nesta página 
 Antes de baixar o pacote, determine quem usará o conteúdo. Essa decisão determinará como será a implantação:
 
 * Os desenvolvedores podem instalar localmente para obter uma referência rápida.
-* Para necessidades de documentação organizacional mais amplas, é recomendável que o pacote seja implantado em uma instância do Autor do AEM de não produção e acessível internamente.
+* Para necessidades mais amplas de documentação organizacional, a Adobe recomenda que o pacote seja implantado em uma instância de autor AEM não relacionada à produção e acessível internamente.
 
 >[!NOTE]
 >
@@ -90,7 +90,7 @@ Para instalar um pacote de documentação herdado, é necessário ter o [!DNL Ex
 
 1. Depois que o upload do pacote for concluído, instale-o.
 
-1. Na interface do Gerenciador de pacotes, encontre o pacote e selecione **[!UICONTROL Instalar]**.
+1. Na interface do usuário do Gerenciador de pacotes, localize o pacote e selecione **[!UICONTROL Instalar]**.
 
 1. Na caixa de diálogo de confirmação, selecione **[!UICONTROL Instalar]** novamente. A instalação leva alguns minutos.
 
