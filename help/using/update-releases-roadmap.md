@@ -12,7 +12,7 @@ ht-degree: 93%
 
 # [!DNL Experience Manager] Roteiro de versões {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager] O fornece de forma consistente novos recursos e melhorias nas funcionalidades existentes. Ele fornece correções de erros para usuários em [!DNL Cloud Service], Managed Services e versões no local. Este artigo lista as próximas versões do [!DNL Experience Manager].
+O [!DNL Adobe Experience Manager] fornece consistentemente novos recursos e melhorias às funcionalidades existentes. Ele fornece correções de erros para usuários no [!DNL Cloud Service], no Managed Services e em versões locais. Este artigo lista as próximas versões do [!DNL Experience Manager].
 
 >[!NOTE]
 >
@@ -58,7 +58,7 @@ As atualizações de produtos, em termos de novos recursos, melhorias e correç�
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] As atualizações de produtos do 6.5 são fornecidas por Service Packs trimestrais. Eles incluem novos recursos, melhorias e correções de bugs. Para obter mais detalhes sobre o service pack mais recente, consulte Notas de versão do [[!DNL Experience Manager] 6.5 service pack](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/release-notes).
+As atualizações de produtos do [!DNL Experience Manager] 6.5 são fornecidas por Service Packs trimestrais. Eles incluem novos recursos, melhorias e correções de bugs. Para obter mais detalhes sobre o service pack mais recente, consulte Notas de versão do [[!DNL Experience Manager] 6.5 service pack](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Versão | Versão | Tipo | Programação | Status |
 |---|---|---|---|---|

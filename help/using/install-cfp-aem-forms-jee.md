@@ -27,7 +27,7 @@ O pacote do AEM [!DNL  Forms JEE] (aemfd-jee-bundles-package-6.3CFP1; versão 1.
 
 ### Instruções adicionais para o CQ-4208044 {#additional-instructions-for-cq}
 
-Se estiver usando o AEM 6.3 [!DNL Forms JEE] com o banco de dados do Oracle, defina as seguintes configurações após a implantação do CFP1, ou seja, depois que o Gerenciador de configurações for executado. Essa configuração é necessária para sincronizar usuários, grupos e membros de grupo quando a sincronização do domínio corporativo for executada.
+Se estiver usando o servidor AEM 6.3 [!DNL Forms JEE] com o banco de dados Oracle, defina as seguintes configurações após a implantação do CFP1, ou seja, depois que o Gerenciador de configurações for executado. Essa configuração é necessária para sincronizar usuários, grupos e membros de grupo quando a sincronização do domínio corporativo for executada.
 
 1. Faça logon na interface do **administrador**.
 1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Gerenciamento de usuários]** > **[!UICONTROL Configuração]** > **[!UICONTROL Importar e exportar arquivo de configuração]**
@@ -75,19 +75,19 @@ Use os seguintes comandos para definir o tempo limite no nível do componente:
 
 1. Para definir o tempo limite de todas as operações de serviço para 600 segundos:
 
-   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`&quot;
+   definir &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`&quot;
 
 1. Para definir o tempo limite de valores de operação `DesigntimeService` para 500 segundos, use:
 
-   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
+   definir &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
 
 1. Para definir o tempo limite de valores de operação `DesigntimeService's previewLCA` para 700 segundos, use:
 
-   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
+   definir &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
 
 1. Para definir `DSC operations`, como carregar e instalar, para 600 segundos, utilize:
 
-   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
+   definir &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
 
 ## Instalar e configurar o AEM [!DNL Forms JEE] {#install-and-configure-aem-forms-jee}
 

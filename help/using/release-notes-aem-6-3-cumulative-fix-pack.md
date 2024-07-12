@@ -3,7 +3,7 @@ title: AEM 6.3 Cumulative Fix Pack
 description: Notas de versão do Pacote de correções cumulativo do AEM 6.3
 exl-id: 04969587-a904-44cb-83e0-51707ac6a87f
 source-git-commit: e8c9b5343208458febe55d8c1a0b541b112d3911
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '17123'
 ht-degree: 100%
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 |---|---|
 | **Versão** | 6.3 |
 | **Versão** | Cumulative Fix Pack 6.3.3.8 na [Distribuição de softwares](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/aem-6.3.3-cfp-8.0.zip) |
-| **Pré-requisitos** | [AEM 6.3 Service Pack 3 (6.3.3.0)](https://experienceleague.adobe.com/pt-br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) |
+| **Pré-requisitos** | [AEM 6.3 Service Pack 3 (6.3.3.0)](https://experienceleague.adobe.com/br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) |
 | **Disponibilidade geral** | 5 de março de 2020 |
 
 ### Cumulative Fix Pack {#cumulative-fix-pack}
@@ -28,13 +28,13 @@ A Adobe apresentou um modelo de entrega única para lançar correções. Em vez 
 * Maior garantia de qualidade
 * Instalação simplificada (o usuário instala um CFP como pacote único e sem dependências, exceto no caso do pacote de serviços mais recente)
 
-Para obter mais informações sobre o CFP e outros tipos de versões, consulte [Definições de veículo de versão de manutenção.](https://experienceleague.adobe.com/pt-br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)
+Para obter mais informações sobre o CFP e outros tipos de versões, consulte [Definições de veículo de versão de manutenção.](https://experienceleague.adobe.com/br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)
 
 ## Sobre a versão {#about-the-release}
 
 O Pacote de correções cumulativo 6.3.3.8 do AEM é uma atualização importante que inclui várias correções internas e de clientes desde a disponibilização geral do AEM 6.3 Pacote de serviços 3 (6.3.3.0), em setembro de 2018.
 
-O Pacote de correções cumulativo 6.3.3.8 do AEM é dependente do Pacote de serviços 3 do AEM 6.3. Portanto, é necessário instalar o Pacote de correções cumulativo 6.3.3.x do AEM após instalar o Pacote de serviços 3 do AEM 6.3. Para obter instruções de instalação, consulte as notas de versão do [Pacote de serviços 3 do AEM 6.3](https://experienceleague.adobe.com/pt-br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+O Pacote de correções cumulativo 6.3.3.8 do AEM é dependente do Pacote de serviços 3 do AEM 6.3. Portanto, é necessário instalar o Pacote de correções cumulativo 6.3.3.x do AEM após instalar o Pacote de serviços 3 do AEM 6.3. Para obter instruções de instalação, consulte as notas de versão do [Pacote de serviços 3 do AEM 6.3](https://experienceleague.adobe.com/br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 Os principais destaques do **AEM Cumulative Fix Pack** são:
 
@@ -104,7 +104,7 @@ As correções do AEM Forms são entregues por meio de pacotes complementares e 
 
 O Pacote de correções cumulativo 6.3.3.7 do AEM é uma atualização importante que inclui várias correções internas e de clientes desde a disponibilização geral do AEM 6.3 Pacote de serviços 3 (6.3.3.0), em setembro de 2018.
 
-O Pacote de correções cumulativo 6.3.3.7 do AEM é dependente do Pacote de serviços 3 do AEM 6.3. Portanto, é necessário instalar o Pacote de correções cumulativo 6.3.3.x do AEM após instalar o Pacote de serviços 3 do AEM 6.3. Para obter instruções de instalação, consulte as notas de versão do [Pacote de serviços 3 do AEM 6.3](https://experienceleague.adobe.com/pt-br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+O Pacote de correções cumulativo 6.3.3.7 do AEM é dependente do Pacote de serviços 3 do AEM 6.3. Portanto, é necessário instalar o Pacote de correções cumulativo 6.3.3.x do AEM após instalar o Pacote de serviços 3 do AEM 6.3. Para obter instruções de instalação, consulte as notas de versão do [Pacote de serviços 3 do AEM 6.3](https://experienceleague.adobe.com/br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 ### Ativos {#assets-1}
 
@@ -172,7 +172,7 @@ As correções do AEM Forms são entregues por meio de pacotes complementares e 
 
 O Pacote de correções cumulativo 6.3.3.6 do AEM é uma atualização importante que inclui várias correções internas e de clientes desde a disponibilização geral do AEM 6.3 Pacote de serviços 3 (6.3.3.0), em setembro de 2018.
 
-O Pacote de correções cumulativo 6.3.3.6 do AEM é dependente do Pacote de serviços 3 do AEM 6.3. Portanto, é necessário instalar o Pacote de correções cumulativo 6.3.3.x do AEM após instalar o Pacote de serviços 3 do AEM 6.3. Para obter instruções de instalação, consulte as notas de versão do [Pacote de serviços 3 do AEM 6.3](https://experienceleague.adobe.com/pt-br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+O Pacote de correções cumulativo 6.3.3.6 do AEM é dependente do Pacote de serviços 3 do AEM 6.3. Portanto, é necessário instalar o Pacote de correções cumulativo 6.3.3.x do AEM após instalar o Pacote de serviços 3 do AEM 6.3. Para obter instruções de instalação, consulte as notas de versão do [Pacote de serviços 3 do AEM 6.3](https://experienceleague.adobe.com/br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 ### Ativos {#assets-2}
 
@@ -226,7 +226,7 @@ As correções do AEM Forms são entregues por meio de pacotes complementares e 
 
 O Pacote de correções cumulativo 6.3.3.5 do AEM é uma atualização importante que inclui várias correções internas e de clientes desde a disponibilização geral do AEM 6.3 pacote de serviços 3 (6.3.3.0), em setembro de 2018.
 
-O Pacote de correções cumulativo 6.3.3.5 do AEM é dependente do Pacote de serviços 3 do AEM 6.3. Portanto, é necessário instalar o Pacote de correções cumulativo 6.3.3.x do AEM após instalar o Pacote de serviços 3 do AEM 6.3. Para obter instruções de instalação, consulte as notas de versão do [Pacote de serviços 3 do AEM 6.3](https://experienceleague.adobe.com/pt-br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+O Pacote de correções cumulativo 6.3.3.5 do AEM é dependente do Pacote de serviços 3 do AEM 6.3. Portanto, é necessário instalar o Pacote de correções cumulativo 6.3.3.x do AEM após instalar o Pacote de serviços 3 do AEM 6.3. Para obter instruções de instalação, consulte as notas de versão do [Pacote de serviços 3 do AEM 6.3](https://experienceleague.adobe.com/br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 Os principais destaques do **AEM Cumulative Fix Pack** são:
 
@@ -294,7 +294,7 @@ Lista de pacotes de conteúdo incluídos no AEM 6.3.3.5
 
 O Pacote de correções cumulativo 6.3.3.4 do AEM é uma atualização importante que inclui várias correções internas e de clientes desde a disponibilização geral do AEM 6.3 Pacote de serviços 3 (6.3.3.0), em setembro de 2018.
 
-O Pacote de correções cumulativo 6.3.3.4 do AEM é dependente do Pacote de serviços 3 do AEM 6.3. Portanto, é necessário instalar o Pacote de correções cumulativo 6.3.3.x do AEM após instalar o Pacote de serviços 3 do AEM 6.3. Para obter instruções de instalação, consulte as notas de versão do [Pacote de serviços 3 do AEM 6.3](https://experienceleague.adobe.com/pt-br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+O Pacote de correções cumulativo 6.3.3.4 do AEM é dependente do Pacote de serviços 3 do AEM 6.3. Portanto, é necessário instalar o Pacote de correções cumulativo 6.3.3.x do AEM após instalar o Pacote de serviços 3 do AEM 6.3. Para obter instruções de instalação, consulte as notas de versão do [Pacote de serviços 3 do AEM 6.3](https://experienceleague.adobe.com/br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 Os principais destaques do **AEM Cumulative Fix Pack** são:
 
@@ -402,7 +402,7 @@ Lista de pacotes de conteúdo incluídos no AEM 6.3.3.4
 
 O Pacote de correções cumulativo 6.3.3.3 do AEM é uma atualização importante que inclui várias correções internas e de clientes desde a disponibilização geral do AEM 6.3 Pacote de serviços 3 (6.3.3.0), em setembro de 2018.
 
-O Pacote de correções cumulativo 6.3.3.3 do AEM é dependente do Pacote de serviços 3 do AEM 6.3. Portanto, é necessário instalar o Pacote de correções cumulativo 6.3.3.x do AEM após instalar o Pacote de serviços 3 do AEM 6.3. Para obter instruções de instalação, consulte as notas de versão do [Pacote de serviços 3 do AEM 6.3](https://experienceleague.adobe.com/pt-br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+O Pacote de correções cumulativo 6.3.3.3 do AEM é dependente do Pacote de serviços 3 do AEM 6.3. Portanto, é necessário instalar o Pacote de correções cumulativo 6.3.3.x do AEM após instalar o Pacote de serviços 3 do AEM 6.3. Para obter instruções de instalação, consulte as notas de versão do [Pacote de serviços 3 do AEM 6.3](https://experienceleague.adobe.com/br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 Os principais destaques do **AEM Cumulative Fix Pack** são:
 
@@ -630,7 +630,7 @@ Lista de pacotes de conteúdo incluídos no AEM 6.3.3.2
 
 O Pacote de correções cumulativo 6.3.3.1 do AEM é uma atualização importante que inclui várias correções internas e de clientes desde a disponibilização geral do AEM 6.3 Pacote de serviços 3 (6.3.3.0), em setembro de 2018.
 
-O Pacote de correções cumulativo 6.3.3.1 do AEM é dependente do Pacote de serviços 3 do AEM 6.3. Portanto, é necessário instalar o Pacote de correções cumulativo 6.3.3.x do AEM após instalar o Pacote de serviços 3 do AEM 6.3. Para obter instruções de instalação, consulte as notas de versão do [Pacote de serviços 3 do AEM 6.3](https://experienceleague.adobe.com/pt-br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+O Pacote de correções cumulativo 6.3.3.1 do AEM é dependente do Pacote de serviços 3 do AEM 6.3. Portanto, é necessário instalar o Pacote de correções cumulativo 6.3.3.x do AEM após instalar o Pacote de serviços 3 do AEM 6.3. Para obter instruções de instalação, consulte as notas de versão do [Pacote de serviços 3 do AEM 6.3](https://experienceleague.adobe.com/br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 Os principais destaques do **AEM Cumulative Fix Pack** são:
 
@@ -828,7 +828,7 @@ Lista de pacotes de conteúdo incluídos no AEM 6.3.3.1
 
 O Pacote de correções cumulativo 6.3.2.2 do AEM é uma atualização importante que inclui várias correções internas e de clientes desde a disponibilização geral do AEM 6.3 Pacote de serviços 2 (6.3.2.0), em abril de 2018.
 
-O Pacote de correções cumulativo 6.3.2.2 do AEM é dependente do Pacote de serviços 2 do AEM 6.3. Portanto, é necessário instalar o pacote de correções cumulativo do AEM 6.3.2.x após instalar o pacote de serviços 2 do AEM 6.3. Para obter instruções de instalação, consulte as notas de versão do [Pacote de serviços 2 do AEM 6.3](https://experienceleague.adobe.com/pt-br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+O Pacote de correções cumulativo 6.3.2.2 do AEM é dependente do Pacote de serviços 2 do AEM 6.3. Portanto, é necessário instalar o pacote de correções cumulativo do AEM 6.3.2.x após instalar o pacote de serviços 2 do AEM 6.3. Para obter instruções de instalação, consulte as notas de versão do [Pacote de serviços 2 do AEM 6.3](https://experienceleague.adobe.com/br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 Os principais destaques do **AEM Cumulative Fix Pack** são:
 
@@ -1746,9 +1746,9 @@ Esta seção aborda os requisitos e as etapas para instalar o CFP.
 >
 >É recomendável executar a validação em cada novo pacote de instalação antes de tentar instalá-lo. A pré-validação analisa e relata os erros encontrados antes da instalação, além de avisar os usuários sobre esses erros de forma proativa.
 >
->Você pode acessar a documentação para a opção Validar em [https://experienceleague.adobe.com/br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions](https://experienceleague.adobe.com/pt-br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)
+>Você pode acessar a documentação para a opção Validar em [https://experienceleague.adobe.com/br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions](https://experienceleague.adobe.com/br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)
 
-* O AEM 6.3.3.0 é um pré-requisito do CFP. Consulte a [Documentação de atualização](https://experienceleague.adobe.com/pt-br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) para obter instruções detalhadas sobre como atualizar uma instalação para o AEM 6.3.
+* O AEM 6.3.3.0 é um pré-requisito do CFP. Consulte a [Documentação de atualização](https://experienceleague.adobe.com/br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) para obter instruções detalhadas sobre como atualizar uma instalação para o AEM 6.3.
 * Em uma implantação de cluster usando RDBMK ou MongoDB, o pacote CFP pode ser instalado em qualquer uma das instâncias do Autor que use o gerenciador de pacotes.
 * Antes de instalar o Pacote de correções cumulativo, verifique se fez um instantâneo ou um backup da instância do AEM.
 * Não há suporte para a desinstalação do CFP.
@@ -1804,7 +1804,7 @@ O CFP pode ser instalado automaticamente em uma instância em execução das seg
 
 1. Verifique se você instalou o pacote AEM 6.3.3.x CFP.
 1. Baixe o pacote complementar do Forms correspondente listado em [Versões do AEM Forms](aem-forms-releases.md) para seu sistema operacional.
-1. Instale o pacote complementar do Forms conforme descrito em [Instalação dos pacotes complementares do AEM Forms](https://experienceleague.adobe.com/pt-br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+1. Instale o pacote complementar do Forms conforme descrito em [Instalação dos pacotes complementares do AEM Forms](https://experienceleague.adobe.com/br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 #### Instalar pacote do AEM Forms JEE {#install-aem-forms-jee-bundles-package}
 
@@ -1936,7 +1936,7 @@ Isso permite que o sling GET servlet retorne todos os nós necessários.
 
 O Uber Jar da versão 6.3.3.8 está disponível no repositório Adobe Public Maven.
 
-Para usar o Uber Jar em um projeto do Maven, consulte o artigo [Como usar o Uber jar](https://experienceleague.adobe.com/pt-br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) e inclua a seguinte dependência no POM do projeto:
+Para usar o Uber Jar em um projeto do Maven, consulte o artigo [Como usar o Uber jar](https://experienceleague.adobe.com/br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) e inclua a seguinte dependência no POM do projeto:
 
 ```TXT
 <dependency>
@@ -1954,7 +1954,7 @@ Esta seção lista os recursos e funcionalidades removidos ou descontinuados do 
 
 | Área | Destaque | Substituição | Versão |
 |----|-----|-----|-----|
-| Integração do Assets e da Adobe Creative Cloud | [O compartilhamento de pastas do AEM para a Creative Cloud](https://experienceleague.adobe.com/pt-br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) foi introduzido no AEM 6.2 como uma forma de fornecer aos usuários criativos acesso aos ativos do AEM. Uma nova funcionalidade lançada no aplicativo da Creative Cloud, o Adobe Asset Link, fornece uma experiência de usuário melhor e acesso avançado a ativos do AEM diretamente do Photoshop, InDesign e Illustrator.</br></br> A Adobe não fará mais aprimoramentos no recurso de compartilhamento de pastas. Embora o recurso esteja incluído no AEM, os clientes são aconselhados a usar a substituição. | Adobe Asset Link ou Aplicativo de desktop. Para obter mais informações, consulte o artigo [Integração da AEM Creative Cloud](https://experienceleague.adobe.com/pt-br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions). | AEM 6.3.3.x |
+| Integração do Assets e da Adobe Creative Cloud | [O compartilhamento de pastas do AEM para a Creative Cloud](https://experienceleague.adobe.com/br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) foi introduzido no AEM 6.2 como uma forma de fornecer aos usuários criativos acesso aos ativos do AEM. Uma nova funcionalidade lançada no aplicativo da Creative Cloud, o Adobe Asset Link, fornece uma experiência de usuário melhor e acesso avançado a ativos do AEM diretamente do Photoshop, InDesign e Illustrator.</br></br> A Adobe não fará mais aprimoramentos no recurso de compartilhamento de pastas. Embora o recurso esteja incluído no AEM, os clientes são aconselhados a usar a substituição. | Adobe Asset Link ou Aplicativo de desktop. Para obter mais informações, consulte o artigo [Integração da AEM Creative Cloud](https://experienceleague.adobe.com/br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions). | AEM 6.3.3.x |
 
 ## Pacotes OSGi e pacotes de conteúdo incluídos {#osgi-bundles-and-content-packages-included-1}
 

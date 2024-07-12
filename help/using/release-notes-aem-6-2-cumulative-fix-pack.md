@@ -202,7 +202,7 @@ Os principais destaques desse Cumulative Fix Pack são:
 * Adicionar suporte de redirecionamento ao componente da página principal. NPR-26576: Hotfix do CQ-110529
 * Migração do hub de contexto para `jQuery` 3. NPR-26956: hotfix do CQ-4255472
 * Os campos de entrada de âncora aparecem fora da seção visível do navegador na caixa de diálogo até serem maximizados. NPR-26852: Hotfix do CQ-4255019
-* Recurso de copiar e copiar texto inserindo indesejado &lt;br> no Fragmento do conteúdo. NPR-26660: Hotfix do CRTE-151
+* Recurso de copiar e copiar texto inserindo &lt;br> indesejado no fragmento de conteúdo. NPR-26660: Hotfix do CRTE-151
 * O administrador do site clássico não renderiza a lista no painel direito de algumas páginas. NPR-27247: Hotfix do CQ-4251621
 * (Interface Clássica) As tentativas de mover/renomear páginas geram o erro: &quot;Ocorreu um erro ao mover a página.&quot; NPR-27179: Hotfix do CQ-4235907
 
@@ -548,7 +548,7 @@ Os principais destaques desse Cumulative Fix Pack são:
 
 #### Serviço de criptografia {#encryption-service}
 
-* (OSGI) [JEE] Status de assinatura incorreta para o PDF com anexo ao verificar o uso de &quot;Validar processo de PDF&quot;. NPR-23269, NPR-23737
+* (OSGI) [JEE] Status de assinatura incorreto para PDF com anexo ao verificar o uso de &quot;Validar processo de PDF&quot;. NPR-23269, NPR-23737
 
 ### Instalador do Forms no JEE {#forms-jee-installer-5}
 
@@ -616,7 +616,7 @@ Os principais destaques desse Cumulative Fix Pack são:
 * A sincronização do LiveCopyIndex ocasiona o congestionamento de threads durante longas atualizações de índice. NPR-22214: Hotfix do CQ-90667
 * A propriedade `cq:cugEnabled` é desabilitada quando outro campo em uma live copy é editado, tornando a página desprotegida. NPR-22246: Hotfix do CQ-4236050
 * A ação de Implantação de páginas falha ao atualizar páginas secundárias quando uma página é suspensa. NPR-22483: Hotfix do CQ-4236956
-* Implantação de uma estrutura que foi movida em um cliente potencial principal para um incorreto `cq:moveTarget`. NPR-22373: hotfix do CQ-4232536
+* Implantação de uma estrutura que foi movida em um cliente potencial primário para um `cq:moveTarget` errado. NPR-22373: hotfix do CQ-4232536
 
 ### Integração {#integration-6}
 
@@ -895,7 +895,7 @@ Os principais destaques desse Cumulative Fix Pack são:
 ### Plataforma {#platform-6}
 
 * ResourceResolverImpl.map() não invoca o ResourceDecorator. NPR-20788: Hotfix do GRANITE-19718
-* `org.apache.sling.i18n.DefaultLocaleResolver` não é possível processar solicitações por meio de org.apache.sling.engine.SlingRequestProcessor. NPR-20706: Hotfix do CQ-94880
+* `org.apache.sling.i18n.DefaultLocaleResolver` não pode processar solicitações por meio de org.apache.sling.engine.SlingRequestProcessor. NPR-20706: Hotfix do CQ-94880
 * Solicitação de adição de uma opção de validação no Gerenciador de pacotes para detectar se quaisquer permissões/privilégios de ACL foram alterados em um pacote específico. Hotfix do CQ-4229196
 
 ### Fluxo de trabalho {#workflow-1}
@@ -946,7 +946,7 @@ Os principais destaques do AEM Forms são:
 
 #### Serviço de Assembler {#assembler-service-1}
 
-* O docConvertor não produz PDF/A com o erro &quot;O prefixo &quot;stEvt&quot; do elemento `stEvt:action` não está vinculado.&quot; NPR-21032: hotfix do CQ-4222540
+* O docConvertor não produz PDF/A com o erro &quot;O prefixo &quot;stEvt&quot; para o elemento `stEvt:action` não está vinculado.&quot; NPR-21032: hotfix do CQ-4222540
 * Uma exceção com o nome `java.lang.IllegalArgumentException message:No enum constant com.adobe.internal.pdfm.docbuilder.signature.PathValidationFailureReason.SIGNED_IN_FUTURE` é acionada ao chamar o serviço OMPFSubmission/PDFA/PDFtoPDFA. Essa exceção impede que o processo de verificação de assinatura de vida curta seja concluído até que o servidor seja reiniciado. NPR-20792
 
 #### Workbench {#workbench}
@@ -1073,7 +1073,7 @@ Essa experiência oferece uma nova Dynamic Media que se conecta à nova Infraest
 
 ### Sites {#sites-10}
 
-* O AEM exibe um comportamento inesperado quando um usuário tenta publicar `/unpublish/create` versão de uma página bloqueada por outro usuário. NPR-19249; Hotfix do CQ-4215298 e CQ-4203856
+* O AEM exibe um comportamento inesperado quando um usuário tenta publicar a versão `/unpublish/create` de uma página bloqueada por outro usuário. NPR-19249; Hotfix do CQ-4215298 e CQ-4203856
 * Ao promover a inicialização aninhada manualmente, a página secundária é excluída. NPR-19704
 * Problemas de persistência quando os armazenamentos do ContextHub substituem a camada de persistência padrão durante a inicialização. NPR-19979: Hotfix do CQ-4218399
 * Os fragmentos de conteúdo são sobrepostos com outros botões. NPR-19980: Hotfix do CQ-4221519
@@ -1469,7 +1469,7 @@ Os principais destaques desse Cumulative Fix Pack são:
 
 ### Sites {#sites-14}
 
-* Ao mover uma página usando a interface clássica ou de toque, a caixa de diálogo Mover não mostra mais do que 150 referências, impossibilitando a atualização dessas referências e que a página seja publicada novamente. Esse problema foi corrigido com a introdução de uma propriedade para a interface clássica: &quot;maxRefNo&quot; que pode ser configurada no nó de administração do site: `'/libs/wcm/core/content/siteadmin'`. Essa propriedade especifica o número máximo de referências (valor padrão 150) que são exibidas antes de uma operação de movimentação intensa. Se uma página tiver várias referências, elas não serão exibidas na caixa de diálogo movePage. Essa configuração também funciona para o administrador do DAM e o administrador misc aplicando a configuração nos nós: `'/libs/wcm/core/content/damadmin'` e `'/libs/wcm/core/content/miscadmin'` respectivamente. NPR-17222; Hotfix do CQ-85878
+* Ao mover uma página usando a interface clássica ou de toque, a caixa de diálogo Mover não mostra mais do que 150 referências, impossibilitando a atualização dessas referências e que a página seja publicada novamente. Esse problema foi corrigido com a introdução de uma propriedade para a interface clássica: &quot;maxRefNo&quot; que pode ser configurada no nó de administração do site: `'/libs/wcm/core/content/siteadmin'`. Essa propriedade especifica o número máximo de referências (valor padrão 150) que são exibidas antes de uma operação de movimentação intensa. Se uma página tiver várias referências, elas não serão exibidas na caixa de diálogo movePage. Essa configuração também funciona para o administrador dam e o administrador misc aplicando a configuração nos nós: `'/libs/wcm/core/content/damadmin'` e `'/libs/wcm/core/content/miscadmin'` respectivamente. NPR-17222; Hotfix do CQ-85878
 
 * Ao trabalhar com componentes WCM, os hiperlinks com espaços são removidos no Editor de Rich Text da interface para toque. NPR-17698, NPR-17570; Hotfix do CQ-4206768
 * Ao disparar o fluxo de trabalho Solicitação de cancelamento de publicação das propriedades da página, erros de JavaScript são exibidos para usuários sem direitos de replicação. NPR-17294; Hotfix do CQ-102064
@@ -1588,7 +1588,7 @@ Os principais destaques desse Cumulative Fix Pack são:
 
 ### Plataforma {#platform-12}
 
-* Adicionar ou personalizar colunas à **Assets OmniSearch** resultados ao sobrepor em `/apps` não funciona. NPR-16737: Hotfix do CQ-4206785
+* A adição ou personalização de colunas aos resultados **Assets OmniSearch** ao sobrepor em `/apps` não funciona. NPR-16737: Hotfix do CQ-4206785
 * A página **Ferramenta de diagnóstico** não funciona após uma atualização local do AEM 6.1 SP2 para o AEM 6.2 SP1. NPR-17121; Hotfix do CQ-4196786
 * HTL: ao selecionar um fórum, criar um tópico e uma publicação, o `Sightly SightlyCompiledScript` adiciona a propriedade `addSelectors` incorreta à `RequestDispatcherOption`. NPR-17008: Hotfix do GRANITE-16384
 
@@ -1619,7 +1619,7 @@ O console de fluxo de trabalho de Projetos mostra uma exceção de ponteiro nulo
 * Em WCM Launches, as páginas associadas a uma Inicialização não podem ter a publicação desfeita quando a ação é iniciada nas propriedades da página na interface para toque. NPR-16560: Hotfix do CQ-4204681
 * Vincular o Rewriter regrava falsamente os valores href contendo dois pontos, presumindo que o dois pontos “:” definem um namespace JCR. NPR-16753: Hotfix do CQ-4203762
 * No Importador do WCM-Design, abrir uma página do Importador de teste e tentar fazer upload de um arquivo zip causará problemas se o upload dele tiver sido feito e excluído anteriormente. NPR-16486: Hotfix do CQ-90962
-* Navegar até o **[!UICONTROL Navegação global]** usando os navegadores Firefox ou Google Chrome oferece uma experiência do usuário diferente. O navegador Firefox exibe a variável **[!UICONTROL Ferramentas]** menu. O navegador Google Chrome mostra o **[!UICONTROL Navegação]** menu. NPR-16770; Hotfix do CQ-4200456
+* Navegar até o painel **[!UICONTROL Navegação global]** usando os navegadores Firefox ou Google Chrome oferece uma experiência de usuário diferente. O navegador Firefox exibe o menu **[!UICONTROL Ferramentas]**. O navegador Google Chrome mostra o menu **[!UICONTROL Navegação]**. NPR-16770; Hotfix do CQ-4200456
 
 ### Campaign {#campaign}
 
@@ -1647,14 +1647,14 @@ O console de fluxo de trabalho de Projetos mostra uma exceção de ponteiro nulo
 **Formulários adaptáveis**
 
 * No Editor Forms adaptável, o comentário Configuração de público-alvo em head.jsp deve ser substituído pela nova instrução context hub. NPR-17173
-* No Editor de regras do Forms adaptável, a variável **[!UICONTROL Escolher um item]** mostra o evento como &#39;null&#39;. NPR-17139
+* No Editor de Regras do Forms Adaptive, o **[!UICONTROL Escolher um Item]** mostra o evento como &#39;null&#39;. NPR-17139
 * O formulário enviado é reenviado navegando para frente usando a seta para frente (>). NPR-17080
 * Ao enviar um formulário adaptável por meio do AJAX, a função de retorno de chamada &quot;erro&quot; nunca é invocada em caso de erro. NPR-17034
 * Clicar no botão **[!UICONTROL Salvar formulário]** no Editor de regras em tempo de execução não salva o formulário. NPR-16905
 * O texto estático deve ser excluído da ordem de tabulação no Formulário adaptável. NPR-16749
 * O valor calculado de um campo decimal é exibido incorretamente. NPR-16596
 * O ícone para exibir o conteúdo da Ajuda deve ser incluído na ordem de tabulação dos Formulários adaptáveis. NPR-16484
-* Suporte para expressão regular de tipo `dataRef=C:/Users/`no **[!UICONTROL Configuração do serviço de preenchimento prévio padrão]**. Esse tipo é para Preenchimento prévio de dados para o Adaptive Forms. NPR-16425
+* Suporte para expressão regular do tipo `dataRef=C:/Users/`na **[!UICONTROL Configuração do Serviço de Preenchimento Prévio Padrão]**. Esse tipo é para Preenchimento prévio de dados para o Adaptive Forms. NPR-16425
 
 * As validações não são acionadas corretamente para todos os painéis se houver um cenário de lazy-load aninhado. NPR-15821
 
@@ -1704,7 +1704,7 @@ NPR-16352
 
 **Serviço de saída**
 
-* O Serviço de saída não processa um PDF modificado para incluir um campo &quot;milli-sec&quot; adicional no `date-time format` metadados. NPR-16838
+* O Serviço de Saída não processa um PDF modificado para incluir um campo &quot;milli-sec&quot; adicional nos metadados `date-time format`. NPR-16838
 
 #### Designer do Forms {#forms-designer}
 
@@ -1735,13 +1735,13 @@ Os principais destaques do CFP3 são:
 ### Plataforma {#platform-13}
 
 * Uma condição de raça em **ModelAdapterFactory**, que é possível quando dois threads tentam injetar o mesmo campo, resulta em falha ao construir o modelo. NPR-16443: Hotfix do SLING-6584
-* A opção Validation no Gerenciador de pacotes para detectar conflitos entre arquivos sobrepostos (arquivo JSP ou JavaScript) em `/apps` e o que continha um Hotfix em `/libs`. A sobreposição afetada pode ser rebaseada para incluir alterações do arquivo em `/libs`. NPR-16216: Hotfix do CQ-81729
+* A opção de validação no Gerenciador de Pacotes para detectar conflitos entre arquivos sobrepostos (arquivos JSP ou JavaScript) em `/apps` e o arquivo que continha um Hotfix em `/libs`. A sobreposição afetada pode ser rebaseada para incluir alterações do arquivo em `/libs`. NPR-16216: Hotfix do CQ-81729
 * O registro no error.log às vezes para por alguns segundos após iniciar o editor e precisa ser limpo para uma nova execução. Solicitação de atualização da estrutura de registro e fornecimento de registro Sling. NPR-15913: Hotfix do Granite-15452
 * Solicitação de atualização da API &quot; `use"` do JavaScript para evitar falhas na implementação da API de uso do HTL JavaScript. NPR-16461: Hotfix do SLING-6780
 
 ### Sites {#sites-16}
 
-* Após a atualização do AEM 6.0 para o AEM 6.2, a interface clássica mostra desempenho lento enquanto pesquisa tags devido a várias consultas. Para resolver o problema, as etapas mencionadas em [Desabilitar o status de replicação no console de marcação (Interface clássica)](#disable-replication-status-in-tagging-console-classic-ui-npr) pode ser seguido. NPR-15842: Hotfix do CQ-4201748.
+* Após a atualização do AEM 6.0 para o AEM 6.2, a interface clássica mostra desempenho lento enquanto pesquisa tags devido a várias consultas. Para resolver o problema, as etapas mencionadas em [Desabilitar status de replicação no console de marcação (Interface clássica)](#disable-replication-status-in-tagging-console-classic-ui-npr) podem ser seguidas. NPR-15842: Hotfix do CQ-4201748.
 
 * Ao criar uma página na interface para toque, a verificação de Entrada para o campo &quot;nome&quot; não verifica o caractere especial &quot;Apóstrofo&quot; (o mesmo que na interface clássica). Portanto, a página não pode ser movida. NPR-16404: Hotfix do CQ-4205321.
 * Aplicar estilos diferentes em duas linhas no Editor de Rich Text e depois mesclá-los remove o estilo aplicado na segunda linha. NPR-16389: Hotfix do CQ-4203835.
@@ -1777,7 +1777,7 @@ Os principais destaques do CFP3 são:
 
 **Formulários adaptáveis**
 
-* Ao salvar um formulário adaptável com um anexo, o caminho completo do anexo é adicionado no `fileAttachment` do XML gerado, em vez do nome do anexo. NPR-16529
+* Ao salvar um formulário adaptável com um anexo, o caminho completo do anexo é adicionado à tag `fileAttachment` do XML gerado, em vez do nome do anexo. NPR-16529
 * Em formulários adaptáveis baseados em XDP, o invólucro `afData/afBoundData` está presente no XML enviado, embora mesmo o XML de preenchimento prévio não tenha invólucros `afData/afBoundData`. NPR-16118
 
 * Notação exponencial no campo Número: Ao usar formulários adaptáveis, se um número com uma fração decimal que exceda dez caracteres no total for inserido, o número se tornará uma notação exponencial no XML enviado. NPR-16106
@@ -1789,7 +1789,7 @@ Os principais destaques do CFP3 são:
 NPR: 16611
 
 * Para widgets de anexo de arquivo que permitem vários anexos, o envio de uma nova instância de formulário com um anexo em um widget que já tem um anexo anterior resulta em um código de erro exibido. Esse erro ocorre ao abrir o anexo adicionado em vez do conteúdo real. NPR-16258
-* Proteção do serviço de preenchimento prévio de formulários do acesso não autorizado por meio de protocolos como `file://`, `http://` e `ftp://`. Consulte [Configuração do serviço de Preenchimento prévio usando o Gerenciador de configurações](https://experienceleague.adobe.com/br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions). NPR-15414
+* Proteção do serviço de preenchimento prévio de formulários do acesso não autorizado por meio de protocolos como `file://`, `http://` e `ftp://`. Consulte [Configurando o serviço Preenchimento Prévio usando o Gerenciador de Configurações](https://experienceleague.adobe.com/br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions). NPR-15414
 
 * Solicite a renderização do formulário adaptável no formato PDF em vez de HTML na etapa de verificação e anexe todos os anexos ao PDF, para que a impressão exiba o formulário completo. NPR-9011
 
@@ -1821,7 +1821,7 @@ NPR: 16611
 
 **Gerenciamento de processos - HTML Workspace**
 
-* Proteção do serviço de preenchimento prévio de formulários do acesso não autorizado por meio de protocolos como &quot;file://&quot;, &quot;http://&quot; e ftp://. Para obter detalhes, consulte [Configuração do serviço de preenchimento prévio usando o Gerenciador de configurações](https://experienceleague.adobe.com/pt-br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions). NPR-15434
+* Proteção do serviço de preenchimento prévio de formulários do acesso não autorizado por meio de protocolos como &quot;file://&quot;, &quot;http://&quot; e ftp://. Para obter detalhes, consulte [Configurando o Serviço de Preenchimento Prévio com o Gerenciador de Configurações](https://experienceleague.adobe.com/pt-br/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions). NPR-15434
 
 **Gerenciamento de usuários**
 
@@ -1844,7 +1844,7 @@ NPR-15896
 
 Lista de pacotes OSGi atualizados entre o AEM 6.2 SP1 e o CFP3
 
-[Obter arquivo](assets/do-not-localize/osgi_bundle_list_for_aem-6.2sp1-cfp3.txt).
+[Obter Arquivo](assets/do-not-localize/osgi_bundle_list_for_aem-6.2sp1-cfp3.txt).
 Os principais destaques do Cumulative Fix Pack 2 são:
 
 * Correções de estabilidade e melhorias de desempenho na plataforma AEM, incluindo a estrutura Sling e as operações
@@ -1860,7 +1860,7 @@ Os principais destaques do Cumulative Fix Pack 2 são:
 
 * O `SlingPostProcessor` é acionado se a página que faz referência direta à estrutura Sling for editada. NPR-15754: Hotfix do CQ-104153
 
-* O valor das tags com a variável `tagBasePath` A propriedade não é buscada na caixa de diálogo Interface clássica ao navegar até um componente de página. NPR-15543: Hotfix do CQ-4199950
+* O valor das marcas com a propriedade `tagBasePath` não é obtido na caixa de diálogo da interface clássica ao navegar até um componente de página. NPR-15543: Hotfix do CQ-4199950
 
 * Durante a execução de operações Sling, se houver um trecho chamado “chunk_n_n-1”, o `SlingFileUpload handler.getLastChunk` é executado em infindáveis loops com trechos vazios. NPR-15455: Hotfix do SLING-5701
 
@@ -1900,7 +1900,7 @@ Observação: essa correção exige o Oak CFP 1.4.11 ou superior.
 
 ### Ativos {#assets-17}
 
-* Depois de pesquisar um ativo no Omnisearch, selecionar um ativo e tentar editar propriedades clicando em **Propriedades da exibição**, depois o **Salvar** O botão redireciona os usuários para uma página em branco. NPR-15900: Hotfix do CQ-4202372
+* Depois de pesquisar um ativo no Omnisearch, selecionar um ativo e tentar editar propriedades clicando em **Exibir propriedades**, o botão **Salvar** redirecionará os usuários para uma página em branco. NPR-15900: Hotfix do CQ-4202372
 * A interface do usuário do Assets não responde aos eventos. Selecionar um ativo e clicar em &quot;Publicar&quot; ou &quot;Representações&quot; não resulta em nenhuma atividade. NPR-15828: Hotfix do CQ-4202247
 * Ao publicar um ativo da visualização de Cartão, o Cartão não é atualizado para refletir um estado publicado. Em vez disso, a página é atualizada. NPR-15826: HotFix do CQ-102732
 * Hotfix cumulativo contendo Hotfixes de ativos. NPR-15225
@@ -1924,11 +1924,11 @@ Observação: essa correção exige o Oak CFP 1.4.11 ou superior.
 
 ### Interface do usuário {#user-interface-5}
 
-* Entrada **[!UICONTROL Interface para toque]**, a data salva é exibida para campos de data que agora têm type=&#39;datetime&#39; ao usar o navegador Internet Chrome versão 56.0.2924.87. NPR-15383: Hotfix do GRANITE-16481
+* Na **[!UICONTROL Interface para toque]**, a data salva é exibida para campos de data que agora têm type=&#39;datetime&#39; ao usar o navegador Internet Chrome versão 56.0.2924.87. NPR-15383: Hotfix do GRANITE-16481
 * Na **[!UICONTROL Interface para toque]**, o Editor de Rich Text remove o thread e os elementos de legenda das tabelas HTML ao renderizá-los. NPR-15267: Hotfix do CRTE-41
 * O `FileUpload Validator` não trata de casos em que a inicialização automática é verdadeira ou quando `uploadFile()` é chamado manualmente e gera um relatório de validação inválido nesses casos. NPR-15295: Hotfix do GRANITE-13499
 
-* O Omnisearch não permite que os clientes usem `/apps` para adicionar uma fonte de dados de coluna, pois presume que a configuração de localização está listada em */libs/granite/omnisearch/content/metadata/*. NPR-13188 Hotfix do GRANITE-16479
+* O Omnisearch não permite que os clientes que usam `/apps` adicionem uma fonte de dados de coluna, pois presume que a configuração de localização está listada em */libs/granite/omnisearch/content/metadata/*. NPR-13188 Hotfix do GRANITE-16479
 * Ao usar a **[!UICONTROL Interface para toque]**, as variantes de produto não são criadas no mesmo nível do produto. O usuário não é informado sobre o status do processo de criação de variantes. NPR-15345: HotFix do CQ-4198948
 
 **Scene7**
@@ -1947,7 +1947,7 @@ Observação: essa correção exige o Oak CFP 1.4.11 ou superior.
 
 ### Campaign {#campaign-1}
 
-* Ao usar a campanha - direcionamento e `MAC` - Componentes de integração de Teste e Target, o cancelamento da publicação da atividade não atualiza o status da atividade na interface primária. NPR-15401: HotFix do CQ-4199839
+* Ao usar os componentes de integração do Campaign - Direcionamento e do `MAC` - Teste e Direcionamento, o cancelamento da publicação da atividade não atualiza o status da atividade na interface primária. NPR-15401: HotFix do CQ-4199839
 * Ao mover um produto no AEM Commerce, o Assistente para movimentação de produtos perde os valores preenchidos previamente para o nome do produto, título, páginas referenciadas, autor de criação e data de criação. NPR-15228: Hotfix do CQ-98617
 
 ### Segurança {#security-4}
@@ -1961,7 +1961,7 @@ Observação: essa correção exige o Oak CFP 1.4.11 ou superior.
 `**Adaptive Forms**`
 
 * Os valores padrão são substituídos por valores vazios no xml mediante preenchimento prévio do formulário adaptável com XML de entrada. NPR-15721
-* A variável `afData/afBoundData` O invólucro está presente no XML enviado, embora mesmo o XML de preenchimento prévio não tenha `afData/afBoundData` invólucro em formulários adaptáveis baseados em esquemas XML. NPR-15541
+* O invólucro `afData/afBoundData` está presente no XML enviado, embora mesmo o XML de preenchimento prévio não tenha o invólucro `afData/afBoundData` em formulários adaptáveis baseados em esquemas XML. NPR-15541
 
 * Os títulos na barra do Accordion devem ser títulos HTML “h2” editáveis em vez da tag “a”. NPR-15475
 * O layout do Accordion de um painel de formulário não está acessível aos usuários de leitores de tela. Os usuários não podem navegar até a guia do Accordion só pelo teclado usando um software de leitor de tela, como o JAWS ou o NVDA. NPR-15474
@@ -2031,7 +2031,7 @@ Os principais destaques do AEM 6.2 SP2-CFP1 são:
 * Vários problemas com componentes de Implantação e um problema com a Live Copy após a migração para o AEM 6.1 SP1. NPR-15256
 * A ação de Implantação de página não cria páginas secundárias além do primeiro nível, mesmo para várias configurações de Implantação. NPR-15055
 * Ao enviar a caixa de diálogo PageProperties do Editor, os dados inalterados nas guias da Live Copy são regravados. NPR-14693
-* Quando a caixa de diálogo PageProperties é enviada do Editor, o MSM Post Processor grava alguns parâmetros da solicitação em vez da variável `msm:writeLiveCopyConfig` parâmetro. NPR-14434
+* Quando a caixa de diálogo PageProperties é enviada do Editor, o MSM Post Processor grava alguns parâmetros da solicitação em vez do parâmetro `msm:writeLiveCopyConfig`. NPR-14434
 * Vários problemas relacionados ao componente de Implantação, Live Copies e outros aspectos do MSM. NPR-12235
 
 ### Ativos {#assets-18}
@@ -2065,7 +2065,7 @@ Os principais destaques do AEM 6.2 SP2-CFP1 são:
 * Solicitação para desativar MissingMetadataNotificationJob, pois isso faz com que a interface de notificação de emblema quebre a página com uma exceção de tempo de execução &quot;Não é possível verificar a entrada&quot;. NPR-12500: Hotfix do CQ-93573
 * A opção &quot;Desativar edição&quot; para um campo de tag não funciona em páginas de propriedades de ativos na interface para toque. NPR-12429: Hotfix do CQ-88835
 * Correções de API do AEM Assets 6.2 para implementação do aplicativo complementar SMB. NPR-11099
-* Uma vez que a `Jquery` Ao atualizar, os usuários não conseguem selecionar uma coleção de ativos e confirmar a seleção no painel Associar conteúdo de um Fragmento de conteúdo. NPR-14847: Backport do CQ-4194209
+* Desde a atualização do `Jquery`, os usuários não conseguem selecionar uma coleção de ativos e confirmar a seleção no painel Associar conteúdo de um Fragmento de conteúdo. NPR-14847: Backport do CQ-4194209
 * Embora invoque classificação infinita no lado do cliente, somente artigos/banners/coleções exibidos atualmente na interface são classificados. NPR-14493: Hotfix do CQ-109926
 * Solicitação para implementar o recurso omnisearch para o serviço AEM Mobile on-demand. A pesquisa por palavra-chave para qualquer artigo, coleção ou banner não retorna nenhuma correspondência. NPR-14093: Hotfix do CQ-101394
 * Ao usar o componente de seleção Coral (*granite/ui/components/coral/foundation/form/select*) em uma caixa de diálogo, a inicialização do valor não funciona corretamente no Internet Explorer (navegadores IE11 ou Edge) quando o valor selecionado contém um único item. NPR-13395: hotfix do CQ-101013
@@ -2083,7 +2083,7 @@ Os principais destaques do AEM 6.2 SP2-CFP1 são:
 * Ao usar workflows padrão do AEM, o CQ Mailer não envia uma notificação por email para o grupo que perde o endereço de email de um único membro. NPR-14804: Solicitação de Hotfix do CQ-91499
 * Aprimoramentos de desempenho na caixa de entrada e no selo de notificação na interface de toque. NPR-14145: Hotfix do CQ-101125
 * Os usuários não conseguem visualizar a carga no console da Caixa de entrada do fluxo de trabalho ao iniciar fluxos de trabalho. NPR-13226: Hotfix do CQ-100275
-* O cookie &quot;saml_request_path&quot; configurado com o uso do SAML Authentication Handler exibe um cookie definido com um `?` caractere. Além disso, quando uma resposta SAML é postada de volta para o AEM, o cookie “saml_request_path” do AEM retorna um valor inválido devido a caracteres já codificados. NPR-13517: Proactive Hotfix do GRANITE-11722 e GRANITE-14414
+* O cookie &quot;saml_request_path&quot; configurado com o uso do SAML Authentication Handler exibe um cookie definido com um caractere `?` extra. Além disso, quando uma resposta SAML é postada de volta para o AEM, o cookie “saml_request_path” do AEM retorna um valor inválido devido a caracteres já codificados. NPR-13517: Proactive Hotfix do GRANITE-11722 e GRANITE-14414
 
 ### Dynamic Media {#dynamic-media}
 
@@ -2122,7 +2122,7 @@ NPR-13062: solicitação de hotfix do CQ-99577
 
 `**Forms Manager**`
 
-* Ao navegar na *FormsandDocuments* , o botão Colar não é exibido quando o usuário copia qualquer ativo e, em seguida, navega para uma pasta diferente. CQ-111327
+* Ao navegar no diretório *FormsandDocuments*, o botão Colar não é exibido quando o usuário copia qualquer ativo e, em seguida, navega para uma pasta diferente. CQ-111327
 
 #### Instalador do Forms no JEE {#forms-jee-installer-19}
 
@@ -2270,7 +2270,7 @@ Com o AEM Cumulative Fix Pack 6.2 SP1-CFP7 e versões posteriores, os períodos 
 
 Caso esteja usando O CFP3 ou posterior, siga estas instruções para desativar o Status de Replicação no console de Marcação na interface clássica:
 
-* Sobreposição *&quot;/libs/cq/tagging/widgets/source/widgets/admin/TagAdmin.js&quot;* in *`/apps`*
+* Sobreposição *&quot;/libs/cq/tagging/widgets/source/widgets/admin/TagAdmin.js&quot;* em *`/apps`*
 
 * Adicionar `replicationStateRequired`: &quot;false&quot; após a linha nº 416.
 
@@ -2310,7 +2310,7 @@ name="com.adobe.livecycle">
 </module>
 ```
 
-1. Crie um backup do `jsafeFIPS.jar`, `jsafeJCEFIPS.jar`, e `certjFIPS.jar` arquivos em [AEM_Forms_Installation_diretory]`/jboss/modules/system/layers/base/com/adobe/livecycle/main/` e exclua os arquivos do diretório mencionado anteriormente.
+1. Crie um backup dos arquivos `jsafeFIPS.jar`, `jsafeJCEFIPS.jar` e `certjFIPS.jar` em [AEM_Forms_Installation_diretory]`/jboss/modules/system/layers/base/com/adobe/livecycle/main/` e exclua os arquivos do diretório mencionado anteriormente.
 
 Entre em contato com o [Suporte da Adobe](https://experienceleague.adobe.com/pt-br?support-solution=General#support) para obter novos arquivos JAR. Coloque os arquivos JAR obtidos de [Suporte da Adobe](https://experienceleague.adobe.com/pt-br?support-solution=General#support) em [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
 
@@ -2346,7 +2346,7 @@ A contagem da Fila compartilhada não é atualizada para outros usuários quando
 
 1. Vá para a interface do Administrador -> Serviços -> Espaço de trabalho -> Administração global.
 1. Exportar configurações globais.
-1. No arquivo XML baixado, adicione a tag `<client_tasksPollingInterval>10</client_tasksPollingInterval>`. Dez é o exemplo de valor em segundos. É possível modificá-la de acordo.
+1. No arquivo XML baixado, adicione a marca `<client_tasksPollingInterval>10</client_tasksPollingInterval>`. Dez é o exemplo de valor em segundos. É possível modificá-la de acordo.
 1. Salve o arquivo.
 1. Volte para interface do Administrador -> Serviços -> Espaço de trabalho -> Administração global.
 1. Importe o arquivo xml na seção Importar configurações globais.
@@ -2372,7 +2372,7 @@ Os seguintes erros transitórios podem ocorrer ao instalar o AEM 6.2 SP1-CFPx. N
 No entanto, a solução alternativa é reiniciar a instância do AEM após uma atualização.
 
 * HTTP 500 Internal Server Error é recebido quando a página de detalhes do componente Console da Web é aberta.
-* Erros como **criar instância do componente** e **O alocador de serviço retornou um valor nulo** ocorre devido à reinicialização do repositório:
+* Erros como **criar instância do componente** e **O fabricante do serviço retornou como nulo** ocorrem devido à reinicialização do repositório:
 
 * com.day.cq.cq-personalization [com.day.cq.personalization.impl.DefaultProfileProvider(938)] Cannot create component instance due to failure to bind reference profileManager
 * org.apache.sling.commons.scheduler FrameworkEvent ERROR (org.osgi.framework.ServiceException: Service factory returned null. (Componente: com.day.cq.tagging.impl.TagGarbageCollector (1687)))
