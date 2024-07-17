@@ -3,16 +3,16 @@ title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '475'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 
 # [!DNL Experience Manager] Roteiro de versões {#aem-releases-roadmap}
 
-O [!DNL Adobe Experience Manager] fornece consistentemente novos recursos e melhorias às funcionalidades existentes. Ele fornece correções de erros para usuários no [!DNL Cloud Service], no Managed Services e em versões locais. Este artigo lista as próximas versões do [!DNL Experience Manager].
+O [!DNL Adobe Experience Manager] fornece de forma consistente novos recursos e melhorias nas funcionalidades já existentes. Ele fornece correções de erros para usuários no [!DNL Cloud Service], Managed Services e versões no local. Este artigo lista as próximas versões do [!DNL Experience Manager].
 
 >[!NOTE]
 >
@@ -58,7 +58,7 @@ As atualizações de produtos, em termos de novos recursos, melhorias e correç�
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-As atualizações de produtos do [!DNL Experience Manager] 6.5 são fornecidas por Service Packs trimestrais. Eles incluem novos recursos, melhorias e correções de bugs. Para obter mais detalhes sobre o service pack mais recente, consulte Notas de versão do [[!DNL Experience Manager] 6.5 service pack](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/release-notes).
+As atualizações de produtos do [!DNL Experience Manager] 6.5 são fornecidas por meio de pacotes de serviço trimestrais. Eles incluem novos recursos, melhorias e correções de bugs. Para obter mais detalhes sobre o service pack mais recente, consulte Notas de versão do [[!DNL Experience Manager] 6.5 service pack](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Versão | Versão | Tipo | Programação | Status |
 |---|---|---|---|---|

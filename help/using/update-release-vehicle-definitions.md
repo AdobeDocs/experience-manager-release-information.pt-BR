@@ -4,9 +4,9 @@ description: Este artigo detalha os vários tipos de versões do  [!DNL Experien
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '740'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ Este documento inclui detalhes sobre os vários tipos de versões do [!DNL Adobe
 
 | Itens | Descrição |
 |-------|------|
-| Definição | <ul> <li> Lançamento programado </li> <li> Oferece suporte a caminhos de atualização para versões específicas definidas nas notas de versão </li> </ul> |
+| Definição | <ul> <li> Lançamento programado </li> <li> Compatível com caminhos de atualização para versões específicas, que são definidos nas notas de versão </li> </ul> |
 | Nomenclatura | <ul> <li> Os números de versão dos principais lançamentos aumentam com base na fórmula X+1.Y.Z. </li> <li> Os números de versão para lançamentos secundários aumentam com base na fórmula X.Y+1.Z </li> </ul> X é o número da versão primária, Y é o número da versão secundária e Z é o número do patch. |
 | Inclusões | <ul> <li> Novos recursos </li> <li>  Melhorias </li> <li>  Correções de bugs </li> </ul> |
 | Documentação | <ul> <li> As notas de versão estão disponíveis no portal de documentação </li> <li> A documentação sobre recursos, melhorias e correções de bugs está disponível no portal de documentação </li> </ul> |
@@ -34,7 +34,7 @@ Este documento inclui detalhes sobre os vários tipos de versões do [!DNL Adobe
 
 | Item | Descrição |
 |-----|-----|
-| Definição | <ul> <li> Lançamento programado </li> <li> No momento, não é possível reverter </li> </ul> |
+| Definição | <ul> <li> Lançamento programado </li> <li> Atualmente, não é possível reverter </li> </ul> |
 | Nomenclatura | <ul> <li> O número de versão do patch é um número de um só dígito </li> <li> Após a instalação, o dígito de correção do número de versão instalado aumentará com base na fórmula X.Y.Z.SPx </li> </ul> X é o número da versão primária, Y é o número da versão secundária e Z é o número do patch. x é o número do service pack. |
 | Inclusões | <ul> <li> Novos recursos</li> <li>  Melhorias </li> <li> Correções de bugs </li> <li> Pacotes de recursos de interesses comuns (se houver) </li> </ul> |
 | Documentação | <ul> <li> As notas de versão estão disponíveis no portal de documentação </li> <li> A documentação sobre recursos, melhorias, correções de bugs está disponível no portal de documentação </li> </ul> |
@@ -48,10 +48,10 @@ Este documento inclui detalhes sobre os vários tipos de versões do [!DNL Adobe
 |-----|-----|
 | Definição | <ul> <li> Modelo de entrega único de lançamentos de correções </li> <li> Pacote de conteúdo do agregador contendo o pacote de conteúdo de componentes individuais </li> <li>  Os CFPs são sobreposições de hot fixes e não incluem nenhum aprimoramento.  </li> </ul> |
 | Nomenclatura | X.Y.Z.CFPx <br> X é o número da versão primária, Y é o número da versão secundária e Z é o número do patch. x é o número do pacote de serviços cumulativos. |
-| Inclusões | O CFP é um Cumulative Fix Pack que contém correções de todos os componentes em datas especificadas. Por exemplo, se um cliente aplicar o CFP3, então CFP3 = CFP1 + CFP2. |
+| Inclusões | CFP é um pacote de correções cumulativo com correções de todos os componentes ao longo de datas especificadas. Por exemplo, se um cliente aplicar o CFP3, então CFP3 = CFP1 + CFP2. |
 | Documentação | As notas de versão estão disponíveis no portal de documentação |
 | Cadência | Trimestral |
-| Disponibilidade e instalação | <ul> <li> Fornecido como um pacote </li> <li>  Disponível na Distribuição de software </li> <li>  Depende do lançamento do service pack mais recente </li> <li>  O CFP é autodependente. Os clientes não precisam se preocupar em encontrar/resolver dependências. O CFP deve ser instalado no service pack mais recente. </li> <li>  O CFP pode ser instalado como um pacote único, o que melhora a experiência do cliente.  </li> </ul> |
+| Disponibilidade e instalação | <ul> <li> Fornecido como um pacote </li> <li>  Disponível na Distribuição de software </li> <li>  Depende do lançamento do service pack mais recente </li> <li>  O CFP é autodependente. Os clientes não precisam se preocupar em encontrar/resolver dependências. O CFP deve ser instalado no pacote de serviços mais recente. </li> <li>  O CFP pode ser instalado como um pacote único, o que melhora a experiência do cliente.  </li> </ul> |
 | Nível de teste | Controle de qualidade validado no nível de integração e teste de regressão |
 
 ## Sobreposição {#overlay}
@@ -69,7 +69,7 @@ Este documento inclui detalhes sobre os vários tipos de versões do [!DNL Adobe
 
 | Itens | Detalhes |
 |--------|-----|
-| Definição | <ul> <li>Os Feature Packs são funcionalidades complementares fornecidas por meio de service packs. Se uma versão [!DNL Experience Manager] tiver lançado seu último service pack, o Adobe não fornecerá nenhum pacote de recursos para ele no futuro. </li> <li> Os FPs (pacotes de recursos) contêm aprimoramentos de produtos, programados para uma versão subsequente do produto, mas fornecidos antecipadamente com base na decisão do Gerenciamento de produtos do [!DNL Adobe's].</li> <li>  Os recursos são sempre mesclados com a próxima versão principal. Em seguida, eles são transferidos para a versão [!DNL Experience Manager] exigida pelo cliente </li> <li>  Os pacotes de recursos de Interesses Comuns e Disponibilidade Geral (GA) são mesclados no próximo service pack  </li> </ul> |
+| Definição | <ul> <li>Os pacotes de recursos são funcionalidades complementares fornecidas através dos pacotes de serviços. Se uma versão do [!DNL Experience Manager] lançou seu último pacote de serviços, a Adobe não fornecerá nenhum pacote de recursos para ela no futuro. </li> <li> Os FPs contêm aprimoramentos de produtos, programados para uma versão subsequente do produto, mas fornecidos antecipadamente com base na decisão do Gerenciamento de produtos da [!DNL Adobe's].</li> <li>  Os recursos são sempre mesclados com a próxima versão principal. Em seguida, eles são transferidos para a versão do [!DNL Experience Manager] exigida pelo cliente </li> <li>  Os pacotes de recursos de Interesses Comuns e Disponibilidade Geral (GA) são mesclados no próximo service pack  </li> </ul> |
 | Nomenclatura | `cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version>` |
 | Inclusões | <ul> <li> Novos recursos </li> <li> Melhorias </li> <li> Correções de bugs (atualizações de produtos incrementais) </li> </ul> |
 | Documentação | A documentação está disponível em adobe.com. |
@@ -77,4 +77,4 @@ Este documento inclui detalhes sobre os vários tipos de versões do [!DNL Adobe
 | Disponibilidade e instalação | <ul> <li>Fornecido pelos Service Packs </li> <li> Disponível na Distribuição de software. Os clientes aceitam os Termos e condições do [!DNL Adobe's] por meio da Distribuição de software. </li> </ul> |
 | Nível de teste | Os pacotes de recursos de Disponibilidade geral são validados pelo Controle de qualidade. |
 
-* 1: as correções do Oak não são fornecidas como um hotfix individual. No entanto, elas estão incluídas no hot fix do Cumulative Oak subsequente. Se necessário, uma build de diagnóstico, além do COFP mais recente, pode ser disponibilizada. A condição prévia é que o cliente tenha o COFP mais recente em execução. As builds de diagnóstico fornecem apenas o mesmo nível de controle de qualidade que um hot fix. Portanto, elas não fornecem o mesmo nível de controle de qualidade de um pacote de correções cumulativo, um pacote de serviços ou uma versão do produto. A correção final é fornecida com o próximo CFP.
+* 1: as correções do Oak não são fornecidas como um hotfix individual. No entanto, elas estão incluídas no hot fix do Cumulative Oak subsequente. Se necessário, uma build de diagnóstico, além do COFP mais recente, pode ser disponibilizada. A condição prévia é que o cliente tenha o COFP mais recente em execução. As builds de diagnóstico somente fornecem o mesmo nível de controle de qualidade que um hotfix. Portanto, elas não fornecem o mesmo nível de controle de qualidade de um pacote de correções cumulativo, um pacote de serviços ou uma versão do produto. A correção final é fornecida com o próximo CFP.

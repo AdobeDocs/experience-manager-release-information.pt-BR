@@ -1,11 +1,11 @@
 ---
 title: Atualizações e roteiro de versão do Adobe Experience Manager
-description: Saiba mais sobre as atualizações de versão e o roteiro do Adobe Experience Manager.
+description: Saiba mais sobre as atualizações e roteiro de versão do Adobe Experience Manager.
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
