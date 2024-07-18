@@ -2,10 +2,10 @@
 title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: ht
-source-wordcount: '475'
-ht-degree: 100%
+source-git-commit: d65b79e8a568a0e2356930d25ec205b3548569a0
+workflow-type: tm+mt
+source-wordcount: '477'
+ht-degree: 99%
 
 ---
 
@@ -37,13 +37,13 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Versão de manutenção [16544](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-6-0#release-16544) | Atualização automática | 10 a 12 de junho de 2024 | Atualizado |
 | Versão de manutenção [16799](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-6-0#release-16799) | Atualização automática | 24 a 26 de junho de 2024 | Atualizado |
 | Lançamento de recurso [2024.6.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Ativação de recurso | 27 de junho de 2024 | Ativado |
+| Versão de manutenção [16971](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-16971) | Atualização automática | 8 a 10 de julho de 2024 | Atualizado |
 
 ### Versões posteriores {#upcoming}
 
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
-| Versão de manutenção [16971](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 8 a 10 de julho de 2024 | Meta |
-| Versão de manutenção | Atualização automática | 22 a 24 de julho de 2024 | Meta |
+| Versão de manutenção [17098](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 22 a 24 de julho de 2024 | Meta |
 | Lançamento de recurso 2024.7.0 | Ativação de recurso | 25 de julho de 2024 | Meta |
 | Versão de manutenção | Atualização automática | 5 a 7 de agosto de 2024 | Meta |
 | Versão de manutenção | Atualização automática | 19 a 21 de agosto de 2024 | Meta |
