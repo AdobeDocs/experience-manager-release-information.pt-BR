@@ -2,10 +2,10 @@
 title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 8283fce635bbd46a877047ed4fd89bab5c18a180
-workflow-type: ht
-source-wordcount: '423'
-ht-degree: 100%
+source-git-commit: 554160056b91f09616c923fbd3d8244e3ea1b190
+workflow-type: tm+mt
+source-wordcount: '456'
+ht-degree: 90%
 
 ---
 
@@ -54,7 +54,7 @@ As atualizações de produtos, em termos de novos recursos, melhorias e correç�
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-As atualizações de produtos do [!DNL Experience Manager] 6.5 são fornecidas por meio de pacotes de serviço trimestrais. Eles incluem novos recursos, melhorias e correções de bugs. Para obter mais detalhes sobre o service pack mais recente, consulte Notas de versão do [[!DNL Experience Manager] 6.5 service pack](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/release-notes).
+As atualizações de produto do [!DNL Experience Manager] 6.5 são fornecidas por Service Packs. Eles incluem novos recursos, melhorias e correções de bugs. Para obter mais detalhes sobre o service pack mais recente, consulte Notas de versão do [[!DNL Experience Manager] 6.5 service pack](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Versão | Versão | Tipo | Programação | Status |
 |---|---|---|---|---|
@@ -63,6 +63,10 @@ As atualizações de produtos do [!DNL Experience Manager] 6.5 são fornecidas p
 | [!DNL Experience Manager] 6.5 [Pacote de serviços 20](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/service-pack/6-5-20) | 6.5.20.0 | Pacote de serviços | 22 de fevereiro de 2024 | Ativado |
 | [!DNL Experience Manager] 6.5 [Pacote de serviços 21](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.21.0 | Pacote de serviços | 6 de junho de 2024 | Ativado |
 | [!DNL Experience Manager] 6.5 Pacote de serviços 22 | 6.5.22.0 | Pacote de serviços | 21 de novembro de 2024 | Meta |
+
+>[!NOTE]
+>
+> As datas de lançamento do AEM 6.5 Service Packs agora serão planejadas individualmente, em vez de nos ciclos trimestrais fixos, como antes. Mantenha-se informado sobre as próximas versões do Service Pack nesta página.
 
 >[!NOTE]
 >
