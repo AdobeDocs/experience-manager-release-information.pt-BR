@@ -2,10 +2,10 @@
 title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 617da2f08f7ae168f57b90517a4feb6be5145075
+source-git-commit: 38cb8aa3a4a917db1087dbc36295f745cf3f07bf
 workflow-type: tm+mt
-source-wordcount: '459'
-ht-degree: 92%
+source-wordcount: '546'
+ht-degree: 86%
 
 ---
 
@@ -35,18 +35,32 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Lançamento de recurso [2024.6.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-6-0) | Ativação de recurso | 27 de junho de 2024 | Ativado |
 | Versão de manutenção [16971](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-16971) | Atualização automática | 8 a 10 de julho de 2024 | Atualizado |
 | Versão de manutenção [17098](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-17098) | Atualização automática | 22 a 24 de julho de 2024 | Atualizado |
-| Lançamento de recurso [2024.7.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Ativação de recurso | 25 de julho de 2024 | Ativado |
+| Lançamento de recurso [2024.7.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-7-0) | Ativação de recurso | 25 de julho de 2024 | Ativado |
 | Versão de manutenção [17258](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17258) | Atualização automática | 5 a 7 de agosto de 2024 | Atualizado |
 | Versão de manutenção [17465](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17465) | Atualização automática | 19 a 21 de agosto de 2024 | Atualizado |
+| Lançamento de recurso [2024.8.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Ativação de recurso | 29 de agosto de 2024 | Ativado |
+| Versão de manutenção [17569](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17569) | Atualização automática | 2 a 4 de setembro de 2024 | Atualizado |
 
 ### Versões posteriores {#upcoming}
 
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
-| Lançamento de recurso 2024.8.0 | Ativação de recurso | 29 de agosto de 2024 | Meta |
-| Versão de manutenção [17569](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 2 a 4 de setembro de 2024 | Meta |
-| Versão de manutenção | Atualização automática | 16 a 18 de setembro de 2024 | Meta |
+| Versão de manutenção [17689](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 16 a 18 de setembro de 2024 | Meta |
 | Lançamento de recurso 2024.9.0 | Ativação de recurso | 26 de setembro de 2024 | Meta |
+| Versão de manutenção | Atualização automática | 30 de setembro - 2 de outubro de 2024 | Meta |
+| Versão de manutenção | Atualização automática | 14-16 de outubro de 2024 | Meta |
+| Versão de manutenção | Atualização automática | 28 a 30 de outubro de 2024 | Meta |
+| Lançamento de recurso 2024.10.0 | Ativação de recurso | sexta-feira, 31 de outubro de 2024 | Meta |
+| Versão de manutenção | Atualização automática | 11-13 de novembro de 2024 | Planejado |
+
+>[!CAUTION]
+>
+>**Período de Exclusão de manutenção planejada**
+>
+> Nenhuma manutenção automática do AEMaaCS será executada durante os seguintes períodos de tempo, começando e terminando à meia-noite (00:00) CET:
+>
+>* de segunda-feira, 25 de novembro de 2024 até terça-feira, 3 de dezembro de 2024.
+>* O período de exclusão de fim de ano será adicionado em breve.
 
 ## [!DNL Experience Manager] no local e Managed Services {#aem-on-prem-managed-services}
 
