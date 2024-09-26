@@ -40,14 +40,14 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Versão de manutenção [17465](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17465) | Atualização automática | 19 a 21 de agosto de 2024 | Atualizado |
 | Lançamento de recurso [2024.8.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Ativação de recurso | 29 de agosto de 2024 | Ativado |
 | Versão de manutenção [17569](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17569) | Atualização automática | 2 a 4 de setembro de 2024 | Atualizado |
-| Versão de manutenção [17689](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17689) | Atualização automática | 16 a 18 de setembro de 2024 | Atualizado |
+| Versão de manutenção [17689](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17689) | Atualização automática | 16 a 18 de setembro de 2024 | Atualizado |
 
 ### Versões posteriores {#upcoming}
 
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
 | Lançamento de recurso 2024.9.0 | Ativação de recurso | 26 de setembro de 2024 | Meta |
-| Versão de manutenção [17964](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 30 de setembro a 2 de outubro de 2024 | Meta |
+| Versão de manutenção [17964](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 30 de setembro a 2 de outubro de 2024 | Meta |
 | Versão de manutenção | Atualização automática | 14 a 16 de outubro de 2024 | Meta |
 | Versão de manutenção | Atualização automática | 28 a 30 de outubro de 2024 | Meta |
 | Lançamento de recurso 2024.10.0 | Ativação de recurso | 31 de outubro de 2024 | Meta |
