@@ -23,7 +23,7 @@ O [!DNL Adobe Experience Manager] fornece de forma consistente novos recursos e 
 Os novos recursos do [!DNL Experience Manager] as a [!DNL Cloud Service] são fornecidos por meio de uma [ativação mensal de recursos](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current), enquanto as correções de erros e os aprimoramentos são fornecidos duas vezes por mês por meio das [versões de manutenção](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest).
 As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] estão planejadas da seguinte forma:
 
-### Últimas [!DNL Cloud Service] Versões {#past}
+### Versões anteriores do [!DNL Cloud Service] {#past}
 
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
@@ -36,7 +36,7 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Versão de manutenção [17964](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-17964) | Atualização automática | 30 de setembro a 2 de outubro de 2024 | Atualizado |
 | Versão de manutenção [18175](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-18175) | Atualização automática | 14 a 16 de outubro de 2024 | Atualizado |
 
-### Próximas [!DNL Cloud Service] Versões {#upcoming}
+### Próximas versões do [!DNL Cloud Service] {#upcoming}
 
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
