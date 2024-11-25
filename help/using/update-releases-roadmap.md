@@ -2,10 +2,10 @@
 title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 5cfeb22daf15d2fd9ab681ee60db8283ec1240b5
-workflow-type: ht
-source-wordcount: '496'
-ht-degree: 100%
+source-git-commit: b67873b938f36e863d769feb0416fb79a47638fd
+workflow-type: tm+mt
+source-wordcount: '497'
+ht-degree: 99%
 
 ---
 
@@ -36,14 +36,14 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Versão de manutenção [17964](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-17964) | Atualização automática | 30 de setembro a 2 de outubro de 2024 | Atualizado |
 | Versão de manutenção [18175](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-18175) | Atualização automática | 14 a 16 de outubro de 2024 | Atualizado |
 | Versão de manutenção [18311](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#18311) | Atualização automática | 28 a 30 de outubro de 2024 | Atualizado |
-| Lançamento de recurso [2024.10.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Ativação de recurso | 31 de outubro de 2024 | Ativado |
+| Lançamento de recurso [2024.10.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-10-0) | Ativação de recurso | 31 de outubro de 2024 | Ativado |
 | Versão de manutenção [18598](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 11 a 13 de novembro de 2024 | Atualizado |
+| Lançamento de recurso [2024.11.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Ativação de recurso | 21 de novembro de 2024 | Meta |
 
 ### Próximas versões do [!DNL Cloud Service] {#upcoming}
 
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
-| Lançamento de recurso 2024.11.0 | Ativação de recurso | 21 de novembro de 2024 | Meta |
 | Versão de manutenção | Atualização automática | 9-11 de dezembro de 2024 | Meta |
 | Lançamento de recurso 2024.12.0 | Ativação de recurso | 12 de dezembro de 2024 | Meta |
 | Versão de manutenção | Atualização automática | 20-22 de janeiro de 2025 | Meta |
