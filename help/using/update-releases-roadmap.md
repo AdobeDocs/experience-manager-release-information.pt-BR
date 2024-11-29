@@ -3,9 +3,9 @@ title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 657fecf2d8df9bdf5f50daa63aadc42a828218ef
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '484'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -41,15 +41,15 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
-| Versão de manutenção | Atualização automática | 13-15 de janeiro de 2025 | Meta |
-| Versão de manutenção | Atualização automática | 27-29 de janeiro de 2025 | Meta |
+| Versão de manutenção | Atualização automática | 13 a 15 de janeiro de 2025 | Meta |
+| Versão de manutenção | Atualização automática | 27 a 29 de janeiro de 2025 | Meta |
 | Lançamento de recurso 2025.1.0 | Ativação de recurso | sexta-feira, 30 de janeiro de 2025 | Meta |
-| Versão de manutenção | Atualização automática | 10-12 de fevereiro de 2025 | Meta |
-| Versão de manutenção | Atualização automática | 24-26 de fevereiro de 2025 | Meta |
+| Versão de manutenção | Atualização automática | 10 a 12 de fevereiro de 2025 | Meta |
+| Versão de manutenção | Atualização automática | 24 a 26 de fevereiro de 2025 | Meta |
 | Lançamento de recurso 2025.2.0 | Ativação de recurso | sexta-feira, 27 de fevereiro de 2025 | Meta |
-| Versão de manutenção | Atualização automática | 10-12 de março de 2025 | Meta |
-| Versão de manutenção | Atualização automática | 24-26 de março de 2025 | Meta |
-| Lançamento de recurso 2025.3.0 | Ativação de recurso | sexta-feira, 27 de março de 2025 | Meta |
+| Versão de manutenção | Atualização automática | 10 a 12 de março de 2025 | Meta |
+| Versão de manutenção | Atualização automática | 24 a 26 de março de 2025 | Meta |
+| Lançamento de recurso 2025.3.0 | Ativação de recurso | 27 de março de 2025 | Meta |
 
 >[!CAUTION]
 >
@@ -71,10 +71,10 @@ As atualizações de produtos do [!DNL Experience Manager] 6.5 são fornecidas p
 | Versão | Versão | Tipo | Programação | Status |
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 [Pacote de serviços 20](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/service-pack/6-5-20) | 6.5.20.0 | Pacote de serviços | 22 de fevereiro de 2024 | Ativado |
-| [!DNL Experience Manager] 6.5 [Pacote de serviços 21](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | Pacote de serviços | 6 de junho de 2024 | Ativado |
+| [!DNL Experience Manager] 6.5 [Pacote de serviços 21](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | Pacote de serviços | 6 de junho de 2024 | Ativado |
 | [!DNL Experience Manager] 6.5 [Pacote de serviços 22](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.22.0 | Pacote de serviços | 21 de novembro de 2024 | Ativado |
-| [!DNL Experience Manager] 6.5 Pacote de serviços 23 | 6.5.23.0 | Pacote de serviços | sexta-feira, 22 de maio de 2025 | Meta |
-| [!DNL Experience Manager] 6.5 Pacote de serviços 24 | 6.5.24.0 | Pacote de serviços | sexta-feira, 20 de novembro de 2025 | Meta |
+| [!DNL Experience Manager] 6.5 Pacote de serviços 23 | 6.5.23.0 | Pacote de serviços | 22 de maio de 2025 | Meta |
+| [!DNL Experience Manager] 6.5 Pacote de serviços 24 | 6.5.24.0 | Pacote de serviços | 20 de novembro de 2025 | Meta |
 
 >[!NOTE]
 >
