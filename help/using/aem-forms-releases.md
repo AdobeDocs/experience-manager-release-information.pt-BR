@@ -2,7 +2,8 @@
 title: Versões do AEM Forms
 description: Conheça todas as versões do AEM Forms e pacotes correspondentes.
 contentOwner: khsingh
-source-git-commit: 55e864d7cbed138167652c54e1dec58e7c07f19a
+exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
+source-git-commit: b6e94ed3826e6f6750d980a5622d600664cf2f2c
 workflow-type: tm+mt
 source-wordcount: '3156'
 ht-degree: 99%
@@ -14,7 +15,6 @@ ht-degree: 99%
 O Adobe Experience Manager [!DNL Forms] é um aplicativo implantado no AEM. Ele aprimora as experiências da web e em dispositivos móveis para formulários e documentos corporativos. Essa funcionalidade permite que as organizações concluam interações digitais complexas, melhorem as experiências do usuário e estendam seu alcance comercial. O AEM [!DNL Forms] é incluído por padrão no AEM Quick Start, mas conta com um conjunto limitado de funcionalidades. O pacote complementar do AEM [!DNL Forms] fornece recursos avançados, como integração com o [!DNL Adobe Analytics], [!DNL Adobe Sign], serviços de documentos, motor de fluxo de trabalho e muito mais.
 
 >[!NOTE]
->
 >
 >O recurso de formulários adaptáveis, disponível no [Início rápido do AEM 6.5](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/implementing/deploying/deploying/deploy), foi projetado apenas para fins de exploração e avaliação. Para usá-lo na produção, é essencial obter uma licença válida para o AEM Forms, pois a funcionalidade de formulários adaptáveis requer uma licença adequada.
 
