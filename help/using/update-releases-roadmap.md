@@ -2,10 +2,10 @@
 title: Roteiro de versões do [!DNL Adobe Experience Manager]
 description: Roteiro de versões do [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: c7dfe54cbb913afbf09ea38b9dcdeb9345362b8e
+source-git-commit: 11ecba7047019b1d4508bfb0926f7d0f7c526dcc
 workflow-type: tm+mt
-source-wordcount: '448'
-ht-degree: 99%
+source-wordcount: '442'
+ht-degree: 96%
 
 ---
 
@@ -44,17 +44,12 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Versão de manutenção | Atualização automática | 24 a 26 de fevereiro de 2025 | Meta |
 | Lançamento de recurso 2025.2.0 | Ativação de recurso | sexta-feira, 27 de fevereiro de 2025 | Meta |
 | Versão de manutenção | Atualização automática | 10 a 12 de março de 2025 | Meta |
-| Versão de manutenção | Atualização automática | 24 a 26 de março de 2025 | Meta |
 | Lançamento de recurso 2025.3.0 | Ativação de recurso | 27 de março de 2025 | Meta |
-
->[!CAUTION]
->
->**Período de Exclusão de manutenção planejada**
->
-> Nenhuma manutenção automática do AEMaaCS será executada durante os seguintes períodos de tempo, começando e terminando à meia-noite (00:00) CET:
->
->* De segunda-feira, 25 de novembro, a terça-feira, 3 de dezembro de 2024.
->* De segunda-feira, 16 de dezembro de 2024, a sexta-feira, 3 de janeiro de 2025.
+| Versão de manutenção | Atualização automática | 31 de março - 2 de abril de 2025 | Meta |
+| Versão de manutenção | Atualização automática | 14-16 de abril de 2025 | Meta |
+| Lançamento de recurso 2025.4.0 | Ativação de recurso | sexta-feira, 24 de abril de 2025 | Meta |
+| Versão de manutenção | Atualização automática | 28-30 de abril de 2025 | Meta |
+| Versão de manutenção | Atualização automática | 12-14 de maio de 2025 | Meta |
 
 ## [!DNL Experience Manager] no local e Managed Services {#aem-on-prem-managed-services}
 
