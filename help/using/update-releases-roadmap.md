@@ -2,10 +2,10 @@
 title: Roteiro de versões do [!DNL Adobe Experience Manager]
 description: Roteiro de versões do [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 11ecba7047019b1d4508bfb0926f7d0f7c526dcc
-workflow-type: ht
-source-wordcount: '442'
-ht-degree: 100%
+source-git-commit: 0e7ee37bb33347b968a9ece5d0d880d860d20ab1
+workflow-type: tm+mt
+source-wordcount: '439'
+ht-degree: 99%
 
 ---
 
@@ -35,13 +35,13 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Versão de manutenção [18751](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#18751) | Atualização automática | 13 a 15 de janeiro de 2025 | Ativado |
 | Versão de manutenção [19149](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#19149) | Atualização automática | 27 a 29 de janeiro de 2025 | Atualizado |
 | Lançamento de recurso [2025.1.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Ativação do recurso | sexta-feira, 30 de janeiro de 2025 | Ativado |
+| Versão de manutenção [19352](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19352) | Atualização automática | 10 a 12 de fevereiro de 2025 | Atualizado |
 
 ### Próximas versões do [!DNL Cloud Service] {#upcoming}
 
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
-| Versão de manutenção [19352](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 10 a 12 de fevereiro de 2025 | Destino |
-| Versão de manutenção | Atualização automática | 24 a 26 de fevereiro de 2025 | Destino |
+| Versão de manutenção [19586](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 24 a 26 de fevereiro de 2025 | Destino |
 | Lançamento de recurso 2025.2.0 | Ativação do recurso | sexta-feira, 27 de fevereiro de 2025 | Destino |
 | Versão de manutenção | Atualização automática | 10 a 12 de março de 2025 | Destino |
 | Lançamento de recurso 2025.3.0 | Ativação do recurso | 27 de março de 2025 | Destino |
