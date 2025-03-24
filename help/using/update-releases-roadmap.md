@@ -3,9 +3,9 @@ title: Roteiro de versões do [!DNL Adobe Experience Manager]
 description: Roteiro de versões do [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 2ec3c4f14009d804a6a935ae310705be6a547f59
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '434'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -40,16 +40,16 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
 | Lançamento de recurso 2025.3.0 | Ativação do recurso | 27 de março de 2025 | Destino |
-| Versão de manutenção | Atualização automática | 7-9 de abril de 2025 | Destino |
+| Versão de manutenção | Atualização automática | 7 a 9 de abril de 2025 | Destino |
 | Versão de manutenção | Atualização automática | 21 a 23 de abril de 2025 | Destino |
 | Lançamento de recurso 2025.4.0 | Ativação do recurso | 24 de abril de 2025 | Destino |
 | Versão de manutenção | Atualização automática | 5 a 7 de maio de 2025 | Destino |
 | Versão de manutenção | Atualização automática | 19 a 21 de maio de 2025 | Destino |
-| Lançamento de recurso 2025.5.0 | Ativação do recurso | sexta-feira, 29 de maio de 2025 | Destino |
-| Versão de manutenção | Atualização automática | 2-4 de junho de 2025 | Destino |
-| Versão de manutenção | Atualização automática | 16-18 de junho de 2025 | Destino |
-| Lançamento de recurso 2025.6.0 | Ativação do recurso | sexta-feira, 26 de junho de 2025 | Destino |
-| Versão de manutenção | Atualização automática | 30 de junho - 2 de julho de 2025 | Destino |
+| Lançamento de recurso 2025.5.0 | Ativação do recurso | 29 de maio de 2025 | Destino |
+| Versão de manutenção | Atualização automática | 2 a 4 de junho de 2025 | Destino |
+| Versão de manutenção | Atualização automática | 16 a 18 de junho de 2025 | Destino |
+| Lançamento de recurso 2025.6.0 | Ativação do recurso | 26 de junho de 2025 | Destino |
+| Versão de manutenção | Atualização automática | 30 de junho a 2 de julho de 2025 | Destino |
 
 ## [!DNL Experience Manager] no local e Managed Services {#aem-on-prem-managed-services}
 
