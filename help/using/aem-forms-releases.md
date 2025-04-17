@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 42410da78ff4efcafa86893d907c800ee98c1b5f
 workflow-type: tm+mt
 source-wordcount: '3226'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -41,8 +41,8 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tr>
    <tr>
     <td>7 de março de 2025</td>
-    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms</a></td>
-    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms</a></td>
+    <td><a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms</a></td>
+    <td><a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms</a></td>
     <td>
      <ul>
      <br><b>AEM Forms 6.5 LTS em instaladores completos do OSGi</b></br>
@@ -701,7 +701,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
 
 `[2]` O pacote complementar do AEM [!DNL Forms] para macOS X não é compatível com o ambiente de produção e deve ser usado somente para fins de demonstração. O recurso PDF Generator não está disponível para o pacote do macOS X.
 
-O Pacote de Compatibilidade do `[3]` AEM [!DNL Forms] para 6.5.4.0 permanece o mesmo da versão 6.5.3.0.
+O pacote de compatibilidade do `[3]` AEM [!DNL Forms] para a versão 6.5.4.0 permanece o mesmo da versão 6.5.3.0.
 
 ## Lembretes {#things-to-remember}
 
