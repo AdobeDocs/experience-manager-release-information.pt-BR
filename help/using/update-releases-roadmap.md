@@ -2,10 +2,10 @@
 title: Roteiro de versões do [!DNL Adobe Experience Manager]
 description: Roteiro de versões do [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 0b4aa3f8d20e1eacdd8c1ea47812f277fcbc092d
-workflow-type: ht
-source-wordcount: '437'
-ht-degree: 100%
+source-git-commit: eb4564a4b7f85782393bc777490254ce2365f891
+workflow-type: tm+mt
+source-wordcount: '439'
+ht-degree: 99%
 
 ---
 
@@ -35,13 +35,13 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Lançamento de recurso [2025.2.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-2-0) | Ativação do recurso | 4 de março de 2025 | Ativado |
 | Versão de manutenção [19823](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-3-0#19823) | Atualização automática | 10 a 12 de março de 2025 | Atualizado |
 | Lançamento de recurso [2025.3.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Ativação do recurso | 27 de março de 2025 | Ativado |
+| Versão de manutenção [20133](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-4-0#20133) | Atualização automática | 7 a 9 de abril de 2025 | Atualizado |
 
 ### Próximas versões do [!DNL Cloud Service] {#upcoming}
 
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
-| Versão de manutenção [20133](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 7 a 9 de abril de 2025 | Destino |
-| Versão de manutenção | Atualização automática | 22 a 24 de abril de 2025 | Destino |
+| Versão de manutenção [20476](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 22 a 24 de abril de 2025 | Destino |
 | Lançamento de recurso 2025.4.0 | Ativação do recurso | 24 de abril de 2025 | Destino |
 | Versão de manutenção | Atualização automática | 5 a 7 de maio de 2025 | Destino |
 | Versão de manutenção | Atualização automática | 19 a 21 de maio de 2025 | Destino |
