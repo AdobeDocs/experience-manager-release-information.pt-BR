@@ -2,9 +2,9 @@
 title: Roteiro de versões do [!DNL Adobe Experience Manager]
 description: Roteiro de versões do [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: ed9f891e2a8a353ab73e33fdfe5835e3b639c7f6
+source-git-commit: 15c9a8197e64ecc50fcaed8a699a94d8871a34bd
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '478'
 ht-degree: 94%
 
 ---
@@ -35,13 +35,13 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Versão de manutenção [20133](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-4-0#20133) | Atualização automática | 7 a 9 de abril de 2025 | Atualizado |
 | Versão de manutenção [20476](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-4-0#20476) | Atualização automática | 22 a 24 de abril de 2025 | Atualizado |
 | Lançamento de recurso [2025.4.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Ativação do recurso | 24 de abril de 2025 | Ativado |
-| Versão de manutenção [20626](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 5 a 7 de maio de 2025 | Ativado |
+| Versão de manutenção [20626](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-5-0#20626) | Atualização automática | 5 a 7 de maio de 2025 | Ativado |
 
 ### Próximas versões do [!DNL Cloud Service] {#upcoming}
 
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
-| Versão de manutenção | Atualização automática | 2 a 4 de junho de 2025 | Destino |
+| Versão de manutenção [21005](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 2 a 4 de junho de 2025 | Destino |
 | Lançamento de recurso 2025.5.0 | Ativação do recurso | 5 de junho de 2025 | Destino |
 | Versão de manutenção | Atualização automática | 16 a 18 de junho de 2025 | Destino |
 | Lançamento de recurso 2025.6.0 | Ativação do recurso | 26 de junho de 2025 | Destino |
