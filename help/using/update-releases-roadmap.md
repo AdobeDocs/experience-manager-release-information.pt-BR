@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 15c9a8197e64ecc50fcaed8a699a94d8871a34bd
 workflow-type: tm+mt
 source-wordcount: '478'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -56,11 +56,11 @@ As atualizações de produtos, em termos de novos recursos, melhorias e correç�
 
 ### [!DNL Experience Manager] 6.5 LTS {#aem65lts}
 
-As atualizações de produto do [!DNL Experience Manager] 6.5 LTS são fornecidas por Service Packs. Eles incluem novos recursos, melhorias e correções de erros. Para obter detalhes sobre o service pack mais recente, consulte as [[!DNL Experience Manager] notas de versão do 6.5 LTS](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65-lts/content/release-notes/release-notes).
+As atualizações de produtos do [!DNL Experience Manager] 6.5 LTS são fornecidas por meio de pacotes de serviço. Eles incluem novos recursos, melhorias e correções de erros. Para obter detalhes sobre o pacote de serviços mais recente, consulte as notas de versão do [[!DNL Experience Manager]  6.5 LTS](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65-lts/content/release-notes/release-notes).
 
 | Versão | Versão | Tipo | Programação | Status |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 1 do LTS | 6.5.LTS.SP1 | Pacote de serviços |  sexta-feira, 21 de agosto de 2025 | Destino |
+| Pacote de serviços 1 do [!DNL Experience Manager] 6.5 LTS | 6.5.LTS.SP1 | Pacote de serviços | 21 de agosto de 2025 | Destino |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
