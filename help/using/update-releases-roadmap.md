@@ -3,9 +3,9 @@ title: Roteiro de versões do [!DNL Adobe Experience Manager]
 description: Roteiro de versões do [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 9f6b3c7c3f75c58050d3371b2778c510db341477
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '491'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -44,13 +44,13 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Versão de manutenção | Atualização automática | 14 a 16 de julho de 2025 | Destino |
 | Versão de manutenção | Atualização automática | 28 a 30 de julho de 2025 | Destino |
 | Lançamento de recurso 2025.7.0 | Ativação do recurso | 31 de julho de 2025 | Destino |
-| Versão de manutenção | Atualização automática | 11-13 de agosto de 2025 | Destino |
-| Versão de manutenção | Atualização automática | 25-27 de agosto de 2025 | Destino |
-| Lançamento de recurso 2025.8.0 | Ativação do recurso | sexta-feira, 28 de agosto de 2025 | Destino |
-| Versão de manutenção | Atualização automática | 8-10 de setembro de 2025 | Destino |
-| Versão de manutenção | Atualização automática | 22-24 de setembro de 2025 | Destino |
-| Lançamento de recurso 2025.9.0 | Ativação do recurso | sexta-feira, 25 de setembro de 2025 | Destino |
-| Versão de manutenção | Atualização automática | 6-8 de outubro de 2025 | Destino |
+| Versão de manutenção | Atualização automática | 11 a 13 de agosto de 2025 | Destino |
+| Versão de manutenção | Atualização automática | 25 a 27 de agosto de 2025 | Destino |
+| Lançamento de recurso 2025.8.0 | Ativação do recurso | 28 de agosto de 2025 | Destino |
+| Versão de manutenção | Atualização automática | 8 a 10 de setembro de 2025 | Destino |
+| Versão de manutenção | Atualização automática | 22 a 24 de setembro de 2025 | Destino |
+| Lançamento de recurso 2025.9.0 | Ativação do recurso | 25 de setembro de 2025 | Destino |
+| Versão de manutenção | Atualização automática | 6 a 8 de outubro de 2025 | Destino |
 
 ## [!DNL Experience Manager] no local e Managed Services {#aem-on-prem-managed-services}
 
