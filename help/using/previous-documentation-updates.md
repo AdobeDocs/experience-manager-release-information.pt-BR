@@ -51,7 +51,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>18 de outubro de 2019<br /> </td> 
    <td>Gerenciamento de experiência headless<br /> </td> 
-   <td>Adição de documentação sobre recursos do <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">Renderizador de conteúdo remoto</a>, usados para renderização de aplicativos de página única do lado do servidor.<br /> </td> 
+   <td>Adição de documentação sobre recursos do <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">Renderizador de conteúdo remoto</a>, usados para renderização de aplicativos de página única do lado do servidor.<br /> </td> 
   </tr>
   <tr>
    <td>11 de outubro de 2019</td> 
