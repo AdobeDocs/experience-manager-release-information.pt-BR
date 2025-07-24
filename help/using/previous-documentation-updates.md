@@ -4,9 +4,9 @@ description: Saiba mais sobre alterações e atualizações importantes na docum
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1172'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -81,7 +81,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>25 de setembro de 2019</td> 
    <td>Componentes principais</td> 
-   <td>A versão 2.7.0 dos Componentes principais apresentando o "Componente de Incorporação" agora está disponível com os <a href="https://github.com/adobe/aem-core-wcm-components">detalhes do desenvolvedor e o download do projeto, disponíveis no GitHub</a>.</td> 
+   <td>A versão 2.7.0 dos componentes principais, apresentando o “Componente incorporado”, já está disponível, junto com os <a href="https://github.com/adobe/aem-core-wcm-components">detalhes do desenvolvedor e o download do projeto, disponíveis no GitHub</a>.</td> 
   </tr>
   <tr>
    <td>25 de setembro de 2019</td> 
@@ -171,7 +171,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>3 de junho de 2019</td> 
    <td>Rich Text Editor (RTE)<br /> </td> 
-   <td><p>Adição de um pacote no <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html?lang=pt-BR" target="_blank">componente multicampo criado</a>.<br /> </p> <p>Criação de <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">Perguntas frequentes de solução de problemas</a> com base nos comentários dos clientes.</p> </td> 
+   <td><p>Adição de um pacote ao <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html?lang=pt-BR" target="_blank">componente de vários campos criados</a>.<br /> </p> <p>Criação de <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">Perguntas frequentes de solução de problemas</a> com base nos comentários dos clientes.</p> </td> 
   </tr>
   <tr>
    <td>31 de maio de 2019</td> 
