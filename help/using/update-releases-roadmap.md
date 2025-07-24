@@ -2,7 +2,7 @@
 title: Roteiro de versões do [!DNL Adobe Experience Manager]
 description: Roteiro de versões do [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: b8549cd4d7d0a2fa26d2e80d3dc6304e778e7041
+source-git-commit: 9702ea24174f8a5d357c93c77b91dea9cdc4d02f
 workflow-type: tm+mt
 source-wordcount: '491'
 ht-degree: 95%
@@ -35,13 +35,13 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Versão de manutenção [21193](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-6-0) | Atualização automática | 16 a 18 de junho de 2025 | Atualizado |
 | Lançamento de recurso [2025.6.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Ativação do recurso | 26 de junho de 2025 | Ativado |
 | Versão de manutenção [21331](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21331) | Atualização automática | 30 de junho a 2 de julho de 2025 | Atualizado |
-| Versão de manutenção [21570](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21570) | Atualização automática | 14 a 16 de julho de 2025 | Atualizado |
+| Versão de manutenção [21570](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21570) | Atualização automática | 14 a 16 de julho de 2025 | Atualizado |
 
 ### Próximas versões do [!DNL Cloud Service] {#upcoming}
 
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
-| Versão de manutenção [21644](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 28 a 30 de julho de 2025 | Destino |
+| Versão de manutenção [21706](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 28 a 30 de julho de 2025 | Destino |
 | Lançamento de recurso 2025.7.0 | Ativação do recurso | 7 de agosto de 2025 | Destino |
 | Versão de manutenção | Atualização automática | 11 a 13 de agosto de 2025 | Destino |
 | Versão de manutenção | Atualização automática | 25 a 27 de agosto de 2025 | Destino |
