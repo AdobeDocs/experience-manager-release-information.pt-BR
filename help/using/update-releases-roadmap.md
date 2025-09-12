@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 5ea75151fa68dd30327ab9b9bc519ab379fd5115
 workflow-type: tm+mt
 source-wordcount: '546'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -42,16 +42,16 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Versão de manutenção | Atualização automática | 22 a 24 de setembro de 2025 | Destino |
 | Lançamento de recurso 2025.9.0 | Ativação do recurso | 25 de setembro de 2025 | Destino |
 | Versão de manutenção | Atualização automática | 6 a 8 de outubro de 2025 | Destino |
-| Versão de manutenção | Atualização automática | 20-22 de outubro de 2025 | Destino |
-| Lançamento de recurso 2025.10.0 | Ativação do recurso | sexta-feira, 30 de outubro de 2025 | Destino |
-| Versão de manutenção | Atualização automática | 3-5 de novembro de 2025 | Destino |
-| Versão de manutenção | Atualização automática | 17-19 de novembro de 2025 | Destino |
+| Versão de manutenção | Atualização automática | 20 a 22 de outubro de 2025 | Destino |
+| Lançamento de recurso 2025.10.0 | Ativação do recurso | 30 de outubro de 2025 | Destino |
+| Versão de manutenção | Atualização automática | 3 a 5 de novembro de 2025 | Destino |
+| Versão de manutenção | Atualização automática | 17 a 19 de novembro de 2025 | Destino |
 | Lançamento de recurso 2025.11.0 | Ativação do recurso | 20 de novembro de 2025 | Destino |
 | Versão de manutenção | Atualização automática | 8-10 de dezembro de 2025 | Destino |
-| Lançamento de recurso 2025.12.0 | Ativação do recurso | sexta-feira, 11 de dezembro de 2025 | Destino |
+| Lançamento de recurso 2025.12.0 | Ativação do recurso | 11 de dezembro de 2025 | Destino |
 | Versão de manutenção | Atualização automática | 12-14 de janeiro de 2026 | Destino |
 | Versão de manutenção | Atualização automática | 26-28 de janeiro de 2026 | Destino |
-| Lançamento de recurso 2026.1.0 | Ativação do recurso | sexta-feira, 29 de janeiro de 2026 | Meta |
+| Lançamento de recurso 2026.1.0 | Ativação do recurso | 29 de janeiro de 2026 | Destino |
 
 >[!CAUTION]
 >
@@ -72,7 +72,7 @@ As atualizações de produtos do [!DNL Experience Manager] 6.5 LTS são fornecid
 
 | Versão | Versão | Tipo | Programação | Status |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 LTS [Service Pack 1](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP1 | Pacote de serviços | 28 de agosto de 2025 | Ativado |
+| [Pacote de serviços 1](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65-lts/content/release-notes/release-notes) do [!DNL Experience Manager] 6.5 LTS | 6.5.LTS.SP1 | Pacote de serviços | 28 de agosto de 2025 | Ativado |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
