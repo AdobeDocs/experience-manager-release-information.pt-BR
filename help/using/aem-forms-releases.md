@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: bef19dd66deed90c57d499308ce4b54343cbe41b
 workflow-type: tm+mt
 source-wordcount: '3400'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -33,7 +33,7 @@ Este artigo fornece informações para:
 
 * [Versões do AEM 6.5 Forms](#aem-65-forms-releases)
 
-## Versões [!DNL Forms] do AEM 6.5 LTS {#aem-65-lts-forms-releases}
+## Versões do AEM 6.5 LTS [!DNL Forms] {#aem-65-lts-forms-releases}
 
 <table>
   <tbody>
@@ -97,7 +97,7 @@ Este artigo fornece informações para:
   </tbody>
 </table>
 
-## Versões de AEM 6.5 [!DNL Forms] {#aem-65-forms-releases}
+## Versões do AEM 6.5 [!DNL Forms] {#aem-65-forms-releases}
 
 <table>
   <tbody>
@@ -933,7 +933,7 @@ Este artigo fornece informações para:
   </tbody>
  </table>
 
-`[1]` Entre em contato com o [suporte da Adobe](https://experienceleague.adobe.com/pt-br?support-solution=General&support-tab=home#support) para obter os instaladores do Workbench, SDK do Rights Management, Biblioteca de proteção portátil (PPL) e PPL aprimorada.
+`[1]` Entre em contato com o [suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support) para obter os instaladores do Workbench, SDK do Rights Management, Biblioteca de proteção portátil (PPL) e PPL aprimorada.
 
 `[2]` O pacote complementar do AEM [!DNL Forms] para macOS X não é compatível com o ambiente de produção e deve ser usado somente para fins de demonstração. O recurso PDF Generator não está disponível para o pacote do macOS X.
 
