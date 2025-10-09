@@ -1,12 +1,11 @@
 ---
 title: Versões e atualizações do [!DNL Adobe Experience Manager]
 description: Versões e atualizações do [!DNL Adobe Experience Manager]
-contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: 6a1200fcc366ec68118c1016a7321d8d16f354f7
-workflow-type: ht
-source-wordcount: '231'
-ht-degree: 100%
+source-git-commit: 9e7e72d7c0a7126828028b04319f20b64d72e517
+workflow-type: tm+mt
+source-wordcount: '229'
+ht-degree: 85%
 
 ---
 
@@ -30,13 +29,13 @@ Para ofertas do Managed Services e no local, o artigo lista a versão mais recen
 
 ### [!DNL Experience Manager] 6.5 {#aem-65}
 
-As atualizações do produto [!DNL Experience Manager] 6.5 são fornecidas por meio de pacotes de serviços semestrais e incluem novos recursos, melhorias e correções de erros.
+As atualizações de produtos do [!DNL Experience Manager] 6.5 são fornecidas por service packs e incluem novos recursos, melhorias e correções de erros.
 
 Consulte [[!DNL Experience Manager] Pacote de recursos mais recente (6.5)](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/release-notes) para obter detalhes sobre a versão atual/mais recente. Nessa página, você também pode acessar os detalhes de versões anteriores (organizadas cronologicamente).
 
 ### [!DNL Experience Manager] 6.5 LTS {#aem-65-lts}
 
-As atualizações do produto [!DNL Experience Manager] 6.5 LTS são fornecidas por meio de pacotes de serviços trimestrais e incluem novos recursos, melhorias e correções de erros.
+As atualizações de produtos do [!DNL Experience Manager] 6.5 LTS são fornecidas por service packs e incluem novos recursos, melhorias e correções de erros.
 
-Consulte [[!DNL Experience Manager] Pacote de recursos mais recente da versão 6.5 LTS](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65-lts/content/release-notes/release-notes?lang=en) para mais detalhes sobre a versão atual/mais recente. 
+Consulte [[!DNL Experience Manager] Pacote de recursos mais recente da versão 6.5 LTS](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65-lts/content/release-notes/release-notes) para mais detalhes sobre a versão atual/mais recente. 
 
