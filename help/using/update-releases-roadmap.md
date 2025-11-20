@@ -2,10 +2,10 @@
 title: Roteiro de versões do [!DNL Adobe Experience Manager]
 description: Roteiro de versões do [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 73bfea6790374ab3ada87d365bb26695d16424a9
+source-git-commit: c573bd3fb314b3f2025867236569d93cdeba9b7d
 workflow-type: tm+mt
-source-wordcount: '538'
-ht-degree: 97%
+source-wordcount: '539'
+ht-degree: 96%
 
 ---
 
@@ -29,17 +29,17 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 |---|---|---|---|
 | Versão de manutenção [22171](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22171) | Atualização automática | 8 a 10 de setembro de 2025 | Atualizado |
 | Versão de manutenção [22450](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22450) | Atualização automática | 22 a 24 de setembro de 2025 | Atualizado |
-| Lançamento de recurso [2025.9.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-9-0) | Ativação do recurso | 25 de setembro de 2025 | Ativado |
-| Versão de manutenção [22758](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22758) | Atualização automática | 6 a 8 de outubro de 2025 | Atualizado |
-| Versão de manutenção [22943](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22943) | Atualização automática | 20 a 22 de outubro de 2025 | Atualizado |
-| Lançamento de recurso [2025.10.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Ativação do recurso | 30 de outubro de 2025 | Ativado |
-| Versão de manutenção [23385](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 17 a 19 de novembro de 2025 | Ativado |
+| Lançamento de recurso [2025.9.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-9-0) | Ativação do recurso | 25 de setembro de 2025 | Ativado |
+| Versão de manutenção [22758](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22758) | Atualização automática | 6 a 8 de outubro de 2025 | Atualizado |
+| Versão de manutenção [22943](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22943) | Atualização automática | 20 a 22 de outubro de 2025 | Atualizado |
+| Lançamento de recurso [2025.10.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-10-0) | Ativação do recurso | 30 de outubro de 2025 | Ativado |
+| Versão de manutenção [23385](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 17 a 19 de novembro de 2025 | Atualizado |
+| Lançamento de recurso [2025.11.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Ativação do recurso | 20 de novembro de 2025 | Ativado |
 
 ### Próximas versões do [!DNL Cloud Service] {#upcoming}
 
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
-| Lançamento de recurso 2025.11.0 | Ativação do recurso | 20 de novembro de 2025 | Destino |
 | Versão de manutenção | Atualização automática | 8-10 de dezembro de 2025 | Destino |
 | Lançamento de recurso 2025.12.0 | Ativação do recurso | 11 de dezembro de 2025 | Destino |
 | Versão de manutenção | Atualização automática | 12-14 de janeiro de 2026 | Destino |
