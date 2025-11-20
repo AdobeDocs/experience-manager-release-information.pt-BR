@@ -13,7 +13,7 @@ level: Beginner, Intermediate, Experienced
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 + [Definições dos veículos de lançamentos das atualizações do AEM](update-release-vehicle-definitions.md)
 + Atualizações de versões anteriores {#previous-updates}
    + [Versões anteriores do AEM, CQ e CRX](aem-previous-versions.md)
-+ Atualizações de versões do AEM Forms {#forms-updates}
++ Atualizações de versão do AEM Forms {#forms-updates}
    + [Versões do AEM Forms](aem-forms-releases.md)
    + [Instalação de Cumulative Fix Packs no AEM Forms JEE](install-cfp-aem-forms-jee.md)
 + Atualizações na documentação {#doc-updates}

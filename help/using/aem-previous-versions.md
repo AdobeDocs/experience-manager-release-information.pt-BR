@@ -4,9 +4,9 @@ description: Baixe pacotes de documentação referentes a versões anteriores do
 recommendations: noCatalog
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 21b1429ca747fdef9a2d1ffe441c86d07ae281c7
-workflow-type: ht
-source-wordcount: '571'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '579'
+ht-degree: 96%
 
 ---
 
@@ -95,8 +95,8 @@ Para instalar um pacote de documentação herdado, é necessário ter o [!DNL Ex
 
 1. Na caixa de diálogo de confirmação, selecione **[!UICONTROL Instalar]** novamente. A instalação leva alguns minutos.
 
-1. Em um navegador da web, abra a página da documentação. Usando o AEM 5.6.1 como exemplo, o URL seria: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
+1. Em um navegador da web, abra a página da documentação. Usando o AEM 5.6.1 como exemplo, o URL seria: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
 ## Obtenha ajuda da [!DNL Experience Manager] comunidade {#get-help-from-aem-community}
 
-Em caso de dúvidas sobre o uso do Experience Manager, a Adobe recomenda que você [entre em contato com nossos especialistas da comunidade por meio dos  [!DNL Experience Manager] fóruns](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=pt).
+Em caso de dúvidas sobre o uso do Experience Manager, a Adobe recomenda que você [entre em contato com nossos especialistas da comunidade por meio dos  [!DNL Experience Manager] fóruns](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
