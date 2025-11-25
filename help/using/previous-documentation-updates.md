@@ -176,7 +176,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>31 de maio de 2019</td> 
    <td>Integração entre o AEM e o Adobe Commerce </td> 
-   <td><a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/content-and-commerce/cif-storefront/integrations/magento#">Estrutura de integração de comércio</a>.</td> 
+   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/content-and-commerce/cif-storefront/integrations/magento#">Estrutura de integração de comércio</a>.</td> 
   </tr>
   <tr>
    <td>24 de maio de 2019</td> 
