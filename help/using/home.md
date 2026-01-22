@@ -2,9 +2,9 @@
 title: Atualizações e roteiro de versão do Adobe Experience Manager
 description: Saiba mais sobre as atualizações e roteiro de versão do Adobe Experience Manager.
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: ht
-source-wordcount: '66'
+source-git-commit: 4390791c7698fb476af4d7f74e6e919875031608
+workflow-type: tm+mt
+source-wordcount: '57'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ Este guia aborda informações sobre o roteiro de versão do [!DNL Adobe Experie
 * [Versões do [!DNL Experience Manager] Forms](aem-forms-releases.md)
 * [Instalação do Pacote de correções cumulative no  [!DNL Experience Manager]  Forms JEE](install-cfp-aem-forms-jee.md)
 
-## Atualizações na documentação
-
-* [Documentação do [!DNL Experience Manager]: atualizações recentes na documentação](documentation-updates.md)
-* [Atualizações anteriores na documentação](previous-documentation-updates.md)
