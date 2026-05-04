@@ -5,23 +5,23 @@ contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
 workflow-type: ht
-source-wordcount: '904'
+source-wordcount: '932'
 ht-degree: 100%
 
 ---
 
-# Instalação de Cumulative Fix Packs no AEM [!DNL  Forms] JEE {#installing-cumulative-fix-packs-on-aem-forms-jee}
+# Instalação de Cumulative Fix Packs no AEM [!DNL  Forms] JEE{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
 ## Instalar o CFP no AEM 6.3 [!DNL Forms JEE] {#install-cfp-forms-6-3}
 
 Para instalar o pacote de correções cumulativo no AEM 6.3 [!DNL Forms JEE], execute a seguinte sequência de etapas.
 
-1. Para obter o instalador do AEM 6.3 [!DNL Forms JEE] para o CFP, entre em contato com o [suporte da Adobe](https://experienceleague.adobe.com/pt-br?support-solution=General&support-tab=home#support).
+1. Para obter o instalador do AEM 6.3 [!DNL Forms JEE] para o CFP, entre em contato com o [suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support).
 1. Execute o instalador do CFP e configure o AEM [!DNL Forms JEE] conforme descrito em [Instalar e configurar o AEM [!DNL Forms JEE]](#install-and-configure-aem-forms-jee).
 1. Instale o AEM CFP 6.3.3.x mais recente.
 1. Instale o pacote complementar do [!DNL Forms] para o AEM CFP [6.3.3.x](aem-forms-releases.md)
 
-### Instalar pacote do AEM [!DNL Forms JEE]  {#install-aem-forms-jee-bundles-package}
+### Instalar pacote do AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package}
 
 O pacote do AEM [!DNL  Forms JEE] (aemfd-jee-bundles-package-6.3CFP1; versão 1.0.2) fornece ao usuário do [!DNL Forms] no AEM [!DNL Forms JEE] os mesmos direitos e recursos encontrados no AEM [!DNL Forms OSGi]. Verifique os pacotes instalados no Gerenciador de pacotes e instale o pacote se ele ainda não estiver instalado.
 
@@ -42,22 +42,22 @@ Se estiver usando o servidor AEM 6.3 [!DNL Forms JEE] com banco de dados Oracle,
 
 Para instalar o pacote de correções cumulativo no AEM 6.2 [!DNL Forms JEE], execute a seguinte sequência de etapas.
 
-1. Para obter o instalador do AEM 6.2 [!DNL Forms JEE] para o CFP, entre em contato com o [suporte da Adobe](https://experienceleague.adobe.com/pt-br?support-solution=General&support-tab=home#support).
+1. Para obter o instalador do AEM 6.2 [!DNL Forms JEE] para o CFP, entre em contato com o [suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support).
 1. Execute o instalador do CFP e configure o AEM [!DNL Forms JEE] conforme descrito em [Instalar e configurar o AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
 1. Instale o AEM Hotfix 12785 versão 7.0.
 1. Instale o AEM 6.2 Service Pack 1.
 1. Instale o release-notes-aem-6-2-cumulative-fix-pack.md mais recente.
 1. Instale o pacote complementar do [!DNL Forms] para o AEM 6.2 Service Pack 1 CFP.
 
-### Instalar pacote do AEM [!DNL Forms JEE]  {#install-aem-forms-jee-bundles-package-1}
+### Instalar pacote do AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package-1}
 
 O pacote do AEM Forms JEE (aemfd-jee-bundles-package-6.2CFP5; versão 1.0.2) fornece ao usuário do [!DNL Forms] no AEM [!DNL Forms JEE] os mesmos direitos e recursos encontrados no AEM [!DNL Forms OSGi]. Verifique os pacotes instalados no Gerenciador de pacotes e instale o pacote se ele ainda não estiver instalado.
 
-### Configuração de tempo limite para operações no nível do componente (NPR-16774) {#configuring-timeout-for-operations-at-component-level-npr}
+### Configuração de tempo-limite para operações no nível do componente (NPR-16774) {#configuring-timeout-for-operations-at-component-level-npr}
 
 >[!NOTE]
 >
->Após o AEM 6.2 CFP4, é possível usar as seguintes instruções para configurar o tempo limite para operações de DSC, caso surjam problemas de tempo limite durante o processo de atualização.
+>Após o AEM 6.2 CFP4, é possível usar as seguintes instruções para configurar o tempo-limite para operações de DSC, caso surjam problemas de tempo-limite durante o processo de atualização.
 
 A implantação do DSC leva um tempo variável, o que pode acarretar falha. Para alterar o tempo-limite das operações do DSC, como instalar, carregar, iniciar e parar, é necessário definir o `adobe.component.registry.timeout` com o argumento JVM por meio da opção `-D`.
 
@@ -66,22 +66,22 @@ Especifique o valor da chave em segundos. Por exemplo: `-Dadobe.component.regist
 Também é possível alterar os tempos limite no nível do componente usando as três propriedades a seguir:
 
 1. `adobe.all-component.timeout`: substitui os tempos limite de todos os serviços do produto.
-1. `adobe.<serviceName>.timeout`: substitui o tempo limite somente para o serviço (&lt;serviceName>) mencionado na chave. Se o valor no nível de serviço for definido, o uso desse comando substituirá somente o valor do tempo limite do serviço especificado, caso ele seja definido no nível do Aplicativo.
-1. `adobe.<serviceName>.<operationName>.timeout`: substitui somente o tempo limite da operação do serviço específico(&lt;serviceName>.&lt;operationName>) mencionado na chave. Se o valor for definido no nível da Operação, o uso desse comando substituirá somente o valor do tempo limite do serviço especificado, caso ele esteja definido no nível do Aplicativo ou do Serviço.
+1. `adobe.<serviceName>.timeout`: substitui o tempo-limite somente para o serviço (&lt;serviceName>) mencionado na chave. Se o valor no nível de serviço for definido, o uso desse comando substituirá somente o valor do tempo-limite do serviço especificado, caso ele seja definido no nível do Aplicativo.
+1. `adobe.<serviceName>.<operationName>.timeout`: substitui somente o tempo-limite da operação do serviço específico (&lt;serviceName>.&lt;operationName>) mencionada na chave. Se o valor for definido no nível da Operação, o uso desse comando substituirá somente o valor do tempo-limite do serviço especificado, caso ele esteja definido no nível do Aplicativo ou do Serviço.
 
 **Exemplos:**
 
-Use os seguintes comandos para definir o tempo limite no nível do componente:
+Use os seguintes comandos para definir o tempo-limite no nível do componente:
 
-1. Para definir o tempo limite de todas as operações de serviço para 600 segundos:
+1. Para definir o tempo-limite de todas as operações de serviço para 600 segundos:
 
    set “`JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`”
 
-1. Para definir o tempo limite de valores de operação `DesigntimeService` para 500 segundos, use:
+1. Para definir o tempo-limite de valores de operação `DesigntimeService` para 500 segundos, use:
 
    set “`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`”
 
-1. Para definir o tempo limite de valores de operação `DesigntimeService's previewLCA` para 700 segundos, use:
+1. Para definir o tempo-limite de valores de operação `DesigntimeService's previewLCA` para 700 segundos, use:
 
    set “`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`”
 

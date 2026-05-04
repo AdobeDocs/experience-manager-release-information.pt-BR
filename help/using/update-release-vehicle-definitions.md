@@ -5,7 +5,7 @@ contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
 workflow-type: ht
-source-wordcount: '740'
+source-wordcount: '743'
 ht-degree: 100%
 
 ---
@@ -24,8 +24,8 @@ Este documento inclui detalhes sobre os vários tipos de versões do [!DNL Adobe
 |-------|------|
 | Definição | <ul> <li> Lançamento programado </li> <li> Compatível com caminhos de atualização para versões específicas, que são definidos nas notas de versão </li> </ul> |
 | Nomenclatura | <ul> <li> Os números de versão dos principais lançamentos aumentam com base na fórmula X+1.Y.Z. </li> <li> Os números de versão para lançamentos secundários aumentam com base na fórmula X.Y+1.Z </li> </ul> X é o número da versão primária, Y é o número da versão secundária e Z é o número do patch. |
-| Inclusões | <ul> <li> Novos recursos </li> <li>  Melhorias </li> <li>  Correções de bugs </li> </ul> |
-| Documentação | <ul> <li> As notas de versão estão disponíveis no portal de documentação </li> <li> A documentação sobre recursos, melhorias e correções de bugs está disponível no portal de documentação </li> </ul> |
+| Inclusões | <ul> <li> Novos recursos </li> <li>  Melhorias </li> <li>  Correções de erros </li> </ul> |
+| Documentação | <ul> <li> As notas de versão estão disponíveis no portal de documentação </li> <li> A documentação sobre recursos, melhorias e correções de erros está disponível no portal de documentação </li> </ul> |
 | Cadência | Anual |
 | Disponibilidade e instalação | <ul> <li> Fornecido como instalador de produto independente </li> <li>  Disponível no site de licenciamento e no Managed Services </li> <li> O site de licenciamento pode exigir a migração do repositório de conteúdo </li> </ul> |
 | Nível de teste | Totalmente validado pelo Controle de qualidade |
@@ -36,8 +36,8 @@ Este documento inclui detalhes sobre os vários tipos de versões do [!DNL Adobe
 |-----|-----|
 | Definição | <ul> <li> Lançamento programado </li> <li> Atualmente, não é possível reverter </li> </ul> |
 | Nomenclatura | <ul> <li> O número de versão do patch é um número de um só dígito </li> <li> Após a instalação, o dígito de correção do número de versão instalado aumentará com base na fórmula X.Y.Z.SPx </li> </ul> X é o número da versão primária, Y é o número da versão secundária e Z é o número do patch. x é o número do service pack. |
-| Inclusões | <ul> <li> Novos recursos</li> <li>  Melhorias </li> <li> Correções de bugs </li> <li> Pacotes de recursos de interesses comuns (se houver) </li> </ul> |
-| Documentação | <ul> <li> As notas de versão estão disponíveis no portal de documentação </li> <li> A documentação sobre recursos, melhorias, correções de bugs está disponível no portal de documentação </li> </ul> |
+| Inclusões | <ul> <li> Novos recursos</li> <li>  Melhorias </li> <li> Correções de erros </li> <li> Pacotes de recursos de interesses comuns (se houver) </li> </ul> |
+| Documentação | <ul> <li> As notas de versão estão disponíveis no portal de documentação </li> <li> A documentação sobre recursos, melhorias, correções de erros está disponível no portal de documentação </li> </ul> |
 | Cadência | Trimestral |
 | Disponibilidade e instalação | <ul> <li> Fornecido como um pacote </li> <li> Disponível na Distribuição de software</li> <li>  Requer instalação funcional existente </li> </ul> |
 | Nível de teste | <ul> <li> Todas as correções validadas pelo Controle de qualidade </li> <li>  Integridade geral do pacote com execuções de automação </li> </ul> |
@@ -59,7 +59,7 @@ Este documento inclui detalhes sobre os vários tipos de versões do [!DNL Adobe
 | Item | Detalhes |
 |-------|--------|
 | Nomenclatura | overlay-&lt;ticket ID> |
-| Inclusões | Correção de bugs para um arquivo JS ou JSP |
+| Inclusões | Correção de erros para um arquivo JS ou JSP |
 | Documentação | Nenhum |
 | Cadência | Se necessário |
 | Disponibilidade e instalação | <ul> <li> Fornecido como pacote pelo Atendimento ao cliente do [!DNL Experience Manager]  </li> <li> Não é necessariamente incluído em pacotes de serviços ou versões completas </li> </ul> |
@@ -71,7 +71,7 @@ Este documento inclui detalhes sobre os vários tipos de versões do [!DNL Adobe
 |--------|-----|
 | Definição | <ul> <li>Os pacotes de recursos são funcionalidades complementares fornecidas através dos pacotes de serviços. Se uma versão do [!DNL Experience Manager] lançou seu último pacote de serviços, a Adobe não fornecerá nenhum pacote de recursos para ela no futuro. </li> <li> Os FPs contêm aprimoramentos de produtos, programados para uma versão subsequente do produto, mas fornecidos antecipadamente com base na decisão do Gerenciamento de produtos da [!DNL Adobe's].</li> <li>  Os recursos são sempre mesclados com a próxima versão principal. Em seguida, eles são transferidos para a versão do [!DNL Experience Manager] exigida pelo cliente </li> <li>  Os pacotes de recursos de Interesses Comuns e Disponibilidade Geral (GA) são mesclados no próximo service pack  </li> </ul> |
 | Nomenclatura | `cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version>` |
-| Inclusões | <ul> <li> Novos recursos </li> <li> Melhorias </li> <li> Correções de bugs (atualizações de produtos incrementais) </li> </ul> |
+| Inclusões | <ul> <li> Novos recursos </li> <li> Melhorias </li> <li> Correções de erros (atualizações de produtos incrementais) </li> </ul> |
 | Documentação | A documentação está disponível em adobe.com. |
 | Cadência | Varia conforme a Área do produto |
 | Disponibilidade e instalação | <ul> <li>Fornecido pelos Service Packs </li> <li> Disponível na Distribuição de software. Os clientes aceitam os Termos e condições do [!DNL Adobe's] por meio da Distribuição de software. </li> </ul> |
