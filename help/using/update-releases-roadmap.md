@@ -3,7 +3,7 @@ title: Roteiro de versões do [!DNL Adobe Experience Manager]
 description: Roteiro de versões do [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 4d0e82424426fcace2ad20d1840873c24d3a044f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1192'
 ht-degree: 100%
 
