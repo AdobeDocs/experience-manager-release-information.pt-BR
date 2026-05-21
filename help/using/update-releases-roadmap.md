@@ -2,10 +2,10 @@
 title: Roteiro de versões do [!DNL Adobe Experience Manager]
 description: Roteiro de versões do [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: d70535a5e9fd8ee9766c2876796028169a9bef4b
+source-git-commit: 084ff8eac94282c39315b2fa0da89b55898384e7
 workflow-type: tm+mt
-source-wordcount: '1225'
-ht-degree: 97%
+source-wordcount: '1216'
+ht-degree: 94%
 
 ---
 
@@ -35,8 +35,6 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
-| Versão de manutenção [22943](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22943) | Atualização automática | 20 a 22 de outubro de 2025 | Atualizado |
-| Lançamento de recurso [2025.10.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-10-0) | Ativação do recurso | 30 de outubro de 2025 | Ativado |
 | Versão de manutenção [23385](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-11-0#23385) | Atualização automática | 17 a 19 de novembro de 2025 | Atualizado |
 | Lançamento de recurso [2025.11.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-11-0) | Ativação do recurso | 20 de novembro de 2025 | Ativado |
 | Versão de manutenção [23482](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-12-0#23482) | Atualização automática | 8-10 de dezembro de 2025 | Atualizado |
@@ -51,17 +49,20 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Versão de manutenção [25194](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25194) | Atualização automática | 6–8 de abril de 2026 | Atualizado |
 | Versão de manutenção [25520](https://experienceleague.adobe.com/pt-BR/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25520) | Atualização automática | 27–29 de abril de 2026 | Atualizado |
 | Versão do recurso [2026.4.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Ativação do recurso | 30 de abril de 2026 | Ativado |
-| Versão de manutenção [25892](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 11–13 de maio de 2026 | Atualizado |
+| Versão de manutenção [25892](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-25892) | Atualização automática | 11–13 de maio de 2026 | Atualizado |
 
 ### Próximas versões do [!DNL Cloud Service] {#upcoming}
 
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
-| Versão de manutenção | Atualização automática | 25–27 de maio de 2026 | Destino |
+| Versão de manutenção [26125](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 25–27 de maio de 2026 | Destino |
 | Lançamento de recurso 2026.5.0 | Ativação do recurso | 28 de maio de 2026 | Destino |
 | Versão de manutenção | Atualização automática | 8–10 de junho de 2026 | Destino |
 | Versão de manutenção | Atualização automática | 22–24 de junho de 2026 | Destino |
 | Lançamento de recurso 2026.6.0 | Ativação do recurso | 25 de junho de 2026 | Destino |
+| Versão de manutenção | Atualização automática | 6-8 de julho de 2026 | Destino |
+| Versão de manutenção | Atualização automática | 20-22 de julho de 2026 | Target |
+| Versão do Recurso 2026.7.0 | Ativação do recurso | 30 de julho de 2026 | Destino |
 
 ## [!DNL Experience Manager] no local e Managed Services {#aem-on-prem-managed-services}
 
