@@ -3,9 +3,9 @@ title: Versões do AEM Forms
 description: Conheça todas as versões do AEM Forms e pacotes correspondentes.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: e0c3c3a739f65d74afd688fdca80e71c2251d22a
+source-git-commit: 43454d87fad7b5e709aec50cc0ac2275f4ed5923
 workflow-type: tm+mt
-source-wordcount: '15820'
+source-wordcount: '15950'
 ht-degree: 96%
 
 ---
@@ -39,10 +39,39 @@ Este artigo fornece informações para:
   <tbody>
     <tr>
       <td><strong>Data</strong></td>
-      <td><strong>Versões do AEM 6.5 LTS Forms</strong></td>
+      <td><strong>Versão do AEM 6.5 LTS Forms</strong></td>
       <td><strong>Pré-requisitos</strong></td>
       <td><strong>Pacotes disponíveis</strong></td>
-      <td><strong>Versões de Build</strong></td>
+      <td><strong>Versão da build</strong></td>
+    </tr>
+    <tr>
+      <td>18 de junho de 2026</td>
+      <td>
+        <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms Service Pack 2
+        </a>
+      </td>
+      <td>
+        <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms Service Pack 2
+        </a>
+      </td>
+      <td>
+        <strong style="display:block; margin:10px 0;">Instaladores do AEM Forms 6.5 LTS Service Pack 2 WLP (IBM WebSphere Liberty Profile)</strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260429-1-12345/websphere-sp2-6-6-0-20260604-1-12345/aemforms_server_6_6_0_websphere_all_win.zip">
+              Instalador do WLP (IBM WebSphere Liberty Profile) AEM Forms 6.5 LTS Service Pack 2 para Microsoft Windows
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260429-1-12345/websphere-sp2-6-6-0-20260604-1-12345/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
+              Instalador do WLP (IBM WebSphere Liberty Profile) AEM Forms 6.5 LTS Service Pack 2 para Linux
+            </a>
+          </li>
+        </ul>
+      </td>
+      <td>6-6-0-20260429-1-12345</td>
     </tr>
     <tr>
       <td>sexta-feira, 19 de fevereiro de 2026</td>
