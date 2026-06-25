@@ -2,10 +2,10 @@
 title: Roteiro de versões do [!DNL Adobe Experience Manager]
 description: Roteiro de versões do [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: d6de7b7a63c1dd3271df667a52dbefd902275dfb
+source-git-commit: a017e5af16a5793a0926b8236cceebdd989f8244
 workflow-type: tm+mt
-source-wordcount: '1218'
-ht-degree: 71%
+source-wordcount: '1163'
+ht-degree: 70%
 
 ---
 
@@ -35,8 +35,6 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
-| Versão de manutenção [23482](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-12-0#23482) | Atualização automática | 8-10 de dezembro de 2025 | Atualizado |
-| Lançamento de recurso [2025.12.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-12-0) | Ativação do recurso | 11 de dezembro de 2025 | Ativado |
 | Versão de manutenção [23963](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-1-0#23963) | Atualização automática | 26-28 de janeiro de 2026 | Atualizado |
 | Lançamento de recurso [2026.1.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-1-0) | Ativação do recurso | 29 de janeiro de 2026 | Ativado |
 | Versão de manutenção [24288](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-2-0#24288) | Atualização automática | 9-11 de fevereiro de 2026 | Atualizado |
