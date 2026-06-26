@@ -2,13 +2,12 @@
 title: Roteiro de versões do [!DNL Adobe Experience Manager]
 description: Roteiro de versões do [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: a017e5af16a5793a0926b8236cceebdd989f8244
+source-git-commit: 60391b5638d0a29c185ee30bb1c31bdc39d49bb5
 workflow-type: tm+mt
 source-wordcount: '1163'
 ht-degree: 70%
 
 ---
-
 
 # [!DNL Experience Manager] Roteiro de versões {#aem-releases-roadmap}
 
@@ -47,7 +46,7 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Versão do recurso [2026.4.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-4-0) | Ativação do recurso | 30 de abril de 2026 | Ativado |
 | Versão de manutenção [25892](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-25892) | Atualização automática | 11–13 de maio de 2026 | Atualizado |
 | Versão de manutenção [26309](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-26309) | Atualização automática | 25–27 de maio de 2026 | Atualizado |
-| Versão do Recurso [2026.5.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-5-0) | Ativação do recurso | 28 de maio de 2026 | Ativado |
+| Versão do Recurso [2026.5.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-5-0) | Ativação do recurso | 28 de maio de 2026 | Ativado |
 | Versão de manutenção [26353](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26353) | Atualização automática | 8–10 de junho de 2026 | Atualizado |
 | Versão de manutenção [26773](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 22–24 de junho de 2026 | Atualizado |
 | Versão do Recurso [2026.6.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Ativação do recurso | 25 de junho de 2026 | Ativado |
