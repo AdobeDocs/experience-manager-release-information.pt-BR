@@ -42,7 +42,7 @@ Com os problemas, você pode descrever facilmente sua ideia para aprimorar os do
 
 Se você vir um problema e souber exatamente como corrigi-lo, considere a criação de um pull request. Com os pull requests, é possível fazer edições na documentação. Um membro da equipe do AEM Docs analisa essas edições para inclusão. Basta clicar no link **Editar esta página** na parte superior do painel de navegação direito em qualquer página para fazer as alterações sugeridas e criar o pull request.
 
-Um contrato de licença de colaborador [ assinado ou CLA](https://opensource.adobe.com/cla.html) deve acompanhar todas as solicitações de pull. Essa necessidade concede à Adobe permissão para redistribuir suas contribuições como parte do projeto. Você só pode enviar um Adobe CLA por vez. Se já tiver enviado anteriormente, você pode continuar.
+Um contrato de licença de colaborador [&#x200B; assinado ou CLA](https://opensource.adobe.com/cla.html) deve acompanhar todas as solicitações de pull. Essa necessidade concede à Adobe permissão para redistribuir suas contribuições como parte do projeto. Você só pode enviar um Adobe CLA por vez. Se já tiver enviado anteriormente, você pode continuar.
 
 ### Introdução rápida ao vídeo
 
