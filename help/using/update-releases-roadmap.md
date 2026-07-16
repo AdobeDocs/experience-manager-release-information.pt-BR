@@ -2,10 +2,10 @@
 title: Roteiro de versões do [!DNL Adobe Experience Manager]
 description: Roteiro de versões do [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: f99ec47fc6f25fa3582f6108cd36fb5c833c865e
+source-git-commit: af8a6e57c31622c80eb0b5db724bbd3909f4935b
 workflow-type: tm+mt
-source-wordcount: '1298'
-ht-degree: 69%
+source-wordcount: '1314'
+ht-degree: 64%
 
 ---
 
@@ -93,15 +93,20 @@ As atualizações de produtos do [!DNL Experience Manager] 6.5 são fornecidas p
 | [!DNL Experience Manager] 6.5 [Service Pack 25](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.25.0 | Pacote de serviços | 21 de maio de 2026 | Ativado |
 | Pacote de serviços 26 do [!DNL Experience Manager] 6.5 | 6.5.26.0 | Pacote de serviços | 19 de novembro de 2026 | Destino |
 
+>[!AVAILABILITY]
+>
+> O suporte ao AEM 6.5 continua por meio do AEM 6.5 LTS. Cronogramas atuais de suporte do 6.5:
+>
+> * **Clientes do Adobe Managed Services**: termina em 31 de agosto de 2026.
+> * **Clientes no local**: o suporte principal está planejado para terminar em fevereiro de 2027.
+> 
+>Ambos os caminhos são cobertos pelo AEM 6.5 LTS. Consulte as [Perguntas frequentes sobre o AEM 6.5](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65-lts/content/release-notes/faq) para obter detalhes.
+
 >[!NOTE]
 >
->Do AEM 6.5:
+> 6.5.26.0 é a última versão do pacote de serviço com suporte do AEM 6.5.
 >
->* 6.5.26.0 é a última versão do pacote de serviço com suporte do AEM 6.5.
->  Cada Pacote de serviços é compatível por até 18 meses a partir de sua liberação — até 28/02/2027.
->* O suporte do AEM 6.5 para clientes do **Serviço gerenciado da Adobe** termina em 31 de agosto de 2026.
->* O suporte principal do AEM 6.5 para clientes **No local** está planejado para terminar em fevereiro de 2027.
->* O suporte para o AEM 6.5 continua por meio do AEM 6.5 LTS. Consulte as [Perguntas frequentes sobre o AEM 6.5](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65-lts/content/release-notes/faq).
+> Cada Service Pack tem suporte por até 18 meses a partir de seu lançamento, até 28 de fevereiro de 2027. Consulte [Produtos e períodos de suporte técnico](https://helpx.adobe.com/br/support/programs/eol-matrix.html#cq).
 
 >[!NOTE]
 >
