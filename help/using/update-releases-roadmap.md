@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 855946eca93d2e4f8a3efe274e4842e75b6e46b7
 workflow-type: tm+mt
 source-wordcount: '1134'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -51,19 +51,19 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 |---|---|---|---|
 | Versão de recursos 2026.9.0 | Ativação do recurso | 24 de setembro de 2026 | Destino |
 | Versão de manutenção | Atualização automática | 28 a 30 de setembro de 2026 | Destino |
-| Versão de manutenção | Atualização automática | 12-14 de outubro de 2026 | Destino |
-| Versão de manutenção | Atualização automática | 26-28 de outubro de 2026 | Destino |
-| Versão do Recurso 2026.10.0 | Ativação do recurso | 29 de outubro de 2026 | Destino |
-| Versão de manutenção | Atualização automática | 9-11 de novembro de 2026 | Destino |
+| Versão de manutenção | Atualização automática | 12 a 14 de outubro de 2026 | Destino |
+| Versão de manutenção | Atualização automática | 26 a 28 de outubro de 2026 | Destino |
+| Lançamento de recurso 2026.10.0 | Ativação do recurso | 29 de outubro de 2026 | Destino |
+| Versão de manutenção | Atualização automática | 9 a 11 de novembro de 2026 | Destino |
 
 >[!CAUTION]
 >
->**Período de Exclusão de Manutenção Planejada**
+>**Período de exclusão de manutenção planejada**
 >
-> Nenhuma manutenção automática do AEMaaCS será executada durante os seguintes períodos de tempo, começando e terminando à meia-noite (00:00) CET:
+> Nenhuma manutenção automática do AEMaaCS será executada durante os seguintes intervalos de tempo, com início e término à meia-noite (00:00) CET:
 >
->* de segunda-feira, 23 de novembro de 2026 até terça-feira, 1 de dezembro de 2026.
->* Segunda-feira, 14 de dezembro de 2026 até domingo, 3 de janeiro de 2027.
+>* De segunda-feira, 23 de novembro de 2026, até terça-feira, 1º de dezembro de 2026.
+>* De segunda-feira, 14 de dezembro de 2026, até domingo, 3 de janeiro de 2027.
 
 ## [!DNL Experience Manager] no local e Managed Services {#aem-on-prem-managed-services}
 
