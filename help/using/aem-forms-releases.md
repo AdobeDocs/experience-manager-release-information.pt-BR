@@ -3,9 +3,9 @@ title: Versões do AEM Forms
 description: Conheça todas as versões do AEM Forms e pacotes correspondentes.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: ab26b8a8240bc8547f5becb68d180e78b9bc68b5
+source-git-commit: b52bcd4a3340a127cbd68657a0bbac64ca0d5548
 workflow-type: tm+mt
-source-wordcount: '16662'
+source-wordcount: '16700'
 ht-degree: 98%
 ---
 # Versões do AEM [!DNL Forms] {#aem-forms-releases}
@@ -93,6 +93,14 @@ Este artigo fornece informações para:
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
               Instalador do AEM Forms 6.5 LTS Service Pack 3 para WebSphere® e Linux®
+            </a>
+          </li>
+        </ul>
+        <strong style="display:block; margin:10px 0;">Instalador do Workbench</strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20260902-1-45/Workbench_DVD.zip">
+              Instalador do AEM Forms Workbench
             </a>
           </li>
         </ul>
