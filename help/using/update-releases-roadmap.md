@@ -2,7 +2,7 @@
 title: Roteiro de versões do [!DNL Adobe Experience Manager]
 description: Roteiro de versões do [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 47f3272a359a58f3020675c038aa2bbcfec6788e
+source-git-commit: aaad21bcbc053d4d2a587b371f0d7b01befbe64d
 workflow-type: tm+mt
 source-wordcount: '1153'
 ht-degree: 98%
@@ -41,14 +41,14 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Versão de manutenção [27293](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27293) | Atualização automática | 3 a 5 de agosto de 2026 | Atualizado |
 | Versão de manutenção [27673](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27673) | Atualização automática | 17 a 19 de agosto de 2026 | Atualizado |
 | Versão de recursos [2026.8.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Ativação do recurso | 27 de agosto de 2026 | Ativado |
-| Versão de manutenção [27830](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-9-0#release-27830) | Atualização automática | 31 de agosto a 2 de setembro de 2026 | Atualizado |
+| Versão de manutenção [27830](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-9-0#release-27830) | Atualização automática | 31 de agosto a 2 de setembro de 2026 | Atualizado |
 
 ### Próximas versões do [!DNL Cloud Service] {#upcoming}
 
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
 | Versão de recursos 2026.9.0 | Ativação do recurso | 24 de setembro de 2026 | Destino |
-| Versão de manutenção [28187](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 28 a 30 de setembro de 2026 | Destino |
+| Versão de manutenção [28386](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 28 a 30 de setembro de 2026 | Destino |
 | Versão de manutenção | Atualização automática | 12 a 14 de outubro de 2026 | Destino |
 | Versão de manutenção | Atualização automática | 26 a 28 de outubro de 2026 | Destino |
 | Lançamento de recurso 2026.10.0 | Ativação do recurso | 29 de outubro de 2026 | Destino |
