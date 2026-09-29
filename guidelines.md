@@ -36,7 +36,7 @@ As exceções a essa regra aplicam-se às notas de versão, nas quais problemas 
 
 Quaisquer ideias para melhorar a documentação do AEM são bem-vindas como contribuições. Entretanto, comentários, problemas e pull requests destinam-se somente a *contribuições*. O objetivo não é responder suas perguntas sobre como usar o AEM, implementar seu projeto do AEM ou resolver problemas técnicos.
 
-Relate quaisquer dúvidas sobre o uso do AEM ou erros técnicos usando o [Portal de suporte da Experience Cloud Enterprise](https://experienceleague.adobe.com/pt-br?support-solution=General#support). Ou use a [comunidade Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
+Relate quaisquer dúvidas sobre o uso do AEM ou erros técnicos usando o [Portal de suporte da Experience Cloud Enterprise](https://experienceleague.adobe.com/pt-br?support-solution=General#support). Ou use a [comunidade Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=pt).
 
 ***As contribuições à documentação da AEM não substituem o Atendimento ao cliente da Adobe***. Logo, qualquer contribuição que buscar respostas a perguntas relacionadas a suporte será rejeitada.
 
