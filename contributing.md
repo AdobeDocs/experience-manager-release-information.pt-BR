@@ -58,4 +58,4 @@ Qualquer contribuição é bem-vinda e revisada se for feita no repositório pú
 
 ## Informações adicionais
 
-Consulte o [Guia do colaborador do Adobe Docs](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction) para obter mais detalhes sobre como usar a plataforma de criação do GitHub.
+Consulte o [Guia do colaborador do Adobe Docs](https://experienceleague.adobe.com/pt-br/docs/contributor/contributor-guide/introduction) para obter mais detalhes sobre como usar a plataforma de criação do GitHub.
