@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 79f3b9cb227ccb5d0267952af023ad22f7e63655
 workflow-type: tm+mt
 source-wordcount: '1222'
-ht-degree: 93%
+ht-degree: 96%
 ---
 # [!DNL Experience Manager] Roteiro de versões {#aem-releases-roadmap}
 
@@ -42,7 +42,7 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Versão de manutenção [27673](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27673) | Atualização automática | 17 a 19 de agosto de 2026 | Atualizado |
 | Versão de recursos [2026.8.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-8-0) | Ativação do recurso | 27 de agosto de 2026 | Ativado |
 | Versão de manutenção [27830](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-9-0#release-27830) | Atualização automática | 31 de agosto a 2 de setembro de 2026 | Atualizado |
-| Versão do Recurso [2026.9.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Ativação do recurso | 24 de setembro de 2026 | Ativado |
+| Versão do recurso [2026.9.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Ativação do recurso | 24 de setembro de 2026 | Ativado |
 | Versão de manutenção [28386](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 28 a 30 de setembro de 2026 | Atualizado |
 
 ### Próximas versões do [!DNL Cloud Service] {#upcoming}

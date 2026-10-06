@@ -4,9 +4,9 @@ description: Conheça todas as versões do AEM Forms e pacotes correspondentes.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 9c5c24d80196ce94e791338bc09e3751edba6997
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '16723'
-ht-degree: 98%
+ht-degree: 100%
 ---
 # Versões do AEM [!DNL Forms] {#aem-forms-releases}
 
@@ -73,26 +73,26 @@ Este artigo fornece informações para:
             </a>
           </li>
         </ul>
-        <strong style="display:block; margin:10px 0;">AEM Forms 6.5 LTS Service Pack 3 em Instaladores JEE</strong>
+        <strong style="display:block; margin:10px 0;">Pacote de serviços 3 do AEM Forms 6.5 LTS nos instaladores JEE</strong>
         <ul>
           <li>
-            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">
-              Instalador do AEM Forms 6.5 LTS Service Pack 3 para JBoss® e Microsoft Windows
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/pt-br/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">
+              Instalador do Pacote de serviços 3 do AEM Forms 6.5 LTS para JBoss® e Microsoft Windows
             </a>
           </li>
           <li>
-            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">
-              Instalador do AEM Forms 6.5 LTS Service Pack 3 para JBoss® e Linux®
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/pt-br/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">
+              Instalador do Pacote de serviços 3 do AEM Forms 6.5 LTS para JBoss® e Linux®
             </a>
           </li>
           <li>
-            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_win.zip">
-              Instalador do AEM Forms 6.5 LTS Service Pack 3 para WebSphere® e Microsoft Windows
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/pt-br/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_win.zip">
+              Instalador do Pacote de serviços 3 do AEM Forms 6.5 LTS para WebSphere® e Microsoft Windows
             </a>
           </li>
           <li>
-            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
-              Instalador do AEM Forms 6.5 LTS Service Pack 3 para WebSphere® e Linux®
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/pt-br/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
+              Instalador do Pacote de serviços 3 do AEM Forms 6.5 LTS para WebSphere® e Linux®
             </a>
           </li>
         </ul>
@@ -108,7 +108,7 @@ Este artigo fornece informações para:
         <ul>
           <li>
             <a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.1.238/aemfd-client-sdk-6.1.238.jar">
-              AEM Forms Client SDK
+              SDK do cliente do AEM Forms
             </a>
           </li>
         </ul>
