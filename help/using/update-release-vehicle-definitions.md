@@ -33,7 +33,7 @@ Este documento inclui detalhes sobre os vários tipos de versões do [!DNL Adobe
 
 >[!NOTE]
 >
->Para obter a programação dos lançamentos de atualizações do [!DNL Experience Manager], consulte o roteiro de lançamentos de atualizações do [[!DNL Experience Manager] ](update-releases-roadmap.md)
+>Para obter a programação dos lançamentos de atualizações do [!DNL Experience Manager], consulte o roteiro de lançamentos de atualizações do [[!DNL Experience Manager] &#x200B;](update-releases-roadmap.md)
 
 ## Versão completa {#full-release}
 
