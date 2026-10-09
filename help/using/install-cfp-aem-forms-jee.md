@@ -3,20 +3,37 @@ title: Instalação de pacotes de correções cumulativos no AEM Forms JEE
 description: Resumo das etapas para instalar e configurar o pacote de correções cumulativo (CFP) no AEM Forms JEE.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: ht
-source-wordcount: '932'
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
+workflow-type: tm+mt
+source-wordcount: '946'
 ht-degree: 100%
-
 ---
-
 # Instalação de Cumulative Fix Packs no AEM [!DNL  Forms] JEE{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
 ## Instalar o CFP no AEM 6.3 [!DNL Forms JEE] {#install-cfp-forms-6-3}
 
 Para instalar o pacote de correções cumulativo no AEM 6.3 [!DNL Forms JEE], execute a seguinte sequência de etapas.
 
-1. Para obter o instalador do AEM 6.3 [!DNL Forms JEE] para o CFP, entre em contato com o [suporte da Adobe](https://experienceleague.adobe.com/pt-br?support-solution=General&support-tab=home#support).
+1. Para obter o instalador do AEM 6.3 [!DNL Forms JEE] para o CFP, entre em contato com o [suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support).
 1. Execute o instalador do CFP e configure o AEM [!DNL Forms JEE] conforme descrito em [Instalar e configurar o AEM [!DNL Forms JEE]](#install-and-configure-aem-forms-jee).
 1. Instale o AEM CFP 6.3.3.x mais recente.
 1. Instale o pacote complementar do [!DNL Forms] para o AEM CFP [6.3.3.x](aem-forms-releases.md)
@@ -42,7 +59,7 @@ Se estiver usando o servidor AEM 6.3 [!DNL Forms JEE] com banco de dados Oracle,
 
 Para instalar o pacote de correções cumulativo no AEM 6.2 [!DNL Forms JEE], execute a seguinte sequência de etapas.
 
-1. Para obter o instalador do AEM 6.2 [!DNL Forms JEE] para o CFP, entre em contato com o [suporte da Adobe](https://experienceleague.adobe.com/pt-br?support-solution=General&support-tab=home#support).
+1. Para obter o instalador do AEM 6.2 [!DNL Forms JEE] para o CFP, entre em contato com o [suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support).
 1. Execute o instalador do CFP e configure o AEM [!DNL Forms JEE] conforme descrito em [Instalar e configurar o AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
 1. Instale o AEM Hotfix 12785 versão 7.0.
 1. Instale o AEM 6.2 Service Pack 1.
