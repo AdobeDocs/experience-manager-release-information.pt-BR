@@ -24,7 +24,7 @@ level_v2:
 source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
 workflow-type: tm+mt
 source-wordcount: '1222'
-ht-degree: 96%
+ht-degree: 100%
 ---
 # [!DNL Experience Manager] Roteiro de versões {#aem-releases-roadmap}
 
@@ -95,10 +95,10 @@ As atualizações de produtos do [!DNL Experience Manager] 6.5 LTS são fornecid
 | [Pacote de serviços 1](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65-lts/content/release-notes/release-notes) do [!DNL Experience Manager] 6.5 LTS | 6.5.LTS.SP1 | Pacote de serviços | 28 de agosto de 2025 | Ativado |
 | [!DNL Experience Manager] 6.5 LTS [Pacote de serviços 2](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP2 | Pacote de serviços | sexta-feira, 19 de fevereiro de 2026 | Ativado |
 | [!DNL Experience Manager] 6.5 LTS [Pacote de serviços 3](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP3 | Pacote de serviços | 20 de agosto de 2026 | Ativado |
-| [!DNL Experience Manager] 6.5 Service Pack 4 do LTS | 6.5.LTS.SP4 | Pacote de serviços | 18 de fevereiro de 2027 | Destino |
-| [!DNL Experience Manager] 6.5 Service Pack 5 do LTS | 6.5.LTS.SP5 | Pacote de serviços | 20 de maio de 2027 | Destino |
-| [!DNL Experience Manager] 6.5 Service Pack 6 do LTS | 6.5.LTS.SP6 | Pacote de serviços | 19 de agosto de 2027 | Destino |
-| [!DNL Experience Manager] 6.5 Service Pack 7 do LTS | 6.5.LTS.SP7 | Pacote de serviços | 18 de novembro de 2027 | Destino |
+| [!DNL Experience Manager] Pacote de serviços 4 do 6.5 LTS | 6.5.LTS.SP4 | Pacote de serviços | 18 de fevereiro de 2027 | Destino |
+| [!DNL Experience Manager] Pacote de serviços 5 do 6.5 LTS | 6.5.LTS.SP5 | Pacote de serviços | 20 de maio de 2027 | Destino |
+| [!DNL Experience Manager] Pacote de serviços 6 do 6.5 LTS | 6.5.LTS.SP6 | Pacote de serviços | 19 de agosto de 2027 | Destino |
+| [!DNL Experience Manager] Pacote de serviços 7 do 6.5 LTS | 6.5.LTS.SP7 | Pacote de serviços | 18 de novembro de 2027 | Destino |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
