@@ -21,10 +21,10 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
+source-git-commit: 81cdbe635093d2225a7d69b5123cb27af52dbda6
 workflow-type: tm+mt
-source-wordcount: '1222'
-ht-degree: 100%
+source-wordcount: '1268'
+ht-degree: 97%
 ---
 # [!DNL Experience Manager] Roteiro de versões {#aem-releases-roadmap}
 
@@ -62,16 +62,20 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Versão de recursos [2026.8.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-8-0) | Ativação do recurso | 27 de agosto de 2026 | Ativado |
 | Versão de manutenção [27830](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-9-0#release-27830) | Atualização automática | 31 de agosto a 2 de setembro de 2026 | Atualizado |
 | Versão do recurso [2026.9.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Ativação do recurso | 24 de setembro de 2026 | Ativado |
-| Versão de manutenção [28386](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 28 a 30 de setembro de 2026 | Atualizado |
+| Versão de manutenção [28386](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386) | Atualização automática | 28 a 30 de setembro de 2026 | Atualizado |
+| Versão de manutenção [28871](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 12 a 14 de outubro de 2026 | Atualizado |
 
 ### Próximas versões do [!DNL Cloud Service] {#upcoming}
 
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
-| Versão de manutenção | Atualização automática | 12 a 14 de outubro de 2026 | Destino |
-| Versão de manutenção | Atualização automática | 26 a 28 de outubro de 2026 | Destino |
+| Versão de manutenção | Atualização automática | 26-28 de outubro de 2026 | Destino |
 | Lançamento de recurso 2026.10.0 | Ativação do recurso | 29 de outubro de 2026 | Destino |
 | Versão de manutenção | Atualização automática | 9 a 11 de novembro de 2026 | Destino |
+| Versão do Recurso 2026.11.0 | Ativação do recurso | 19 de novembro de 2026 | Destino |
+| Versão de manutenção | Atualização automática | 7-9 de dezembro de 2026 | Destino |
+| Versão do Recurso 2026.12.0 | Ativação do recurso | 10 de dezembro de 2026 | Destino |
+
 
 >[!CAUTION]
 >
