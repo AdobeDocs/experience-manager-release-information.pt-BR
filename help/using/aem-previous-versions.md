@@ -54,7 +54,7 @@ Antes de baixar o pacote, determine quem usará o conteúdo. Essa decisão deter
 
 É necessária uma Adobe ID válida:
 
-* Se você não tiver uma Adobe ID, crie uma em https://www.adobe.com/
+* Se você não tiver uma Adobe ID, crie uma em https://www.adobe.com/br/
 Se precisar de ajuda para criar ou gerenciar sua Adobe ID, [consulte este guia](https://helpx.adobe.com/br/manage-account.html)
 
 | [!DNL Experience Manager] Versão | Link de distribuição de softwares |
