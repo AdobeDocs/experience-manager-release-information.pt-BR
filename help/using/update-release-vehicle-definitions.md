@@ -1,6 +1,6 @@
 ---
 title: Definições dos veículos de lançamentos de atualizações
-description: Este artigo detalha os vários tipos de versões do [!DNL Experience Manager], incluindo versões completas, pacotes de recursos e service packs.
+description: Este artigo detalha os diversos tipos de versões do [!DNL Experience Manager], incluindo versões completas, pacotes de recursos e pacotes de serviços.
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 product_v2:
@@ -23,9 +23,9 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '744'
-ht-degree: 97%
+ht-degree: 100%
 ---
 # Definições dos veículos de lançamentos de atualizações do [!DNL Experience Manager] {#update-release-vehicle-definitions}
 
@@ -33,7 +33,7 @@ Este documento inclui detalhes sobre os vários tipos de versões do [!DNL Adobe
 
 >[!NOTE]
 >
->Para obter a programação dos lançamentos de atualizações do [!DNL Experience Manager], consulte o roteiro de lançamentos de atualizações do [[!DNL Experience Manager] &#x200B;](update-releases-roadmap.md)
+>Para obter a programação dos lançamentos de atualizações do [!DNL Experience Manager], consulte o roteiro de lançamentos de atualizações do [[!DNL Experience Manager] ](update-releases-roadmap.md)
 
 ## Versão completa {#full-release}
 
@@ -68,7 +68,7 @@ Este documento inclui detalhes sobre os vários tipos de versões do [!DNL Adobe
 | Inclusões | CFP é um pacote de correções cumulativo com correções de todos os componentes ao longo de datas especificadas. Por exemplo, se um cliente aplicar o CFP3, então CFP3 = CFP1 + CFP2. |
 | Documentação | As notas de versão estão disponíveis no portal de documentação |
 | Cadência | Trimestral |
-| Disponibilidade e instalação | <ul> <li> Fornecido como um pacote </li> <li>  Disponível na Distribuição de software </li> <li>  Depende do lançamento do service pack mais recente </li> <li>  O CFP é autodependente. Os clientes não precisam se preocupar em encontrar/resolver dependências. O CFP deve ser instalado no pacote de serviços mais recente. </li> <li>  O CFP pode ser instalado como um pacote único, o que melhora a experiência do cliente.  </li> </ul> |
+| Disponibilidade e instalação | <ul> <li> Fornecido como um pacote </li> <li>  Disponível na Distribuição de software </li> <li>  Depende do lançamento do pacote de serviços mais recente </li> <li>  O CFP é autodependente. Os clientes não precisam se preocupar em encontrar/resolver dependências. O CFP deve ser instalado no pacote de serviços mais recente. </li> <li>  O CFP pode ser instalado como um pacote único, o que melhora a experiência do cliente.  </li> </ul> |
 | Nível de teste | Controle de qualidade validado no nível de integração e teste de regressão |
 
 ## Sobreposição {#overlay}
