@@ -23,9 +23,9 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '965'
-ht-degree: 97%
+ht-degree: 100%
 ---
 # Documentação das versões anteriores do [!DNL Adobe Experience Manager], CQ e CRX {#older-versions-aem-cq-crx}
 
@@ -54,7 +54,7 @@ Antes de baixar o pacote, determine quem usará o conteúdo. Essa decisão deter
 
 É necessária uma Adobe ID válida:
 
-* Se você não tiver uma Adobe ID, crie uma em https://www.adobe.com/br/
+* Se você não tiver uma Adobe ID, crie uma em https://www.adobe.com/
 Se precisar de ajuda para criar ou gerenciar sua Adobe ID, [consulte este guia](https://helpx.adobe.com/br/manage-account.html)
 
 | [!DNL Experience Manager] Versão | Link de distribuição de softwares |
@@ -112,8 +112,8 @@ Para instalar um pacote de documentação herdado, é necessário ter o [!DNL Ex
 
 1. Na caixa de diálogo de confirmação, selecione **[!UICONTROL Instalar]** novamente. A instalação leva alguns minutos.
 
-1. Em um navegador da web, abra a página da documentação. Usando o AEM 5.6.1 como exemplo, o URL seria: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
+1. Em um navegador da web, abra a página da documentação. Usando o exemplo do AEM 5.6.1, o URL seria: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
 ## Obtenha ajuda da [!DNL Experience Manager] comunidade {#get-help-from-aem-community}
 
-Em caso de dúvidas sobre o uso do Experience Manager, a Adobe recomenda que você [entre em contato com nossos especialistas da comunidade por meio dos  [!DNL Experience Manager] fóruns](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=pt).
+Em caso de dúvidas sobre o uso do Experience Manager, a Adobe recomenda que você [entre em contato com nossos especialistas da comunidade por meio dos  [!DNL Experience Manager] fóruns](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
