@@ -24,7 +24,7 @@ level_v2:
 source-git-commit: 64418defc203acc2f11b37997ba67006156a9af3
 workflow-type: tm+mt
 source-wordcount: '1329'
-ht-degree: 96%
+ht-degree: 98%
 ---
 # [!DNL Experience Manager] Roteiro de versões {#aem-releases-roadmap}
 
@@ -37,7 +37,7 @@ O [!DNL Adobe Experience Manager] fornece de forma consistente novos recursos e 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
 Os novos recursos do [!DNL Experience Manager] as a [!DNL Cloud Service] são fornecidos por meio de uma [ativação mensal de recursos](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current), enquanto as correções de erros e os aprimoramentos são fornecidos duas vezes por mês por meio das [versões de manutenção](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest).
-As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] estão planejadas da seguinte forma:
+As próximas versões do [!DNL Experience Manager] como [!DNL Cloud Service] estão planejadas da seguinte forma:
 
 >[!IMPORTANT]
 >
@@ -61,7 +61,7 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Versão de manutenção [27673](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27673) | Atualização automática | 17 a 19 de agosto de 2026 | Atualizado |
 | Versão de recursos [2026.8.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-8-0) | Ativação do recurso | 27 de agosto de 2026 | Ativado |
 | Versão de manutenção [27830](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-9-0#release-27830) | Atualização automática | 31 de agosto a 2 de setembro de 2026 | Atualizado |
-| Versão do recurso [2026.9.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-9-0) | Ativação do recurso | 24 de setembro de 2026 | Ativado |
+| Versão do recurso [2026.9.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-9-0) | Ativação do recurso | 24 de setembro de 2026 | Ativado |
 | Versão de manutenção [28386](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386) | Atualização automática | 28 a 30 de setembro de 2026 | Atualizado |
 | Versão de manutenção [28871](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28871) | Atualização automática | 12 a 14 de outubro de 2026 | Atualizado |
 | Versão de manutenção [29023](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 26 a 28 de outubro de 2026 | Atualizado |
@@ -130,7 +130,7 @@ As atualizações de produtos do [!DNL Experience Manager] 6.5 são fornecidas p
 >
 > 6.5.26.0 é a última versão do pacote de serviço compatível com o AEM 6.5.
 >
-> Cada Pacote de serviços recebe suporte por até 18 meses a partir de sua liberação, até 28 de fevereiro de 2027. Consulte [Produtos e períodos de suporte técnico](https://helpx.adobe.com/pt/support/programs/eol-matrix.html#cq). Se você tiver aprovado o suporte estendido para 6.5 até fevereiro de 2028, correções críticas de segurança só estarão disponíveis no último Service Pack 26 lançado.
+> Cada Pacote de serviços recebe suporte por até 18 meses a partir de sua liberação, até 28 de fevereiro de 2027. Consulte [Produtos e períodos de suporte técnico](https://helpx.adobe.com/pt/support/programs/eol-matrix.html#cq). Se você aprovou o suporte estendido para 6.5 até fevereiro de 2028, as correções críticas de segurança estarão disponíveis apenas no último Pacote de serviços lançado, o 26.
 
 >[!NOTE]
 >
