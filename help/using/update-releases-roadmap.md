@@ -24,7 +24,7 @@ level_v2:
 source-git-commit: 64418defc203acc2f11b37997ba67006156a9af3
 workflow-type: tm+mt
 source-wordcount: '1329'
-ht-degree: 96%
+ht-degree: 98%
 ---
 # [!DNL Experience Manager] Roteiro de versões {#aem-releases-roadmap}
 
@@ -37,7 +37,7 @@ O [!DNL Adobe Experience Manager] fornece de forma consistente novos recursos e 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
 Os novos recursos do [!DNL Experience Manager] as a [!DNL Cloud Service] são fornecidos por meio de uma [ativação mensal de recursos](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current), enquanto as correções de erros e os aprimoramentos são fornecidos duas vezes por mês por meio das [versões de manutenção](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest).
-As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] estão planejadas da seguinte forma:
+As próximas versões do [!DNL Experience Manager] como [!DNL Cloud Service] estão planejadas da seguinte forma:
 
 >[!IMPORTANT]
 >
@@ -130,7 +130,7 @@ As atualizações de produtos do [!DNL Experience Manager] 6.5 são fornecidas p
 >
 > 6.5.26.0 é a última versão do pacote de serviço compatível com o AEM 6.5.
 >
-> Cada Pacote de serviços recebe suporte por até 18 meses a partir de sua liberação, até 28 de fevereiro de 2027. Consulte [Produtos e períodos de suporte técnico](https://helpx.adobe.com/pt/support/programs/eol-matrix.html#cq). Se você tiver aprovado o suporte estendido para 6.5 até fevereiro de 2028, correções críticas de segurança só estarão disponíveis no último Service Pack 26 lançado.
+> Cada Pacote de serviços recebe suporte por até 18 meses a partir de sua liberação, até 28 de fevereiro de 2027. Consulte [Produtos e períodos de suporte técnico](https://helpx.adobe.com/pt/support/programs/eol-matrix.html#cq). Se você aprovou o suporte estendido para 6.5 até fevereiro de 2028, as correções críticas de segurança estarão disponíveis apenas no último Pacote de serviços lançado, o 26.
 
 >[!NOTE]
 >
