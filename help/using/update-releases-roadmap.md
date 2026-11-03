@@ -21,7 +21,7 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 64418defc203acc2f11b37997ba67006156a9af3
+source-git-commit: 4355a9fa437656779d89a35c7e7f3031d97537c4
 workflow-type: tm+mt
 source-wordcount: '1329'
 ht-degree: 98%
@@ -115,7 +115,7 @@ As atualizações de produtos do [!DNL Experience Manager] 6.5 são fornecidas p
 | [!DNL Experience Manager] 6.5 [Pacote de serviços 23](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) | 6.5.23.0 | Pacote de serviços | 22 de maio de 2025 | Ativado |
 | [!DNL Experience Manager] 6.5 [Pacote de serviços 24](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/service-pack/6-5-24) | 6.5.24.0 | Pacote de serviços | quinta-feira, 26 de novembro de 2025 | Ativado |
 | [!DNL Experience Manager] 6.5 [Pacote de serviços 25](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.25.0 | Pacote de serviços | 21 de maio de 2026 | Ativado |
-| Pacote de serviços 26 do [!DNL Experience Manager] 6.5 | 6.5.26.0 | Pacote de serviços | 19 de novembro de 2026 | Destino |
+| Pacote de serviços 26 do [!DNL Experience Manager] 6.5 | 6.5.26.0 | Pacote de serviços | 12 de novembro de 2026 | Destino |
 
 >[!AVAILABILITY]
 >
