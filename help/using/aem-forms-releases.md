@@ -22,10 +22,10 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: ht
-source-wordcount: '16723'
-ht-degree: 100%
+source-git-commit: 39a9a4644f61255c183c0a0ec732d9974b20818d
+workflow-type: tm+mt
+source-wordcount: '16896'
+ht-degree: 98%
 ---
 # Versões do AEM [!DNL Forms] {#aem-forms-releases}
 
@@ -112,6 +112,34 @@ Este artigo fornece informações para:
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/pt-br/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
               Instalador do Pacote de serviços 3 do AEM Forms 6.5 LTS para WebSphere® e Linux®
+            </a>
+          </li>
+        </ul>
+        <strong style="display:block; margin:10px 0;">Instaladores Completos de 64 Bits do Forms Designer (LTS 3)</strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/english/aemforms_designer_6_6_0_wwe_win.zip">
+              Instalador do idioma inglês
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/french/aemforms_designer_6_6_0_wwf_win.zip">
+              Instalador do idioma francês
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/german/aemforms_designer_6_6_0_d_win.zip">
+              Instalador do idioma alemão
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/japanese/aemforms_designer_6_6_0_j_win.zip">
+              Instalador do idioma japonês
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/spanish/aemforms_designer_6_6_0_wws_win.zip">
+              Instalador do idioma espanhol
             </a>
           </li>
         </ul>
